@@ -1,0 +1,74 @@
+name: WordOfTheDay
+options:
+  minimumXcodeGenVersion: 2.38.0
+settings:
+  base:
+    SWIFT_VERSION: 5.10
+    CURRENT_PROJECT_VERSION: 1
+    MARKETING_VERSION: 1.0
+configs:
+  Debug: debug
+  Release: release
+targets:
+  WordOfTheDayApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    configFiles:
+      Debug: Config/Secrets.xcconfig
+      Release: Config/Secrets.xcconfig
+    sources:
+      - path: WordOfTheDayApp
+      - path: Shared
+    info:
+      path: WordOfTheDayApp/Info.plist
+      properties:
+        CFBundleDisplayName: Word of the Day
+        UILaunchScreen: {}
+        GEMINI_API_KEY: $(GEMINI_API_KEY)
+        CFBundleURLTypes:
+          - CFBundleTypeRole: Editor
+            CFBundleURLName: wordoftheday
+            CFBundleURLSchemes:
+              - wordoftheday
+    entitlements:
+      path: WordOfTheDayApp/WordOfTheDayApp.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.miqdam.wordoftheday
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday
+        GEMINI_API_KEY: ""
+        CODE_SIGN_STYLE: Automatic
+        IPHONEOS_DEPLOYMENT_TARGET: 17.0
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: "1,2"
+        DEVELOPMENT_TEAM: ""
+    dependencies:
+      - target: WordOfTheDayWidgetExtension
+
+  WordOfTheDayWidgetExtension:
+    type: app-extension
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: WordOfTheDayWidget
+      - path: Shared
+    info:
+      path: WordOfTheDayWidget/Info.plist
+      properties:
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: WordOfTheDayWidget/WordOfTheDayWidget.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.miqdam.wordoftheday
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday.widget
+        CODE_SIGN_STYLE: Automatic
+        IPHONEOS_DEPLOYMENT_TARGET: 17.0
+        APPLICATION_EXTENSION_API_ONLY: YES
+        DEVELOPMENT_TEAM: ""

@@ -1,0 +1,279 @@
+# Everyday expressions
+# Format: word | meaning | part of speech | CEFR | usage tip
+#         then one "Turkish = English" example per indented line.
+
+merhaba | hello, hi | expression | A1 | Works in any situation, formal or casual. "Selam" is the more casual version.
+  Merhaba, ben Miqdam. Tanıştığıma memnun oldum. = Hello, I'm Miqdam. Nice to meet you.
+  Merhaba, bir çay alabilir miyim? = Hi, can I get a tea?
+  Sabah ofise girince herkese merhaba dedim. = When I walked into the office this morning, I said hello to everyone.
+  Annene benden merhaba söyle. = Say hello to your mother for me.
+
+günaydın | good morning | expression | A1 | Used until about noon. After that switch to "iyi günler".
+  Günaydın! Kahvaltı hazır. = Good morning! Breakfast is ready.
+  Günaydın, bugün nasılsın? = Good morning, how are you today?
+  Komşuma günaydın deyip işe çıktım. = I said good morning to my neighbour and left for work.
+  Grup sohbetine her sabah biri "günaydın" yazıyor. = Every morning someone writes "good morning" in the group chat.
+
+iyi akşamlar | good evening | expression | A1 | Said both when arriving and when leaving in the evening.
+  İyi akşamlar, iki kişilik masanız var mı? = Good evening, do you have a table for two?
+  İyi akşamlar, yarın görüşürüz. = Good evening, see you tomorrow.
+  Kasadaki çocuk bize iyi akşamlar diledi. = The boy at the checkout wished us a good evening.
+  Herkese iyi akşamlar, toplantıya başlayalım. = Good evening, everyone, let's start the meeting.
+
+iyi geceler | good night | expression | A1 | Only for saying goodbye at night or before sleeping, never as a greeting.
+  İyi geceler, yarın erken kalkacağım. = Good night, I'm getting up early tomorrow.
+  Çocuklara iyi geceler deyip ışığı kapattım. = I said good night to the kids and turned off the light.
+  Mesajına geç cevap verdim, iyi geceler. = I replied to your message late, good night.
+  İyi geceler, tatlı rüyalar! = Good night, sweet dreams!
+
+teşekkür ederim | thank you | expression | A1 | "Teşekkürler" is shorter and a bit more casual; "sağ ol" is very casual.
+  Yardımın için çok teşekkür ederim. = Thank you very much for your help.
+  Teşekkür ederim, çok naziksiniz. = Thank you, you're very kind.
+  Hediyen için teşekkür ederim, çok beğendim. = Thank you for your gift, I really liked it.
+  "Su ister misin?" "Hayır, teşekkür ederim." = "Do you want some water?" "No, thank you."
+
+rica ederim | you're welcome | expression | A1 | The standard reply to "teşekkür ederim". Also used to mean "please, go ahead".
+  "Teşekkürler!" "Rica ederim." = "Thanks!" "You're welcome."
+  Rica ederim, ne demek, her zaman. = You're welcome, don't mention it, anytime.
+  Rica ederim, önden buyurun. = Please, after you.
+  Sizden bir ricam var: kapıyı kapatır mısınız? = I have a favour to ask: could you close the door?
+
+lütfen | please | expression | A1 | Usually goes at the end of the request: "Bir çay, lütfen."
+  Bir çay, lütfen. = A tea, please.
+  Lütfen biraz daha yavaş konuşur musunuz? = Could you please speak a bit more slowly?
+  Lütfen kapıyı kapatmayı unutma. = Please don't forget to close the door.
+  Hesabı alabilir miyiz, lütfen? = Can we have the bill, please?
+
+kolay gelsin | may it be easy (said to someone working) | expression | A2 | Say it to anyone working: a cashier, a colleague, a builder. Very polite and very Turkish.
+  Kolay gelsin, ekmek kaldı mı? = Hope work's going easy. Is there any bread left?
+  Ofise girerken herkese "kolay gelsin" dedim. = Walking into the office I said "kolay gelsin" to everyone.
+  Kolay gelsin, size bir şey soracaktım. = Sorry to bother you while you work, I wanted to ask you something.
+  Taşınıyormuşsunuz, kolay gelsin! = I hear you're moving, hope it goes smoothly!
+
+geçmiş olsun | get well soon / sorry that happened | expression | A2 | Said for illness, accidents or any bad experience that has happened.
+  Hasta olduğunu duydum, geçmiş olsun. = I heard you were sick, get well soon.
+  Araban mı bozuldu? Geçmiş olsun. = Your car broke down? Sorry to hear that.
+  Ameliyat iyi geçti, herkese geçmiş olsun. = The surgery went well, wishing everyone the best.
+  Geçmiş olsun, bir şeye ihtiyacın olursa ara. = Get well soon, call me if you need anything.
+
+afiyet olsun | enjoy your meal | expression | A1 | Said before or after eating. The reply after a meal is often "teşekkürler" or "eline sağlık".
+  Yemekler geldi, afiyet olsun! = The food is here, enjoy your meal!
+  Garson tabakları bırakıp "afiyet olsun" dedi. = The waiter put down the plates and said "enjoy".
+  Afiyet olsun, beğendin mi? = Enjoy! Did you like it?
+  Kahvaltı hazır, afiyet olsun. = Breakfast is ready, enjoy.
+
+eline sağlık | well done (to someone who cooked or made something) | expression | A2 | Say it to whoever cooked your meal. Also for any handmade work.
+  Yemek harika olmuş, eline sağlık! = The food is amazing, thank you for cooking!
+  Eline sağlık anneciğim, çok lezzetliydi. = Thank you mum, it was delicious.
+  Tabloyu sen mi yaptın? Eline sağlık. = Did you paint this? Great work.
+  Çay için eline sağlık. = Thanks for making the tea.
+
+kusura bakma | sorry, excuse me (informal) | expression | A2 | Informal. Use "kusura bakmayın" with strangers or elders.
+  Kusura bakma, geç kaldım. = Sorry, I'm late.
+  Kusura bakmayın, sizi bekletmek istemedim. = I'm sorry, I didn't mean to keep you waiting.
+  Kusura bakma, dün aramayı unuttum. = Sorry, I forgot to call yesterday.
+  Kusura bakma ama bu konuda sana katılmıyorum. = Sorry, but I don't agree with you on this.
+
+özür dilerim | I apologize | expression | A1 | Stronger and more sincere than "pardon". Takes the ablative: "senden özür dilerim".
+  Özür dilerim, yanlış anladım. = I'm sorry, I misunderstood.
+  Senden özür dilerim, haklıydın. = I apologize to you, you were right.
+  Geç cevap verdiğim için özür dilerim. = I'm sorry for replying late.
+  Hatamızdan dolayı özür dileriz. = We apologize for our mistake.
+
+affedersiniz | excuse me | expression | A1 | Use it to get a stranger's attention or to get past someone.
+  Affedersiniz, metro nerede? = Excuse me, where is the metro?
+  Affedersiniz, bu koltuk boş mu? = Excuse me, is this seat free?
+  Affedersiniz, geçebilir miyim? = Excuse me, can I get past?
+  Affedersiniz, saat kaç? = Excuse me, what time is it?
+
+hoş geldin | welcome | expression | A1 | The reply is always "hoş bulduk". Use "hoş geldiniz" for more than one person or politely.
+  Hoş geldin, içeri gel! = Welcome, come in!
+  "Hoş geldiniz!" "Hoş bulduk." = "Welcome!" "Glad to be here."
+  Ekibimize hoş geldin. = Welcome to our team.
+  Tatilden hoş geldin, nasıl geçti? = Welcome back from your holiday, how did it go?
+
+görüşürüz | see you | expression | A1 | Add a time to be specific: "yarın görüşürüz", "sonra görüşürüz".
+  Yarın görüşürüz! = See you tomorrow!
+  Hadi, görüşürüz, kendine iyi bak. = Right, see you, take care of yourself.
+  Toplantıda görüşürüz. = See you at the meeting.
+  Sonra görüşürüz, şimdi çıkmam lazım. = See you later, I need to leave now.
+
+kendine iyi bak | take care of yourself | expression | A2 | A warm way to end a conversation or message.
+  Hoşça kal, kendine iyi bak. = Bye, take care of yourself.
+  Hastaysan dinlen, kendine iyi bak. = If you're sick, rest and take care of yourself.
+  Yolun açık olsun, kendine iyi bak! = Have a safe trip, take care!
+  Annem her telefonda "kendine iyi bak" der. = My mom says "take care of yourself" on every call.
+
+tamam | okay | expression | A1 | Also a question: "Tamam mı?" means "Okay?" or "Deal?".
+  Tamam, saat beşte buluşalım. = Okay, let's meet at five.
+  Yarın ararım, tamam mı? = I'll call tomorrow, okay?
+  Tamam, anladım. = Okay, I understand.
+  Her şey tamam, gidebiliriz. = Everything's ready, we can go.
+
+peki | alright, well then | expression | A1 | Used to accept something, or to start a new question: "Peki, sen?"
+  Peki, sen ne düşünüyorsun? = Well then, what do you think?
+  Peki, yarın konuşuruz. = Alright, we'll talk tomorrow.
+  Peki bu kaç para? = And how much is this?
+  "Gelemem." "Peki, sorun değil." = "I can't come." "Alright, no problem."
+
+evet | yes | expression | A1 | In casual speech people often say "he" or "hı hı" instead.
+  Evet, çok isterim. = Yes, I'd love to.
+  Evet, bu benim çantam. = Yes, this is my bag.
+  "Hazır mısın?" "Evet, çıkalım." = "Are you ready?" "Yes, let's go."
+  Evet, haklısın. = Yes, you're right.
+
+hayır | no | expression | A1 | For "there isn't" use "yok"; for "it's not" use "değil". "Hayır" is the direct answer "no".
+  Hayır, teşekkürler, tokum. = No thanks, I'm full.
+  Hayır, o benim değil. = No, that's not mine.
+  "Şeker ister misin?" "Hayır." = "Do you want sugar?" "No."
+  Hayır, bugün gelemem. = No, I can't come today.
+
+belki | maybe | adverb | A1 | Often paired with "de": "Belki de haklısın" - "Maybe you're right after all".
+  Belki yarın gelirim. = Maybe I'll come tomorrow.
+  Belki de haklısın. = Maybe you're right.
+  Belki bir kahve içeriz. = Maybe we'll have a coffee.
+  Hava güzel olursa belki denize gideriz. = If the weather's nice maybe we'll go to the sea.
+
+inşallah | hopefully, God willing | expression | A2 | Used by everyone, religious or not, to mean "hopefully".
+  İnşallah yarın hava güzel olur. = Hopefully the weather will be nice tomorrow.
+  Sınavı geçersin inşallah. = Hopefully you'll pass the exam.
+  "Görüşürüz!" "İnşallah." = "See you!" "Hopefully."
+  İnşallah her şey yolunda gider. = Hopefully everything goes well.
+
+maşallah | wonderful, bless (said admiring something) | expression | A2 | Said when praising something good, especially children or someone's success, to ward off envy.
+  Maşallah, çocuk ne kadar büyümüş! = Wow, bless him, how much the child has grown!
+  Maşallah, Türkçen çok iyi. = Wow, your Turkish is very good.
+  Yeni evin maşallah çok güzel. = Your new house is lovely, bless it.
+  Maşallah, işler iyi gidiyor. = Wonderful, things are going well.
+
+aynen | exactly | expression | A2 | Very common casual agreement, like "exactly" or "totally".
+  "Çok yorucu bir gündü." "Aynen." = "It was a really tiring day." "Totally."
+  Aynen öyle, ben de aynı şeyi düşünüyorum. = Exactly, I think the same thing.
+  Bana da aynen söyledi. = He told me exactly the same.
+  Sen nasıl yaptıysan ben de aynen yaptım. = I did it exactly the way you did.
+
+hadi | come on, let's | expression | A1 | Use it to hurry someone or suggest doing something together: "Hadi gidelim."
+  Hadi, geç kalıyoruz! = Come on, we're getting late!
+  Hadi bir kahve içelim. = Let's have a coffee.
+  Hadi ama, bir kere dene. = Oh come on, try it once.
+  Hadi görüşürüz! = Right then, see you!
+
+tebrikler | congratulations | expression | A1 | "Tebrik ederim" is slightly more formal.
+  Yeni işin için tebrikler! = Congratulations on your new job!
+  Sınavı geçmişsin, tebrikler! = You passed the exam, congratulations!
+  Tebrikler, çok güzel bir sunumdu. = Congratulations, it was a great presentation.
+  Bebeğiniz için tebrik ederim. = Congratulations on your baby.
+
+iyi şanslar | good luck | expression | A1 | For exams or interviews people also say "Başarılar!" (wishing success).
+  Mülakatında iyi şanslar! = Good luck in your interview!
+  Yarınki maç için iyi şanslar. = Good luck for tomorrow's match.
+  Sınavda başarılar, iyi şanslar! = All the best in the exam, good luck!
+  Yeni şehrinde iyi şanslar. = Good luck in your new city.
+
+sağ ol | thanks (casual) | expression | A1 | Very casual. "Sağ olun" is the polite or plural form.
+  Sağ ol kanka, çok yardımcı oldun. = Thanks mate, you really helped.
+  "Kapıyı tuttum." "Sağ ol." = "I held the door." "Thanks."
+  Sağ olun, çok naziksiniz. = Thank you, you're very kind.
+  Hediyen için sağ ol. = Thanks for the gift.
+
+nasılsın | how are you | expression | A1 | "Nasılsınız?" is polite or plural. A typical answer is "İyiyim, sen?"
+  Merhaba, nasılsın? = Hi, how are you?
+  "Nasılsın?" "İyiyim, sağ ol. Sen?" = "How are you?" "I'm good, thanks. You?"
+  Uzun zamandır görüşmedik, nasılsın? = We haven't seen each other for ages, how are you?
+  Annen nasıl? Ona selam söyle. = How is your mom? Say hi to her.
+
+ne haber | what's up | expression | A2 | Very casual greeting between friends. Reply: "İyilik, senden?"
+  Selam, ne haber? = Hey, what's up?
+  "Ne haber?" "İyilik, senden?" = "What's up?" "All good, you?"
+  Ne haber, işler nasıl gidiyor? = What's up, how's work going?
+  Uzun zamandır ses yok, ne haber? = Haven't heard from you in ages, what's new?
+
+anladım | I understand, got it | expression | A1 | Past tense of "anlamak". "Anlamadım" (I didn't understand) is just as useful.
+  Tamam, anladım, teşekkürler. = Okay, got it, thanks.
+  Anlamadım, tekrar söyler misin? = I didn't understand, can you say it again?
+  Şimdi ne demek istediğini anladım. = Now I understand what you mean.
+  Anladım ki bu iş kolay değil. = I realised this job isn't easy.
+
+bilmiyorum | I don't know | expression | A1 | From "bilmek". "Bilmem" is a shorter, more casual form.
+  Bilmiyorum, ona sormak lazım. = I don't know, we need to ask him.
+  Adresi bilmiyorum, bana gönderir misin? = I don't know the address, can you send it to me?
+  Ne yapacağımı bilmiyorum. = I don't know what to do.
+  Bilmiyorum, belki gelirim. = I don't know, maybe I'll come.
+
+bir dakika | one minute, wait a moment | expression | A1 | Used to ask someone to wait. "Bir saniye" works the same way.
+  Bir dakika, hemen geliyorum. = One minute, I'm coming right away.
+  Bir dakika bekler misiniz? = Could you wait a moment?
+  Bir dakika, bu doğru değil. = Wait a minute, this isn't right.
+  Bir dakikan var mı? Konuşalım. = Do you have a minute? Let's talk.
+
+önemli değil | it's nothing, no problem | expression | A1 | The standard reply to an apology. "Sorun değil" means the same.
+  "Kusura bakma." "Önemli değil." = "Sorry." "It's nothing."
+  Önemli değil, herkes hata yapar. = It's no big deal, everyone makes mistakes.
+  Geç kalman önemli değil, gel yeter. = It doesn't matter if you're late, just come.
+  Önemli değil, başka zaman yaparız. = No problem, we'll do it another time.
+
+olur | sure, okay / it's possible | expression | A1 | As an answer it means "sure". "Olmaz" means "no way" or "that won't work".
+  "Yarın gelir misin?" "Olur." = "Will you come tomorrow?" "Sure."
+  Olur, akşam konuşuruz. = Okay, we'll talk in the evening.
+  Böyle olmaz, başka bir yol bulalım. = This won't work, let's find another way.
+  Olur mu öyle şey? = How can that be?
+
+yazık | what a pity, poor thing | expression | A2 | Used for sympathy. "Çok yazık" means "such a shame".
+  Yazık, film çoktan başlamış. = What a pity, the film has already started.
+  Kedi yağmurda kalmış, yazık. = The cat got caught in the rain, poor thing.
+  Bu kadar yemeği atmak yazık olur. = It would be a shame to throw away this much food.
+  Yazık oldu, bileti kaçırdık. = It's a shame, we missed the ticket.
+
+keşke | I wish, if only | expression | A2 | Pairs with the conditional: "Keşke gelseydin" - "I wish you had come".
+  Keşke sen de gelseydin. = I wish you had come too.
+  Keşke daha çok vaktim olsa. = I wish I had more time.
+  Keşke o gün evde kalsaydım. = If only I had stayed home that day.
+  Keşke Türkçeyi daha önce öğrenmeye başlasaydım. = I wish I had started learning Turkish earlier.
+
+kesinlikle | definitely, absolutely | adverb | A2 | Strong agreement on its own, or strong negation with a negative verb.
+  Kesinlikle haklısın. = You're absolutely right.
+  Bu filmi kesinlikle izlemelisin. = You should definitely watch this film.
+  Kesinlikle geç kalmayacağım. = I definitely won't be late.
+  "Gelecek misin?" "Kesinlikle!" = "Are you coming?" "Absolutely!"
+
+maalesef | unfortunately | adverb | A2 | Polite way to give bad news, common in shops and offices.
+  Maalesef bu ürün kalmadı. = Unfortunately this product is out of stock.
+  Maalesef bugün gelemiyorum. = Unfortunately I can't come today.
+  Maalesef uçuşunuz iptal edildi. = Unfortunately your flight has been cancelled.
+  Maalesef söylediğin doğru. = Unfortunately what you said is true.
+
+neyse | anyway | expression | A2 | Use it to change the subject or wrap something up.
+  Neyse, sonra konuşuruz. = Anyway, we'll talk later.
+  Neyse ki yağmur durdu. = Luckily the rain stopped.
+  Neyse, önemli değil. = Anyway, it doesn't matter.
+  Uçağı kaçırdık, neyse ki bir sonraki bir saat sonra. = We missed the plane, luckily the next one is an hour later.
+
+başın sağ olsun | my condolences | expression | B1 | Said to someone who has lost a loved one. The reply is "dostlar sağ olsun".
+  Babanı kaybettiğini duydum, başın sağ olsun. = I heard you lost your father, my condolences.
+  Başınız sağ olsun, çok üzüldüm. = My condolences, I'm very sorry.
+  "Başın sağ olsun." "Dostlar sağ olsun." = "My condolences." "Thank you, and long life to friends."
+  Cenazede herkese "başınız sağ olsun" dedim. = At the funeral I offered my condolences to everyone.
+
+çok yaşa | bless you (after a sneeze) | expression | A2 | The reply is "sen de gör" - "may you see it too".
+  "Hapşu!" "Çok yaşa!" = "Achoo!" "Bless you!"
+  "Çok yaşa." "Sen de gör." = "Bless you." "You too."
+  Arka arkaya hapşırınca herkes "çok yaşa" dedi. = When I sneezed again and again, everyone said "bless you".
+  Çok yaşa, üşüttün mü? = Bless you, have you caught a cold?
+
+hayırlı olsun | congratulations (on something new) | expression | B1 | Said for a new home, car, job or business, wishing that it brings good.
+  Yeni evin hayırlı olsun! = Congratulations on your new home!
+  Arabayı almışsın, hayırlı olsun. = You bought the car, enjoy it!
+  Yeni işin hayırlı olsun, başarılar. = Congratulations on your new job, all the best.
+  Dükkânınız hayırlı olsun, bol kazançlar. = Congratulations on your shop, may business be good.
+
+iyi yolculuklar | have a good trip | expression | A2 | For trips. "Yolun açık olsun" is a warmer alternative.
+  İyi yolculuklar, varınca haber ver. = Have a good trip, let me know when you arrive.
+  Havalimanında bize iyi yolculuklar diledi. = At the airport she wished us a good trip.
+  Yolunuz açık olsun, iyi yolculuklar! = Safe travels, have a good trip!
+  İyi yolculuklar, kendine iyi bak. = Have a good trip, take care.
+
+bence | in my opinion, I think | adverb | A2 | The easiest way to give an opinion. "Sence?" asks for the other person's.
+  Bence bu fikir çok iyi. = I think this idea is very good.
+  Bence biraz beklemeliyiz. = In my opinion we should wait a bit.
+  Sence hangisi daha güzel? = Which one do you think is nicer?
+  Bence yarın yağmur yağacak. = I think it's going to rain tomorrow.

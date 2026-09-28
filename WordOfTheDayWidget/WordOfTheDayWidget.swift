@@ -3,153 +3,141 @@ import WidgetKit
 
 struct WordWidgetEntry: TimelineEntry {
     let date: Date
-    let word: WordEntry?
-    let selectedLanguage: LanguageOption
+    let word: Word?
 }
 
 struct WordWidgetProvider: TimelineProvider {
-    private let store = WordStore.shared
+    /// How many upcoming 07:00 rollovers to schedule ahead, so the word still
+    /// changes on time if WidgetKit delays the next reload.
+    private let daysAhead = 7
+    private let schedule = DailySchedule()
 
     func placeholder(in context: Context) -> WordWidgetEntry {
-        WordWidgetEntry(
-            date: Date(),
-            word: WordEntry(
-                word: "hola",
-                transliteration: nil,
-                englishMeaning: "hello",
-                exampleSentences: [
-                    ExampleSentence(sentence: "Hola, como estas?", englishTranslation: "Hello, how are you?"),
-                    ExampleSentence(sentence: "Ella dijo hola al entrar.", englishTranslation: "She said hello when entering."),
-                    ExampleSentence(sentence: "Siempre digo hola con una sonrisa.", englishTranslation: "I always say hello with a smile.")
-                ],
-                characteristics: WordCharacteristics(
-                    partOfSpeech: "Interjection",
-                    cefrLevel: "A1",
-                    register: "General",
-                    usageTip: "Use it as a friendly greeting."
-                ),
-                languageCode: LanguageOption.spanish.rawValue,
-                difficultyCode: LearningDifficulty.easy.rawValue,
-                fetchedAt: Date()
-            ),
-            selectedLanguage: .spanish
-        )
+        WordWidgetEntry(date: Date(), word: schedule.word(for: Date()))
     }
 
     func getSnapshot(in context: Context, completion: @escaping (WordWidgetEntry) -> Void) {
-        completion(makeEntry())
+        completion(WordWidgetEntry(date: Date(), word: schedule.word(for: Date())))
     }
 
     func getTimeline(in context: Context, completion: @escaping (Timeline<WordWidgetEntry>) -> Void) {
-        let entry = makeEntry()
-        let nextRefresh = Calendar.current.date(byAdding: .hour, value: 6, to: Date()) ?? Date().addingTimeInterval(21600)
-        completion(Timeline(entries: [entry], policy: .after(nextRefresh)))
-    }
+        let now = Date()
+        var entries = [WordWidgetEntry(date: now, word: schedule.word(for: now))]
 
-    private func makeEntry() -> WordWidgetEntry {
-        let configuredLanguage = store.selectedLanguage()
-        let storedWord = store.currentWord()
-        let languageToDisplay = storedWord?.language ?? configuredLanguage
+        var rollover = now
+        for _ in 0..<daysAhead {
+            rollover = schedule.nextRollover(after: rollover)
+            entries.append(WordWidgetEntry(date: rollover, word: schedule.word(for: rollover)))
+        }
 
-        return WordWidgetEntry(
-            date: Date(),
-            word: storedWord,
-            selectedLanguage: languageToDisplay
-        )
+        completion(Timeline(entries: entries, policy: .atEnd))
     }
 }
 
 struct WordWidgetEntryView: View {
-    var entry: WordWidgetProvider.Entry
     @Environment(\.widgetFamily) private var family
-
-    private var appURL: URL? {
-        URL(string: AppConfig.appDeepLink)
-    }
+    let entry: WordWidgetEntry
 
     var body: some View {
         Group {
-            switch family {
-            case .accessoryCircular:
-                circularView
-            default:
-                homeScreenView
+            if let word = entry.word {
+                content(for: word)
+                    .widgetURL(AppConfig.url(for: word))
+            } else {
+                Text("Open the app")
             }
         }
-        .widgetURL(appURL)
+        .containerBackground(for: .widget) {
+            if family == .systemSmall || family == .systemMedium {
+                Color(.systemBackground)
+            }
+        }
     }
 
     @ViewBuilder
-    private var homeScreenView: some View {
-        if let word = entry.word {
-            VStack(alignment: .leading, spacing: 6) {
-                Text(entry.selectedLanguage.displayName)
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
+    private func content(for word: Word) -> some View {
+        switch family {
+        case .accessoryInline:
+            Text("🇹🇷 \(word.word) · \(word.meaning)")
 
+        case .accessoryRectangular:
+            VStack(alignment: .leading, spacing: 0) {
+                Text("TÜRKÇE · WORD OF THE DAY")
+                    .font(.system(size: 10, weight: .semibold))
+                    .widgetAccentable()
+                    .opacity(0.8)
                 Text(word.word)
-                    .font(.title2)
-                    .fontWeight(.bold)
+                    .font(.headline)
+                    .minimumScaleFactor(0.7)
                     .lineLimit(1)
-
-                Text(word.englishMeaning)
+                Text(word.meaning)
                     .font(.caption)
                     .lineLimit(2)
             }
-            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
-            .containerBackground(.fill.tertiary, for: .widget)
-        } else {
-            VStack(alignment: .leading, spacing: 8) {
-                Text("No word yet")
-                    .font(.headline)
-                Text("Open the app and tap Get New Word.")
-                    .font(.caption)
+            .frame(maxWidth: .infinity, alignment: .leading)
+
+        case .systemMedium:
+            VStack(alignment: .leading, spacing: 6) {
+                header(for: word)
+                Text(word.word)
+                    .font(.system(.title, design: .rounded).weight(.bold))
+                    .minimumScaleFactor(0.6)
+                    .lineLimit(1)
+                Text(word.meaning)
+                    .font(.subheadline)
                     .foregroundStyle(.secondary)
-            }
-            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
-            .containerBackground(.fill.tertiary, for: .widget)
-        }
-    }
-
-    @ViewBuilder
-    private var circularView: some View {
-        ZStack {
-            AccessoryWidgetBackground()
-
-            if let word = entry.word {
-                VStack(spacing: 2) {
-                    Image(systemName: "character.book.closed.fill")
-                        .font(.caption2)
-                    Text(shortWord(word.word))
-                        .font(.caption2.weight(.semibold))
-                        .lineLimit(1)
-                        .minimumScaleFactor(0.6)
+                    .lineLimit(1)
+                if let example = word.examples.first {
+                    Text(example.tr)
+                        .font(.footnote)
+                        .italic()
+                        .lineLimit(2)
                 }
-            } else {
-                Image(systemName: "character.book.closed.fill")
-                    .font(.caption)
             }
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
+
+        default:
+            VStack(alignment: .leading, spacing: 6) {
+                header(for: word)
+                Spacer(minLength: 0)
+                Text(word.word)
+                    .font(.system(.title2, design: .rounded).weight(.bold))
+                    .minimumScaleFactor(0.5)
+                    .lineLimit(2)
+                Text(word.meaning)
+                    .font(.footnote)
+                    .foregroundStyle(.secondary)
+                    .lineLimit(3)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
         }
     }
 
-    private func shortWord(_ value: String) -> String {
-        let cleaned = value
-            .replacingOccurrences(of: " ", with: "")
-            .trimmingCharacters(in: .whitespacesAndNewlines)
-        return String(cleaned.prefix(6))
+    private func header(for word: Word) -> some View {
+        HStack {
+            Text("🇹🇷 Word of the Day")
+            Spacer()
+            Text(word.level)
+        }
+        .font(.caption2.weight(.semibold))
+        .foregroundStyle(.red)
     }
 }
 
 @main
 struct WordOfTheDayWidget: Widget {
-    let kind = AppConfig.widgetKind
-
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: WordWidgetProvider()) { entry in
+        StaticConfiguration(kind: AppConfig.widgetKind, provider: WordWidgetProvider()) { entry in
             WordWidgetEntryView(entry: entry)
         }
-        .configurationDisplayName("Word of the Day")
-        .description("Shows your daily word. Tap to open app.")
-        .supportedFamilies([.systemSmall, .systemMedium, .accessoryCircular])
+        .configurationDisplayName("Turkish Word of the Day")
+        .description("A new everyday Turkish word at 7 AM. Tap to see its meaning and example sentences.")
+        .supportedFamilies([.accessoryRectangular, .accessoryInline, .systemSmall, .systemMedium])
     }
+}
+
+#Preview(as: .accessoryRectangular) {
+    WordOfTheDayWidget()
+} timeline: {
+    WordWidgetEntry(date: .now, word: WordLibrary.all.first)
 }

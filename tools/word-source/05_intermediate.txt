@@ -1,0 +1,361 @@
+# Beneficial intermediate words: work, money, relationships, thinking
+
+sorumluluk | responsibility | noun | B1 | "Sorumlu" = responsible. "Sorumluluk almak" = to take responsibility.
+  Bu projenin sorumluluğu bende. = I'm responsible for this project.
+  Hatanın sorumluluğunu aldı. = He took responsibility for the mistake.
+  Çocuk sahibi olmak büyük bir sorumluluk. = Having children is a big responsibility.
+  Bu konudan kim sorumlu? = Who is responsible for this?
+
+iletişim | communication, contact | noun | B1 | "İletişim bilgileri" = contact details. "İletişime geçmek" = to get in touch.
+  İletişim bilgilerinizi alabilir miyim? = Can I get your contact details?
+  Ekip içinde iletişim çok önemli. = Communication within the team is very important.
+  Sizinle en kısa sürede iletişime geçeceğiz. = We'll get in touch with you as soon as possible.
+  İyi bir ilişkinin temeli açık iletişimdir. = The foundation of a good relationship is open communication.
+
+seçenek | option, choice | noun | B1 | "Başka seçenek yok" = There's no other option.
+  Başka seçeneğimiz yok. = We have no other option.
+  Menüde vejetaryen seçenekler var mı? = Are there vegetarian options on the menu?
+  İki seçenek arasında kaldım. = I'm torn between two options.
+  Bütün seçenekleri düşünelim. = Let's consider all the options.
+
+tercih | preference, choice | noun | B1 | "Tercih etmek" = to prefer: "Çayı kahveye tercih ederim."
+  Çayı kahveye tercih ederim. = I prefer tea to coffee.
+  Senin tercihin hangisi? = Which one do you prefer?
+  Pencere kenarını mı tercih edersiniz, koridoru mu? = Would you prefer a window seat or an aisle seat?
+  Bu tamamen senin tercihin. = This is entirely your choice.
+
+çözüm | solution | noun | B1 | "Çözmek" = to solve.
+  Bu soruna bir çözüm bulmalıyız. = We must find a solution to this problem.
+  Her sorunun bir çözümü vardır. = Every problem has a solution.
+  Pratik bir çözüm önerdi. = She suggested a practical solution.
+  Bulmacayı çözmem bir saat sürdü. = It took me an hour to solve the puzzle.
+
+hedef | goal, target | noun | B1 | "Hedef koymak" = to set a goal.
+  Bu yılki hedefim Türkçemi geliştirmek. = My goal this year is to improve my Turkish.
+  Hedefine odaklan. = Focus on your goal.
+  Satış hedefimize ulaştık. = We reached our sales target.
+  Küçük hedefler koymak motivasyonu artırır. = Setting small goals boosts motivation.
+
+deneyim | experience | noun | B1 | "Tecrübe" is a very common synonym, especially in job contexts.
+  Bu alanda beş yıllık deneyimim var. = I have five years of experience in this field.
+  Yurt dışında yaşamak harika bir deneyimdi. = Living abroad was a wonderful experience.
+  Deneyimli birini arıyoruz. = We're looking for someone experienced.
+  Tecrübeyle her şey kolaylaşıyor. = Everything gets easier with experience.
+
+başarı | success | noun | B1 | "Başarılar!" = Good luck! / All the best! "Başarılı" = successful.
+  Başarılar dilerim! = I wish you success!
+  Başarının sırrı düzenli çalışmak. = The secret of success is working consistently.
+  Çok başarılı bir sunum yaptın. = You gave a very successful presentation.
+  Bu başarı hepimizin. = This success belongs to all of us.
+
+toplantı | meeting | noun | A2 | "Toplantıdayım" = I'm in a meeting.
+  Şu an toplantıdayım, sonra ararım. = I'm in a meeting right now, I'll call later.
+  Toplantı yarına ertelendi. = The meeting has been postponed to tomorrow.
+  Toplantıda yeni projeyi konuştuk. = We discussed the new project in the meeting.
+  Online toplantının linkini gönderir misin? = Could you send the link to the online meeting?
+
+görev | duty, task, assignment | noun | B1 | "Görevli" = official, attendant.
+  Bu görevi cumaya kadar bitirmem lazım. = I need to finish this task by Friday.
+  Görevli beni doğru kapıya yönlendirdi. = The attendant directed me to the right gate.
+  Herkesin ekipte bir görevi var. = Everyone in the team has a role.
+  Yeni görevinde başarılar! = Good luck in your new role!
+
+öneri | suggestion | noun | B1 | "Önermek" = to suggest.
+  Bir önerim var: yarın erken başlayalım. = I have a suggestion: let's start early tomorrow.
+  Önerilerinizi bekliyoruz. = We look forward to your suggestions.
+  Güzel bir restoran önerir misin? = Can you suggest a nice restaurant?
+  Onun önerisi en mantıklısıydı. = Her suggestion was the most sensible.
+
+şikayet | complaint | noun | B1 | "Şikayet etmek" = to complain. "Şikayetçi olmak" = to file a complaint.
+  Sürekli hava durumundan şikayet ediyor. = He's always complaining about the weather.
+  Müşteri hizmetlerine şikayette bulundum. = I made a complaint to customer service.
+  Bir şikayetiniz var mı? = Do you have a complaint?
+  Şikayet etmek yerine çözüm arayalım. = Instead of complaining, let's look for a solution.
+
+beceri | skill | noun | B1 | "Yetenek" = talent. "Beceri" is a skill you develop.
+  İletişim becerilerimi geliştirmek istiyorum. = I want to improve my communication skills.
+  Yemek yapmak da bir beceri. = Cooking is a skill too.
+  Bu iş için hangi beceriler gerekiyor? = What skills are needed for this job?
+  El becerisi çok gelişmiş. = His manual skills are very good.
+
+dikkat | attention, care | noun | A2 | "Dikkat!" = Caution! "Dikkat etmek" = to pay attention.
+  Dikkat, basamak var! = Caution, there's a step!
+  Derste dikkatini topla. = Focus your attention in class.
+  Sağlığına dikkat et. = Take care of your health.
+  Dikkatimi çeken bir şey oldu. = Something caught my attention.
+
+denge | balance | noun | B1 | "İş-yaşam dengesi" = work-life balance.
+  İş ve özel hayat arasında denge kurmak zor. = It's hard to balance work and private life.
+  Dengemi kaybettim ve düştüm. = I lost my balance and fell.
+  Dengeli beslenmeye dikkat ediyorum. = I pay attention to eating a balanced diet.
+  Hayatta her şeyin dengesi önemli. = In life, balance in everything matters.
+
+egzersiz | exercise | noun | A2 | "Spor yapmak" is more common in speech for "to exercise".
+  Her sabah on dakika egzersiz yapıyorum. = I exercise for ten minutes every morning.
+  Doktor düzenli egzersiz yapmamı önerdi. = The doctor advised me to exercise regularly.
+  Bu egzersizi evde de yapabilirsin. = You can do this exercise at home too.
+  Egzersizden sonra kendimi çok iyi hissediyorum. = I feel great after exercising.
+
+bütçe | budget | noun | B1 | "Bütçeye uygun" = affordable, within budget.
+  Bu ay bütçemizi aştık. = We went over our budget this month.
+  Bütçeye uygun bir otel arıyoruz. = We're looking for an affordable hotel.
+  Tatil için ne kadar bütçe ayırdın? = How much budget did you set aside for the holiday?
+  Bütçe yapmak para biriktirmeye yardımcı oluyor. = Making a budget helps you save money.
+
+tasarruf | saving, economy | noun | B1 | "Tasarruf etmek" = to save (money, energy, time).
+  Elektrikten tasarruf etmek için ışıkları kapatıyorum. = I turn off the lights to save electricity.
+  Bu ay biraz tasarruf yapmalıyız. = We should save a bit this month.
+  Toplu taşıma kullanarak çok tasarruf ediyorum. = I save a lot by using public transport.
+  Zamandan tasarruf etmek için yemeği önceden hazırlıyorum. = I prepare meals in advance to save time.
+
+kira | rent | noun | A2 | "Kiracı" = tenant. "Ev sahibi" = landlord.
+  Kira ayda ne kadar? = How much is the rent per month?
+  Ev sahibi kirayı artırdı. = The landlord raised the rent.
+  Kirayı her ayın beşinde ödüyorum. = I pay the rent on the fifth of every month.
+  Kirada oturuyoruz, henüz ev almadık. = We're renting, we haven't bought a house yet.
+
+fatura | bill, invoice | noun | A2 | "Elektrik faturası" = electricity bill. "Faturalı hat" = contract phone line.
+  Bu ay elektrik faturası çok yüksek geldi. = The electricity bill came very high this month.
+  Faturaları otomatik ödemeye bağladım. = I set the bills up on automatic payment.
+  Fatura keser misiniz? = Could you issue an invoice?
+  Su faturasını ödemeyi unuttum. = I forgot to pay the water bill.
+
+başvuru | application | noun | B1 | "Başvurmak" = to apply: "İşe başvurdum."
+  Başvurumu dün gönderdim. = I sent my application yesterday.
+  Başvuru için son tarih ne zaman? = When is the deadline for applications?
+  Üç şirkete iş başvurusu yaptım. = I applied for jobs at three companies.
+  Başvurunuz değerlendiriliyor. = Your application is being reviewed.
+
+mülakat | interview (job) | noun | B1 | "İş görüşmesi" is a common synonym.
+  Yarın önemli bir mülakatım var. = I have an important interview tomorrow.
+  Mülakat nasıl geçti? = How did the interview go?
+  Mülakata hazırlanmak için çok çalıştım. = I worked hard to prepare for the interview.
+  Mülakatta bana deneyimlerimi sordular. = They asked me about my experience in the interview.
+
+süreç | process | noun | B1 | "Bu süreçte" = during this process/period.
+  Vize süreci ne kadar sürüyor? = How long does the visa process take?
+  Bu süreçte bana çok destek oldun. = You supported me a lot during this time.
+  Öğrenme süreci herkes için farklıdır. = The learning process is different for everyone.
+  Süreci biraz hızlandırabilir miyiz? = Can we speed up the process a bit?
+
+sonuç | result, outcome, conclusion | noun | B1 | "Sonuç olarak" = in conclusion, as a result.
+  Sınav sonuçları açıklandı mı? = Have the exam results been announced?
+  Sonuç olarak herkes memnun kaldı. = In the end everyone was satisfied.
+  Tahlil sonuçlarım normal çıktı. = My test results came back normal.
+  Emeklerimizin sonucunu aldık. = We got the result of our efforts.
+
+ihtiyaç | need | noun | B1 | "İhtiyacım var" = I need. "Gerek" is similar but more casual.
+  Yardıma ihtiyacın var mı? = Do you need help?
+  Biraz dinlenmeye ihtiyacım var. = I need some rest.
+  Bir ihtiyacın olursa haber ver. = Let me know if you need anything.
+  Temel ihtiyaçların fiyatları arttı. = Prices of basic necessities have gone up.
+
+takip | follow-up, tracking | noun | B1 | "Takip etmek" = to follow. "Kargo takip" = parcel tracking.
+  Kargomu takip edebilir miyim? = Can I track my parcel?
+  Seni sosyal medyada takip ediyorum. = I follow you on social media.
+  Bu konuyu takip edip sana dönerim. = I'll follow up on this and get back to you.
+  Haberleri düzenli takip ediyorum. = I follow the news regularly.
+
+beklenti | expectation | noun | B1 | "Beklentim yüksekti" = My expectations were high.
+  Film beklentilerimi karşılamadı. = The film didn't meet my expectations.
+  Beklentilerini düşük tut, daha az hayal kırıklığı yaşarsın. = Keep your expectations low and you'll be less disappointed.
+  Bu işten beklentin ne? = What do you expect from this job?
+  Sonuç beklentilerin üzerinde çıktı. = The result exceeded expectations.
+
+öncelik | priority | noun | B1 | "Öncelikle" = first of all.
+  Şu an önceliğim sağlığım. = My priority right now is my health.
+  Öncelikle hepinize teşekkür ederim. = First of all, thank you all.
+  Önceliklerimizi belirlememiz lazım. = We need to set our priorities.
+  Yaşlılara öncelik verilir. = Priority is given to the elderly.
+
+fark | difference | noun | A2 | "Fark etmez" = It doesn't matter. "Fark etmek" = to notice.
+  İkisi arasındaki fark ne? = What's the difference between the two?
+  Fark etmez, hangisi olursa. = It doesn't matter, whichever.
+  Saçını kestirdiğini fark ettim. = I noticed you got a haircut.
+  Küçük bir değişiklik büyük fark yaratır. = A small change makes a big difference.
+
+güven | trust, confidence | noun | B1 | "Güvenmek" = to trust. "Kendine güven" = self-confidence.
+  Sana güveniyorum. = I trust you.
+  Güven kolay kazanılmaz. = Trust isn't easily earned.
+  Kendine güvenin artmış. = Your self-confidence has grown.
+  Güvenilir bir tamirci biliyor musun? = Do you know a reliable repairman?
+
+saygı | respect | noun | B1 | "Saygılı" = respectful. "Saygılarımla" = Kind regards (in emails).
+  Herkese saygı göstermek lazım. = You have to show respect to everyone.
+  Büyüklerimize saygı duyarız. = We respect our elders.
+  Saygılarımla, Ahmet. = Kind regards, Ahmet.
+  Farklı fikirlere saygı duymak önemli. = It's important to respect different opinions.
+
+amaç | aim, purpose | noun | B1 | "Amacım ... -mek" = My aim is to ...
+  Bu projenin amacı ne? = What is the purpose of this project?
+  Amacım bir yıl içinde akıcı konuşmak. = My aim is to speak fluently within a year.
+  Amacımız müşteri memnuniyeti. = Our aim is customer satisfaction.
+  Amaçsız yaşamak zor. = It's hard to live without a purpose.
+
+çaba | effort | noun | B1 | "Çaba göstermek" = to make an effort.
+  Çok çaba gösterdin, tebrikler. = You made a lot of effort, well done.
+  Biraz çabayla her şey mümkün. = With a little effort anything is possible.
+  Bu iş büyük çaba gerektiriyor. = This job requires a lot of effort.
+  Çabaların boşa gitmedi. = Your efforts weren't in vain.
+
+durum | situation, condition, status | noun | B1 | "Durum ne?" = What's the situation? "Bu durumda" = in this case.
+  Durum nedir, her şey yolunda mı? = What's the situation, is everything okay?
+  Bu durumda ne yapmalıyız? = What should we do in this case?
+  Hastanın durumu iyiye gidiyor. = The patient's condition is improving.
+  Ekonomik durum herkesi etkiliyor. = The economic situation affects everyone.
+
+konu | topic, subject, matter | noun | A2 | "Konu dışı" = off-topic. "Bu konuda" = on this matter.
+  Bugünkü konumuz çevre kirliliği. = Our topic today is environmental pollution.
+  Bu konuda ne düşünüyorsun? = What do you think about this?
+  Konuyu değiştirme! = Don't change the subject!
+  Önemli bir konuyu konuşmamız lazım. = We need to talk about an important matter.
+
+sebep | reason, cause | noun | B1 | "Neden" and "niye" ask "why". "Sebep olmak" = to cause.
+  Geç kalmanın sebebi ne? = What's the reason for your being late?
+  Kazaya sebep olan sürücü kaçtı. = The driver who caused the accident fled.
+  Her şeyin bir sebebi var. = Everything happens for a reason.
+  Sebepsiz yere sinirlendi. = He got angry for no reason.
+
+görüş | opinion, view | noun | B1 | "Görüşüne göre" = in your view. "Görüşmek" = to meet up.
+  Bu konudaki görüşün nedir? = What's your view on this?
+  Görüşlerimizi paylaştık. = We shared our views.
+  Farklı görüşleri dinlemek önemli. = It's important to listen to different opinions.
+  Bence onun görüşü daha mantıklı. = I think his view is more reasonable.
+
+yaklaşım | approach | noun | B2 | "Yaklaşmak" = to approach, to get close.
+  Bu soruna farklı bir yaklaşım denemeliyiz. = We should try a different approach to this problem.
+  Öğretmenin öğrencilere yaklaşımı çok olumlu. = The teacher's approach to students is very positive.
+  Sınav yaklaşıyor, çalışmaya başla. = The exam is approaching, start studying.
+  Sakin yaklaşımı herkesi rahatlattı. = His calm approach put everyone at ease.
+
+varsayım | assumption | noun | B2 | "Varsaymak" = to assume. "Diyelim ki" is a casual "let's assume".
+  Bu sadece bir varsayım, kesin değil. = This is just an assumption, it's not certain.
+  Yanlış varsayımlarla karar verme. = Don't make decisions based on wrong assumptions.
+  Diyelim ki yarın yağmur yağdı, ne yaparız? = Let's say it rains tomorrow, what do we do?
+  Herkesin bildiğini varsaydım. = I assumed everyone knew.
+
+bağlam | context | noun | B2 | Useful when learning words: meaning depends on "bağlam".
+  Kelimenin anlamı bağlama göre değişiyor. = The word's meaning changes depending on the context.
+  Bu cümleyi bağlamından koparma. = Don't take this sentence out of context.
+  Bağlamı bilmeden yorum yapmak zor. = It's hard to comment without knowing the context.
+  Bu bağlamda ne demek istediğini anladım. = In this context I understood what you meant.
+
+eğilim | tendency, trend | noun | B2 | "Eğilimli olmak" = to tend to.
+  Stresliyken çok yeme eğilimindeyim. = I tend to eat a lot when I'm stressed.
+  Gençler arasında yeni bir eğilim var. = There's a new trend among young people.
+  Fiyatlar artma eğiliminde. = Prices are tending to rise.
+  İnsanlar alıştıkları şeyi seçme eğilimindedir. = People tend to choose what they're used to.
+
+farkındalık | awareness | noun | B2 | "Farkında olmak" = to be aware.
+  Çevre konusunda farkındalık artıyor. = Awareness of environmental issues is growing.
+  Hatamın farkındayım. = I'm aware of my mistake.
+  Bu kampanya farkındalık yaratmak için yapıldı. = This campaign was run to raise awareness.
+  Ne kadar yorulduğumun farkında değildim. = I didn't realise how tired I was.
+
+uzlaşma | compromise, agreement | noun | B2 | "Uzlaşmak" = to reach a compromise.
+  Sonunda bir uzlaşmaya vardık. = We finally reached a compromise.
+  İlişkilerde uzlaşma şart. = Compromise is essential in relationships.
+  İki taraf uzlaşamadı. = The two sides couldn't reach an agreement.
+  Biraz uzlaşmacı olursan sorun çözülür. = If you're a bit more willing to compromise, the problem will be solved.
+
+belirsizlik | uncertainty | noun | B2 | "Belirsiz" = uncertain, unclear.
+  Belirsizlik beni çok geriyor. = Uncertainty makes me very tense.
+  Toplantının saati hâlâ belirsiz. = The time of the meeting is still unclear.
+  Ekonomideki belirsizlik devam ediyor. = The uncertainty in the economy continues.
+  Belirsiz bir süre için erteledik. = We postponed it indefinitely.
+
+esneklik | flexibility | noun | B2 | "Esnek" = flexible. "Esnek çalışma" = flexible working.
+  Bu işin en güzel yanı esneklik. = The best thing about this job is the flexibility.
+  Esnek çalışma saatlerimiz var. = We have flexible working hours.
+  Planlarda biraz esneklik olmalı. = There should be some flexibility in the plans.
+  Programım esnek, sana göre ayarlarız. = My schedule is flexible, we'll arrange it to suit you.
+
+istikrar | stability, consistency | noun | B2 | "İstikrarlı" = stable, consistent.
+  Başarının sırrı istikrar. = The secret of success is consistency.
+  İstikrarlı bir iş arıyorum. = I'm looking for a stable job.
+  Her gün biraz çalışmak istikrar sağlar. = Studying a little every day builds consistency.
+  Fiyatlarda istikrar bekleniyor. = Prices are expected to stabilise.
+
+ilerleme | progress | noun | B1 | "İlerlemek" = to progress, to move forward.
+  Türkçende büyük ilerleme var! = Your Turkish has made great progress!
+  Proje yavaş ama emin adımlarla ilerliyor. = The project is progressing slowly but surely.
+  Her hafta ilerlememi not ediyorum. = I note my progress every week.
+  Biraz ilerleyince sağda göreceksiniz. = Go on a bit further and you'll see it on the right.
+
+önlem | precaution, measure | noun | B2 | "Önlem almak" = to take precautions.
+  Kışa karşı önlem aldık. = We took precautions against winter.
+  Güvenlik önlemleri artırıldı. = Security measures have been increased.
+  Önlem almak tedavi etmekten kolaydır. = Prevention is easier than cure.
+  Hastalanmamak için gerekli önlemleri al. = Take the necessary precautions so you don't get sick.
+
+kararlılık | determination | noun | B2 | "Kararlı" = determined.
+  Kararlılığın sayesinde başardın. = You succeeded thanks to your determination.
+  Sigarayı bırakmakta çok kararlıyım. = I'm very determined to quit smoking.
+  Onun kararlılığına hayranım. = I admire her determination.
+  Kararlılıkla çalışırsan hedefine ulaşırsın. = If you work with determination you'll reach your goal.
+
+kanıt | evidence, proof | noun | B2 | "Kanıtlamak" = to prove.
+  Bunun bir kanıtı var mı? = Is there any proof of this?
+  Söylediklerini kanıtlaman lazım. = You need to prove what you're saying.
+  Polis yeni kanıtlar buldu. = The police found new evidence.
+  Başarısı emeğinin kanıtı. = Her success is proof of her hard work.
+
+itiraz | objection | noun | B2 | "İtiraz etmek" = to object. "İtirazım yok" = I have no objection.
+  Bu plana itirazı olan var mı? = Does anyone object to this plan?
+  İtirazım yok, öyle yapalım. = I have no objection, let's do it that way.
+  Karara itiraz ettim. = I appealed against the decision.
+  Hiç itiraz etmeden kabul etti. = She accepted without any objection.
+
+yorum | comment, interpretation | noun | B1 | "Yorum yapmak" = to comment. "Yorumlamak" = to interpret.
+  Fotoğrafıma güzel bir yorum yazmış. = She left a nice comment on my photo.
+  Restoranın yorumlarını okudun mu? = Have you read the restaurant's reviews?
+  Bu konuda yorum yapmak istemiyorum. = I don't want to comment on this.
+  Herkes bu olayı farklı yorumluyor. = Everyone interprets this event differently.
+
+sezgi | intuition | noun | B2 | "İçgüdü" = instinct. "İçimden bir ses" = a voice inside me (a gut feeling).
+  Sezgilerime güveniyorum. = I trust my intuition.
+  İçimden bir ses bunun doğru olmadığını söylüyor. = Something tells me this isn't right.
+  Sezgilerin genelde doğru çıkıyor. = Your intuitions usually turn out to be right.
+  Kararı sezgilerime göre verdim. = I made the decision based on my intuition.
+
+gerekçe | justification, reason | noun | B2 | More formal than "sebep". Common in work and official contexts.
+  Kararın gerekçesini açıklar mısınız? = Could you explain the reasoning behind the decision?
+  Geç kalmak için geçerli bir gerekçen yok. = You have no valid excuse for being late.
+  Başvurunun reddedilme gerekçesi yazılmamış. = The reason for the application's rejection wasn't given.
+  Her öneriyi gerekçesiyle sunmalıyız. = We should present each proposal with its justification.
+
+işbirliği | cooperation, collaboration | noun | B2 | "İşbirliği yapmak" = to collaborate.
+  İşbirliğiniz için teşekkür ederiz. = Thank you for your cooperation.
+  İki şirket işbirliği yapmaya karar verdi. = The two companies decided to collaborate.
+  Bu proje ancak işbirliğiyle başarılı olur. = This project can only succeed through collaboration.
+  Komşularla işbirliği yapıp sokağı temizledik. = We teamed up with the neighbours and cleaned the street.
+
+yetenek | talent, ability | noun | B1 | "Yetenekli" = talented.
+  Müziğe çok yeteneği var. = She has a real talent for music.
+  Çok yetenekli bir aşçı. = He's a very talented cook.
+  Herkesin farklı yetenekleri vardır. = Everyone has different talents.
+  Yeteneğini boşa harcama. = Don't waste your talent.
+
+güvenlik | security, safety | noun | B1 | "Güvenli" = safe. "Güvenlik görevlisi" = security guard.
+  Güvenliğiniz için kemerlerinizi bağlayın. = For your safety, please fasten your seatbelts.
+  Güvenlik kontrolünden geçmemiz lazım. = We need to go through the security check.
+  Burası geceleri güvenli mi? = Is this place safe at night?
+  Güvenlik görevlisine sordum. = I asked the security guard.
+
+teslimat | delivery | noun | B1 | "Teslim etmek" = to deliver, to hand over. "Teslim tarihi" = deadline.
+  Teslimat ne zaman yapılacak? = When will the delivery be made?
+  Ücretsiz teslimat var mı? = Is there free delivery?
+  Projeyi zamanında teslim ettik. = We delivered the project on time.
+  Teslim tarihi yarın, acele etmemiz lazım. = The deadline is tomorrow, we need to hurry.
+
+iade | refund, return | noun | B1 | "İade etmek" = to return (an item).
+  Bu ürünü iade etmek istiyorum. = I'd like to return this item.
+  İade süresi on dört gün. = The return period is fourteen days.
+  Paranın iadesi ne kadar sürer? = How long does the refund take?
+  Fişi olmayan ürünlerde iade yapılmıyor. = Returns aren't accepted for items without a receipt.
+
+emek | effort, labour, hard work | noun | B1 | "Emeğine sağlık" = thanks for your hard work (said after someone made something).
+  Emeğine sağlık, harika olmuş! = Thanks for all your hard work, it's turned out great!
+  Bu işe çok emek verdim. = I put a lot of work into this.
+  Annemin emeği hiçbir şeyle ödenemez. = My mother's efforts can never be repaid.
+  Emek olmadan başarı olmaz. = There's no success without hard work.

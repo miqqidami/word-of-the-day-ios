@@ -1,0 +1,499 @@
+# Everyday nouns
+
+ev | home, house | noun | A1 | "Evde" = at home. "Eve" = (to) home. "Evden" = from home.
+  Bugün evde çalışıyorum. = I'm working from home today.
+  Eve gelince seni ararım. = I'll call you when I get home.
+  Yeni evimiz denize çok yakın. = Our new house is very close to the sea.
+  Kendi evin gibi rahat ol. = Make yourself at home.
+
+anahtar | key | noun | A1 | Also "the key to" something: "başarının anahtarı".
+  Anahtarlarımı nereye koydum? = Where did I put my keys?
+  Anahtarı kapıcıya bıraktım. = I left the key with the building manager.
+  Arabanın anahtarı sende mi? = Do you have the car key?
+  Düzenli çalışmak başarının anahtarı. = Working regularly is the key to success.
+
+cüzdan | wallet | noun | A1 | "Cüzdanımı unuttum" is a useful (if unfortunate) sentence.
+  Cüzdanımı evde unutmuşum. = I seem to have left my wallet at home.
+  Cüzdanında nakit var mı? = Do you have cash in your wallet?
+  Metroda cüzdanımı çaldırdım. = My wallet was stolen on the metro.
+  Yeni bir deri cüzdan aldım. = I bought a new leather wallet.
+
+telefon | phone | noun | A1 | "Telefon etmek" = to phone. "Telefonu açmak" = to answer.
+  Telefonumun şarjı bitmek üzere. = My phone battery is about to die.
+  Akşam sana telefon ederim. = I'll phone you in the evening.
+  Telefon numaranı alabilir miyim? = Can I have your phone number?
+  Yemekte telefona bakmamaya çalışıyorum. = I try not to look at my phone during meals.
+
+şarj | charge (battery) | noun | A2 | "Şarj aleti" = charger. "Şarj etmek" = to charge.
+  Şarj aletin var mı? = Do you have a charger?
+  Telefonumu şarj etmem lazım. = I need to charge my phone.
+  Şarjım yüzde beşe düştü. = My battery has dropped to five percent.
+  Bu kafede şarj edebileceğim bir priz var mı? = Is there a socket in this café where I can charge?
+
+su | water | noun | A1 | "Soda" = sparkling water. "Maden suyu" = mineral water.
+  Bir şişe su alabilir miyim? = Can I get a bottle of water?
+  Musluk suyu içilir mi? = Is the tap water drinkable?
+  Sıcak su yine gelmiyor. = The hot water isn't coming again.
+  Günde bol su içmeye çalışıyorum. = I try to drink plenty of water every day.
+
+ekmek | bread | noun | A1 | Bread is at every Turkish meal. "Taze ekmek" = fresh bread.
+  Fırından taze ekmek aldım. = I bought fresh bread from the bakery.
+  Bir ekmek lütfen. = One loaf of bread, please.
+  Ekmek bitmiş, alır mısın? = We're out of bread, could you buy some?
+  Türkiye'de her yemekte ekmek yenir. = In Turkey bread is eaten with every meal.
+
+çay | tea | noun | A1 | Tea is served in small tulip glasses. "Açık" = weak, "demli" = strong.
+  Bir çay alır mısın? = Would you like a tea?
+  Çayımı açık severim. = I like my tea weak.
+  Çay demlendi, gelin. = The tea has brewed, come on.
+  İş yerinde günde beş bardak çay içiyorum. = I drink five glasses of tea a day at work.
+
+kahve | coffee | noun | A1 | "Türk kahvesi" is ordered by sugar level: sade (plain), orta (medium), şekerli (sweet).
+  Bir Türk kahvesi, orta şekerli lütfen. = One Turkish coffee, medium sweet, please.
+  Sabahları kahve içmeden uyanamıyorum. = I can't wake up in the mornings without coffee.
+  Bir kahveye ne dersin? = How about a coffee?
+  Bir fincan kahvenin kırk yıl hatırı vardır. = A cup of coffee is remembered for forty years. (Kindness is never forgotten.)
+
+kahvaltı | breakfast | noun | A1 | Turkish breakfast is a big deal. "Kahvaltı yapmak" = to have breakfast.
+  Pazar günü birlikte kahvaltı yapalım. = Let's have breakfast together on Sunday.
+  Kahvaltıda ne yemek istersin? = What would you like to eat for breakfast?
+  Serpme kahvaltı çok bol oluyor. = A spread breakfast is always very generous.
+  Bugün kahvaltı yapmadan çıktım. = I left today without having breakfast.
+
+hesap | bill, account, calculation | noun | A1 | "Hesap lütfen" = The bill, please. Also a bank account or an online account.
+  Hesabı alabilir miyiz? = Can we have the bill?
+  Hesap benden. = The bill's on me.
+  Bankada yeni bir hesap açtım. = I opened a new account at the bank.
+  Hesabımın şifresini unuttum. = I forgot my account password.
+
+fiş | receipt / plug | noun | A2 | "Fişi alabilir miyim?" = Can I have the receipt? Also an electrical plug.
+  Fişinizi almak ister misiniz? = Would you like your receipt?
+  İade için fiş gerekiyor. = You need a receipt for a return.
+  Ütünün fişini çekmeyi unutma. = Don't forget to unplug the iron.
+  Fişleri bir kutuda saklıyorum. = I keep receipts in a box.
+
+para | money | noun | A1 | "Bozuk para" = coins or small change. "Para üstü" = change back.
+  Yanımda hiç para yok. = I don't have any money on me.
+  Para üstünü unuttunuz. = You forgot your change.
+  Bozuk paranız var mı? = Do you have any change?
+  Tatil için para biriktiriyorum. = I'm saving money for a holiday.
+
+fiyat | price | noun | A1 | "Fiyatı ne kadar?" = How much is it? Also "kaç para?".
+  Bunun fiyatı ne kadar? = What's the price of this?
+  Fiyatlar her ay artıyor. = Prices are going up every month.
+  Fiyatı biraz indirebilir misiniz? = Can you lower the price a bit?
+  Fiyat performans açısından çok iyi. = It's very good value for money.
+
+indirim | discount, sale | noun | A2 | "İndirimde" = on sale. "İndirim yapmak" = to give a discount.
+  Bu ürün indirimde mi? = Is this item on sale?
+  Öğrenci indirimi var mı? = Is there a student discount?
+  Kasım indirimlerini bekliyorum. = I'm waiting for the November sales.
+  Nakit öderseniz indirim yaparım. = I'll give you a discount if you pay cash.
+
+market | grocery store, supermarket | noun | A1 | For small corner shops people also say "bakkal".
+  Markete gidiyorum, bir şey lazım mı? = I'm going to the shop, do you need anything?
+  Köşedeki market gece yarısına kadar açık. = The shop on the corner is open until midnight.
+  Market alışverişini haftada bir yapıyoruz. = We do the grocery shopping once a week.
+  Bakkaldan bir ekmek alır mısın? = Could you get a loaf of bread from the corner shop?
+
+eczane | pharmacy | noun | A1 | "Nöbetçi eczane" = the pharmacy on night or weekend duty.
+  En yakın eczane nerede? = Where is the nearest pharmacy?
+  Nöbetçi eczane hangisi? = Which pharmacy is on duty?
+  Eczaneden baş ağrısı için ilaç aldım. = I got medicine for a headache from the pharmacy.
+  Eczacı bu kremi tavsiye etti. = The pharmacist recommended this cream.
+
+ilaç | medicine | noun | A1 | "İlaç almak/içmek" = to take medicine.
+  Bu ilacı günde iki kez içmelisin. = You should take this medicine twice a day.
+  Reçetesiz ilaç alabilir miyim? = Can I buy medicine without a prescription?
+  İlaçlarını aldın mı? = Did you take your medicine?
+  Gülmek en iyi ilaçtır. = Laughter is the best medicine.
+
+doktor | doctor | noun | A1 | "Doktora gitmek" = to go to the doctor.
+  Doktora gitmem lazım, boğazım ağrıyor. = I need to go to the doctor, my throat hurts.
+  Doktor birkaç gün dinlenmemi söyledi. = The doctor told me to rest for a few days.
+  Bu hastanede iyi bir doktor tanıyor musun? = Do you know a good doctor at this hospital?
+  Doktor bey, ateşim var. = Doctor, I have a fever.
+
+ağrı | pain, ache | noun | A2 | "Baş ağrısı" = headache. "Ağrımak" = to hurt: "Başım ağrıyor".
+  Başım çok ağrıyor. = I have a bad headache.
+  Sırt ağrım geçmiyor. = My back pain won't go away.
+  Ağrı kesici var mı? = Do you have a painkiller?
+  Diş ağrısı yüzünden uyuyamadım. = I couldn't sleep because of a toothache.
+
+randevu | appointment | noun | A2 | "Randevu almak" = to make an appointment.
+  Doktordan randevu almam lazım. = I need to make an appointment with the doctor.
+  Saat üçte bir randevum var. = I have an appointment at three.
+  Randevumu iptal etmek istiyorum. = I want to cancel my appointment.
+  Kuaförden yarın için randevu aldım. = I booked an appointment at the hairdresser for tomorrow.
+
+sabah | morning | noun | A1 | "Sabahları" = in the mornings (habitually).
+  Sabah erkenden yola çıktık. = We set off early in the morning.
+  Sabahları kahve içerim. = I drink coffee in the mornings.
+  Yarın sabah seni arayacağım. = I'll call you tomorrow morning.
+  Bu sabah hava çok güzeldi. = The weather was lovely this morning.
+
+akşam | evening | noun | A1 | "Akşam yemeği" = dinner. "Akşamları" = in the evenings.
+  Bu akşam ne yapıyorsun? = What are you doing this evening?
+  Akşam yemeğine ne yapalım? = What shall we make for dinner?
+  Akşamları yürüyüşe çıkarım. = I go for a walk in the evenings.
+  Akşama kadar ofisteyim. = I'm at the office until the evening.
+
+hafta sonu | weekend | noun | A1 | "Hafta sonları" = at weekends. "Hafta içi" = weekdays.
+  Hafta sonu ne yapıyorsun? = What are you doing at the weekend?
+  Hafta içi çok yoğunum. = I'm very busy on weekdays.
+  Hafta sonları geç kalkarım. = I get up late at weekends.
+  Bu hafta sonu şehir dışına çıkıyoruz. = We're going out of town this weekend.
+
+bugün | today | adverb | A1 | "Bugünlerde" = these days.
+  Bugün hava çok güzel. = The weather is lovely today.
+  Bugün ayın kaçı? = What's the date today?
+  Bugünlerde çok yoğunum. = I'm very busy these days.
+  Bugün işten erken çıktım. = I left work early today.
+
+yarın | tomorrow | adverb | A1 | "Yarın sabah" = tomorrow morning. "Öbür gün" = the day after tomorrow.
+  Yarın görüşürüz. = See you tomorrow.
+  Yarın sabah erken çıkacağım. = I'll leave early tomorrow morning.
+  Bunu yarına bırakalım. = Let's leave this until tomorrow.
+  Öbür gün tatile çıkıyoruz. = We're going on holiday the day after tomorrow.
+
+dün | yesterday | adverb | A1 | "Dün akşam" = last night. "Evvelsi gün" = the day before yesterday.
+  Dün akşam güzel bir film izledim. = I watched a good film last night.
+  Dün neredeydin? = Where were you yesterday?
+  Paketi dün gönderdim. = I sent the parcel yesterday.
+  Sanki dün gibi hatırlıyorum. = I remember it as if it were yesterday.
+
+şimdi | now | adverb | A1 | "Şimdilik" = for now. "Şu an" = right now.
+  Şimdi müsait değilim. = I'm not available now.
+  Şimdilik her şey yolunda. = Everything is fine for now.
+  Hemen şimdi çıkmamız lazım. = We need to leave right now.
+  Şimdi anladım! = Now I understand!
+
+sonra | later, after | adverb | A1 | "Yemekten sonra" = after the meal. "Sonra görüşürüz" = see you later.
+  Sonra konuşalım. = Let's talk later.
+  Yemekten sonra yürüyüşe çıkalım. = Let's go for a walk after the meal.
+  İşten sonra spor salonuna gidiyorum. = I go to the gym after work.
+  Önce ödevini yap, sonra oyna. = Do your homework first, then play.
+
+önce | before, first, ago | adverb | A1 | "İki gün önce" = two days ago. "Yemekten önce" = before the meal.
+  İki gün önce geldim. = I arrived two days ago.
+  Yemekten önce ellerini yıka. = Wash your hands before the meal.
+  Önce ben gideyim, sonra sen gel. = Let me go first, then you come.
+  Daha önce hiç Türkiye'de bulundun mu? = Have you ever been to Turkey before?
+
+saat | hour, time, clock, watch | noun | A1 | "Saat kaç?" = What time is it? "Saat kaçta?" = At what time?
+  Saat kaç? = What time is it?
+  Film saat kaçta başlıyor? = What time does the film start?
+  İki saattir bekliyorum. = I've been waiting for two hours.
+  Babam bana bir saat hediye etti. = My dad gave me a watch as a present.
+
+zaman | time | noun | A1 | "Ne zaman?" = When? "Zamanım yok" = I don't have time.
+  Ne zaman geliyorsun? = When are you coming?
+  Bugün hiç zamanım yok. = I have no time at all today.
+  Seninle zaman geçirmek çok güzel. = It's lovely spending time with you.
+  Zaman çok çabuk geçiyor. = Time passes very quickly.
+
+arkadaş | friend | noun | A1 | "Ev arkadaşı" = flatmate. "İş arkadaşı" = colleague.
+  O benim en iyi arkadaşım. = He is my best friend.
+  İş arkadaşlarımla öğle yemeğine çıktık. = I went out to lunch with my colleagues.
+  Ev arkadaşım çok düzenli. = My flatmate is very tidy.
+  Yeni arkadaşlar edinmek istiyorum. = I want to make new friends.
+
+aile | family | noun | A1 | "Ailece" = as a family.
+  Hafta sonunu ailemle geçirdim. = I spent the weekend with my family.
+  Kalabalık bir ailemiz var. = We have a big family.
+  Aileni çok özledin mi? = Do you miss your family a lot?
+  Bayramda bütün aile bir araya geldi. = The whole family got together for the holiday.
+
+anne | mother | noun | A1 | "Annemler" = my mom and family (my parents' home).
+  Annem çok güzel yemek yapar. = My mom cooks really well.
+  Hafta sonu annemlere gidiyorum. = I'm going to my parents' place at the weekend.
+  Anneler Günün kutlu olsun! = Happy Mother's Day!
+  Annenle babana selam söyle. = Say hello to your mom and dad.
+
+baba | father | noun | A1 | "Babaanne" = paternal grandmother. "Anneanne" = maternal grandmother.
+  Babam emekli bir öğretmen. = My father is a retired teacher.
+  Babamla her pazar balığa çıkarız. = My dad and I go fishing every Sunday.
+  Babaannem bize çok güzel masallar anlatırdı. = My grandmother used to tell us lovely stories.
+  Babası gibi o da çok çalışkan. = Like his father, he is very hardworking.
+
+kardeş | sibling, brother or sister | noun | A1 | "Erkek kardeş" = brother. "Kız kardeş" = sister. "Abla" = older sister, "abi" = older brother.
+  Kaç kardeşsiniz? = How many siblings are there in your family?
+  Bir erkek kardeşim ve bir ablam var. = I have a younger brother and an older sister.
+  Kardeşimle aynı odayı paylaşıyoruz. = My sibling and I share the same room.
+  Abim bu yaz evleniyor. = My older brother is getting married this summer.
+
+çocuk | child, kid | noun | A1 | Plural: "çocuklar". "Çocukluk" = childhood.
+  Kaç çocuğunuz var? = How many children do you have?
+  Çocuklar parkta oynuyor. = The kids are playing in the park.
+  Çocukken çok yaramazdım. = I was very naughty as a child.
+  Çocukluğum bu mahallede geçti. = I spent my childhood in this neighbourhood.
+
+komşu | neighbour | noun | A1 | Neighbours matter in Turkish culture: "Komşu komşunun külüne muhtaçtır."
+  Yeni komşularımız çok cana yakın. = Our new neighbours are very friendly.
+  Komşumuz bize börek getirdi. = Our neighbour brought us börek.
+  Tatildeyken komşu çiçeklerimizi suladı. = The neighbour watered our plants while we were on holiday.
+  Komşu komşunun külüne muhtaçtır. = Neighbours need each other, even for ashes. (Neighbours always need each other.)
+
+misafir | guest | noun | A2 | "Misafirperver" = hospitable. Turks take hospitality seriously.
+  Bu akşam misafirimiz var. = We have guests this evening.
+  Misafirler için sofra hazırladık. = We laid the table for the guests.
+  Türkler çok misafirperverdir. = Turks are very hospitable.
+  Buyurun, siz bizim misafirimizsiniz. = Please, you're our guest.
+
+iş | work, job, business | noun | A1 | "İşe gitmek" = to go to work. "İş yeri" = workplace. "İşim var" = I have something to do.
+  İşe saat dokuzda başlıyorum. = I start work at nine.
+  Yeni bir iş buldum! = I found a new job!
+  Bugün çok işim var. = I have a lot to do today.
+  İşler nasıl gidiyor? = How's work going?
+
+maaş | salary | noun | A2 | "Maaş günü" = payday. "Zam" = pay rise.
+  Maaşlar ayın on beşinde yatıyor. = Salaries are paid on the fifteenth of the month.
+  Bu yıl maaşıma zam geldi. = I got a pay rise this year.
+  Maaş gününü dört gözle bekliyorum. = I'm eagerly waiting for payday.
+  Maaşım kiraya zor yetiyor. = My salary barely covers the rent.
+
+izin | permission, leave, day off | noun | A2 | "İzinliyim" = I'm off (work). "Yıllık izin" = annual leave.
+  Yarın izinliyim. = I'm off tomorrow.
+  Müdürden bir günlük izin aldım. = I got a day off from the manager.
+  Yıllık iznimi yazın kullanacağım. = I'll use my annual leave in the summer.
+  İzninizle bir şey sormak istiyorum. = With your permission, I'd like to ask something.
+
+tatil | holiday, vacation | noun | A1 | "Tatile gitmek/çıkmak" = to go on holiday.
+  Bu yaz tatile nereye gidiyorsun? = Where are you going on holiday this summer?
+  Tatilde çok dinlendim. = I rested a lot on holiday.
+  Yarın resmi tatil, bankalar kapalı. = Tomorrow is a public holiday, the banks are closed.
+  Tatilin nasıl geçti? = How was your holiday?
+
+yol | road, way, route | noun | A1 | "Yolda" = on the way. "Yolun açık olsun" = have a safe trip.
+  Yoldayım, on dakikaya oradayım. = I'm on my way, I'll be there in ten minutes.
+  Havalimanına giden yol hangisi? = Which road goes to the airport?
+  Yol çalışması yüzünden trafik var. = There's traffic because of roadworks.
+  Bunun başka bir yolu olmalı. = There must be another way.
+
+otobüs | bus | noun | A1 | "Otobüs durağı" = bus stop. In Istanbul you pay with an "İstanbulkart".
+  Otobüs durağı nerede? = Where is the bus stop?
+  Bu otobüs Kadıköy'e gidiyor mu? = Does this bus go to Kadıköy?
+  Son otobüs saat kaçta? = What time is the last bus?
+  Otobüste yer bulamadım. = I couldn't find a seat on the bus.
+
+durak | stop (bus/tram) | noun | A2 | "Bir sonraki durak" = the next stop.
+  Kaç durak sonra ineceğim? = How many stops until I get off?
+  Bir sonraki durakta iniyorum. = I'm getting off at the next stop.
+  Durakta yirmi dakika bekledim. = I waited at the stop for twenty minutes.
+  Taksi durağı hemen köşede. = The taxi rank is right on the corner.
+
+bilet | ticket | noun | A1 | "Gidiş-dönüş bilet" = return ticket. "Tek yön" = one way.
+  İki bilet lütfen. = Two tickets, please.
+  Gidiş-dönüş bilet ne kadar? = How much is a return ticket?
+  Konser biletlerini internetten aldım. = I bought the concert tickets online.
+  Biletimi kaybettim, ne yapmalıyım? = I lost my ticket, what should I do?
+
+adres | address | noun | A1 | "Adresi bana at" = send me the address (casual).
+  Adresini bana mesaj atar mısın? = Could you text me your address?
+  Taksiciye adresi gösterdim. = I showed the address to the taxi driver.
+  Yeni adresim şu. = This is my new address.
+  Bu adres doğru mu? = Is this address correct?
+
+kat | floor, storey | noun | A1 | "Kaçıncı kat?" = Which floor? "Zemin kat" = ground floor.
+  Kaçıncı katta oturuyorsun? = Which floor do you live on?
+  Ofisimiz beşinci katta. = Our office is on the fifth floor.
+  Asansörle üçüncü kata çıkın. = Take the lift up to the third floor.
+  Tuvaletler zemin katta. = The toilets are on the ground floor.
+
+mutfak | kitchen, cuisine | noun | A1 | Also "cuisine": "Türk mutfağı" = Turkish cuisine.
+  Annem mutfakta yemek yapıyor. = My mom is cooking in the kitchen.
+  Türk mutfağı dünyanın en zengin mutfaklarından biri. = Turkish cuisine is one of the richest in the world.
+  Mutfağı toplamama yardım eder misin? = Will you help me tidy the kitchen?
+  Yeni evin mutfağı çok geniş. = The new house's kitchen is very spacious.
+
+hava | weather, air | noun | A1 | "Hava nasıl?" = What's the weather like? "Hava durumu" = weather forecast.
+  Bugün hava nasıl? = What's the weather like today?
+  Hava durumuna göre yarın yağmur yağacak. = According to the forecast it will rain tomorrow.
+  Biraz temiz hava almam lazım. = I need to get some fresh air.
+  Hava kararmadan eve dönelim. = Let's go home before it gets dark.
+
+yağmur | rain | noun | A1 | "Yağmur yağıyor" = It's raining.
+  Dışarıda yağmur yağıyor, şemsiye al. = It's raining outside, take an umbrella.
+  Yağmurdan sonra hava çok temiz oluyor. = The air gets very clean after rain.
+  Yağmura yakalandık, sırılsıklam olduk. = We got caught in the rain and got soaked.
+  Bu hafta sürekli yağmur var. = It's raining all the time this week.
+
+hediye | gift, present | noun | A1 | "Hediye etmek" = to give as a present.
+  Doğum günü için ne hediye alsam? = What should I buy for a birthday present?
+  Bu kitabı sana hediye olarak aldım. = I bought this book for you as a present.
+  Hediye paketi yapar mısınız? = Could you gift-wrap it?
+  En güzel hediye birlikte geçirilen zaman. = The best gift is time spent together.
+
+doğum günü | birthday | noun | A1 | "Doğum günün kutlu olsun!" = Happy birthday!
+  Doğum günün kutlu olsun! = Happy birthday!
+  Senin doğum günün ne zaman? = When is your birthday?
+  Doğum günü partisine davetlisin. = You're invited to the birthday party.
+  Doğum günümü unutmamışsın! = You didn't forget my birthday!
+
+bayram | religious or national holiday, festival | noun | A2 | "Bayramınız kutlu olsun" = Happy holidays. Big ones: Ramazan Bayramı, Kurban Bayramı.
+  Bayramınız kutlu olsun! = Happy holidays!
+  Bayramda büyüklerin elini öperiz. = At bayram we kiss the hands of our elders.
+  Bayram tatilinde memlekete gidiyoruz. = We're going to our hometown for the bayram holiday.
+  Çocuklar bayramda harçlık alır. = Children get pocket money at bayram.
+
+kıyafet | clothes, outfit | noun | A2 | "Elbise" is a dress. "Kıyafet" is clothes in general.
+  Yarın için ne kıyafet giyeceğime karar veremedim. = I couldn't decide what to wear tomorrow.
+  Kıyafetlerimi valize koydum. = I put my clothes in the suitcase.
+  Bu mağazada güzel kıyafetler var. = This shop has nice clothes.
+  Eski kıyafetleri bağışlayacağım. = I'm going to donate my old clothes.
+
+beden | size (clothing), body | noun | A2 | "Kaç beden giyiyorsunuz?" = What size do you wear? Sizes: S, M, L are read in English.
+  Bunun bir büyük bedeni var mı? = Do you have this in a larger size?
+  Kaç beden giyiyorsunuz? = What size do you wear?
+  Bu beden bana biraz dar geldi. = This size felt a bit tight on me.
+  Beden sağlığı kadar ruh sağlığı da önemli. = Mental health is as important as physical health.
+
+sıra | queue, turn, row | noun | A2 | "Sıra sende" = It's your turn. "Sıraya girmek" = to queue.
+  Sıra kimde? = Whose turn is it?
+  Sıra sende, zar at. = It's your turn, roll the dice.
+  Bankada uzun bir sıra vardı. = There was a long queue at the bank.
+  Lütfen sıraya girin. = Please get in line.
+
+sağlık | health | noun | A2 | "Sağlık olsun" = never mind (as long as we're healthy). "Sağlıklı" = healthy.
+  Sağlık her şeyden önemli. = Health is more important than anything.
+  Telefon kırıldı ama sağlık olsun. = The phone broke, but never mind, what matters is we're well.
+  Sağlıklı beslenmeye çalışıyorum. = I'm trying to eat healthily.
+  Sağlık sigortanız var mı? = Do you have health insurance?
+
+uyku | sleep | noun | A1 | "Uykum var" = I'm sleepy. "Uykusuz" = sleepless.
+  Çok uykum var, yatıyorum. = I'm very sleepy, I'm going to bed.
+  Dün gece uykusuz kaldım. = I didn't sleep last night.
+  İyi bir uyku her şeyi değiştirir. = A good sleep changes everything.
+  Öğleden sonra biraz uyku çekeyim. = Let me have a little nap in the afternoon.
+
+soru | question | noun | A1 | "Soru sormak" = to ask a question.
+  Bir sorum var. = I have a question.
+  Sorusu olan var mı? = Does anyone have a question?
+  Bu çok güzel bir soru. = That's a very good question.
+  Sınavda üç soruyu yapamadım. = I couldn't do three questions in the exam.
+
+sorun | problem | noun | A2 | "Sorun değil" = No problem. "Sorun ne?" = What's the problem?
+  Sorun değil, hallederiz. = No problem, we'll sort it out.
+  Arabada bir sorun var galiba. = I think there's a problem with the car.
+  Sorun ne, anlatır mısın? = What's the problem, can you tell me?
+  Bu sorunu birlikte çözelim. = Let's solve this problem together.
+
+fikir | idea, opinion | noun | A2 | "Hiçbir fikrim yok" = I have no idea. "Fikrin ne?" = What's your opinion?
+  Çok güzel bir fikir! = What a great idea!
+  Hiçbir fikrim yok. = I have no idea.
+  Bu konuda senin fikrin ne? = What's your opinion on this?
+  Fikrimi değiştirdim, gelmiyorum. = I changed my mind, I'm not coming.
+
+plan | plan | noun | A1 | "Planın var mı?" = Do you have plans?
+  Bu akşam bir planın var mı? = Do you have any plans tonight?
+  Planlar değişti, yarın gidiyoruz. = Plans have changed, we're going tomorrow.
+  Her şey plana göre gidiyor. = Everything is going according to plan.
+  Hafta sonu için bir plan yapalım. = Let's make a plan for the weekend.
+
+hata | mistake, error | noun | A2 | "Hata yapmak" = to make a mistake. "Benim hatam" = My fault.
+  Özür dilerim, benim hatam. = Sorry, my mistake.
+  Herkes hata yapar. = Everyone makes mistakes.
+  Hatalarımdan çok şey öğrendim. = I learned a lot from my mistakes.
+  Sistemde bir hata oluştu. = An error occurred in the system.
+
+alışkanlık | habit | noun | B1 | "Alışmak" = to get used to. "Kötü alışkanlık" = bad habit.
+  Her sabah yürümek iyi bir alışkanlık. = Walking every morning is a good habit.
+  Kötü alışkanlıklarımı bırakmaya çalışıyorum. = I'm trying to give up my bad habits.
+  Yeni şehre alışmak biraz zaman aldı. = Getting used to the new city took some time.
+  Kitap okumayı alışkanlık haline getirdim. = I made reading a habit.
+
+sabır | patience | noun | B1 | "Sabırlı" = patient. "Sabrın sonu selamettir" = patience brings good results.
+  Biraz sabır, neredeyse bitti. = A bit of patience, it's almost done.
+  Sabrım kalmadı. = I've run out of patience.
+  Çocuklarla çalışmak çok sabır ister. = Working with children needs a lot of patience.
+  Sabrın sonu selamettir. = Patience leads to salvation. (Good things come to those who wait.)
+
+fırsat | opportunity, chance | noun | B1 | "Fırsat bulmak" = to find the chance. "Fırsatı kaçırmak" = to miss the chance.
+  Bu fırsatı kaçırma. = Don't miss this opportunity.
+  Fırsat bulunca seni ararım. = I'll call you when I get the chance.
+  Yurt dışında çalışma fırsatı çıktı. = An opportunity to work abroad came up.
+  Bu kampanya kaçırılmayacak bir fırsat. = This offer is an opportunity not to be missed.
+
+şans | luck, chance | noun | A2 | "Şanslı" = lucky. "Şansına" = as luck would have it.
+  Bugün şansım yaver gitti. = Luck was on my side today.
+  Ne şanslısın! = How lucky you are!
+  Bir şans daha ver. = Give it one more chance.
+  Şans eseri eski bir arkadaşıma rastladım. = By chance I bumped into an old friend.
+
+keyif | pleasure, enjoyment, mood | noun | B1 | "Keyfin nasıl?" = How are you doing? "Keyif almak" = to enjoy.
+  Keyfin nasıl bugün? = How are you feeling today?
+  Bu kitabı okumaktan çok keyif aldım. = I really enjoyed reading this book.
+  Balkonda çay içmek büyük keyif. = Drinking tea on the balcony is a real pleasure.
+  Keyfim yok, evde kalacağım. = I'm not in the mood, I'll stay home.
+
+sohbet | chat, conversation | noun | A2 | "Sohbet etmek" = to chat. A central part of Turkish social life.
+  Dün akşam uzun uzun sohbet ettik. = We had a long chat last night.
+  Onunla sohbet etmek çok keyifli. = It's very pleasant to chat with her.
+  Çay eşliğinde güzel bir sohbet yaptık. = We had a nice chat over tea.
+  Grup sohbetinde herkes tatilden bahsediyor. = Everyone in the group chat is talking about the holiday.
+
+kelime | word | noun | A1 | "Kelime kelime" = word by word. "Sözcük" is a synonym.
+  Bugün yeni bir kelime öğrendim. = I learned a new word today.
+  Bu kelimenin anlamı ne? = What does this word mean?
+  Kelimeleri yüksek sesle tekrar ediyorum. = I repeat the words out loud.
+  Bu kelimeyi nasıl telaffuz ediyorsun? = How do you pronounce this word?
+
+anlam | meaning | noun | B1 | "Ne anlama geliyor?" = What does it mean? "Anlamlı" = meaningful.
+  Bu kelime ne anlama geliyor? = What does this word mean?
+  Hayatın anlamı nedir sence? = What do you think is the meaning of life?
+  Bu hediye benim için çok anlamlı. = This gift is very meaningful to me.
+  Anlamsız bir tartışma yapmayalım. = Let's not have a pointless argument.
+
+haber | news | noun | A2 | "Haber vermek" = to let someone know. "Haberin var mı?" = Did you hear?
+  Varınca bana haber ver. = Let me know when you arrive.
+  Güzel bir haberim var! = I have good news!
+  Akşam haberleri izledin mi? = Did you watch the evening news?
+  Bundan hiç haberim yoktu. = I had no idea about this.
+
+fotoğraf | photo | noun | A1 | "Fotoğraf çekmek" = to take a photo.
+  Bir fotoğrafımızı çeker misiniz? = Could you take a photo of us?
+  Tatil fotoğraflarını gördün mü? = Have you seen the holiday photos?
+  Burada fotoğraf çekmek yasak. = Taking photos is forbidden here.
+  Bu fotoğrafta çok güzel çıkmışsın. = You look great in this photo.
+
+şifre | password, PIN | noun | A2 | "Wi-fi şifresi ne?" = What's the Wi-Fi password? Essential in every café.
+  Wi-fi şifresi ne? = What's the Wi-Fi password?
+  Şifremi unuttum. = I forgot my password.
+  Kartın şifresini girin lütfen. = Please enter your card PIN.
+  Güçlü bir şifre seçmek önemli. = It's important to choose a strong password.
+
+mesaj | message | noun | A1 | "Mesaj atmak" = to text, to send a message.
+  Sana mesaj attım, gördün mü? = I sent you a message, did you see it?
+  Müsait olunca mesaj at. = Text me when you're free.
+  Mesajına geç cevap verdiğim için kusura bakma. = Sorry for replying late to your message.
+  Sesli mesaj bıraktım. = I left a voice message.
+
+komşuluk | neighbourliness, being neighbours | noun | B1 | Describes the relationship between neighbours, a valued tradition in Turkey.
+  Eskiden komşuluk ilişkileri çok daha güçlüydü. = Relationships between neighbours used to be much stronger.
+  Komşuluk için bir tabak tatlı gönderdik. = We sent over a plate of dessert as a neighbourly gesture.
+  Bu mahallede komşuluk hâlâ yaşıyor. = Neighbourliness is still alive in this neighbourhood.
+  İyi komşuluk her şeyden önemli. = Good neighbourly relations matter more than anything.
+
+mahalle | neighbourhood | noun | A2 | "Mahalle" is the local community; "mahalleli" means the locals.
+  Hangi mahallede oturuyorsun? = Which neighbourhood do you live in?
+  Mahallemizde her salı pazar kuruluyor. = There's a market in our neighbourhood every Tuesday.
+  Bu mahalle çok sakin ve güvenli. = This neighbourhood is very quiet and safe.
+  Mahalledeki fırının ekmeği çok lezzetli. = The bread from the bakery in our neighbourhood is delicious.
+
+pazar | Sunday / (street) market | noun | A1 | Two meanings: the day Sunday and an open-air market. "Pazarlık" = bargaining.
+  Pazar günü ne yapıyorsun? = What are you doing on Sunday?
+  Sebze meyveyi pazardan alıyoruz. = We buy fruit and vegetables at the market.
+  Pazarda biraz pazarlık yaptım. = I did a bit of bargaining at the market.
+  Pazartesi yine iş başı. = Back to work again on Monday.
+
+yemek tarifi | recipe | noun | B1 | "Tarif" alone also means directions: "Yolu tarif eder misiniz?"
+  Bu yemeğin tarifini verir misin? = Could you give me the recipe for this dish?
+  İnternette güzel bir yemek tarifi buldum. = I found a nice recipe online.
+  Annemin tarifleriyle yemek yapıyorum. = I cook with my mom's recipes.
+  Yolu tarif eder misiniz? = Could you give me directions?
+
+rüya | dream | noun | A2 | "Rüya görmek" = to dream. "Hayal" = dream in the sense of a wish.
+  Dün gece çok garip bir rüya gördüm. = I had a very strange dream last night.
+  Tatlı rüyalar! = Sweet dreams!
+  Sanki rüya gibi bir gündü. = It was like a day from a dream.
+  Hayalim bir gün kendi kafemi açmak. = My dream is to open my own café one day.

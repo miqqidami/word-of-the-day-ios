@@ -6,6 +6,8 @@ settings:
     SWIFT_VERSION: 5.10
     CURRENT_PROJECT_VERSION: 1
     MARKETING_VERSION: 1.0
+    DEVELOPMENT_TEAM: Y497323X27
+    CODE_SIGN_STYLE: Automatic
 configs:
   Debug: debug
   Release: release
@@ -14,37 +16,24 @@ targets:
     type: application
     platform: iOS
     deploymentTarget: "17.0"
-    configFiles:
-      Debug: Config/Secrets.xcconfig
-      Release: Config/Secrets.xcconfig
     sources:
       - path: WordOfTheDayApp
       - path: Shared
     info:
       path: WordOfTheDayApp/Info.plist
       properties:
-        CFBundleDisplayName: Word of the Day
+        CFBundleDisplayName: Kelime
         UILaunchScreen: {}
-        GEMINI_API_KEY: $(GEMINI_API_KEY)
         CFBundleURLTypes:
           - CFBundleTypeRole: Editor
             CFBundleURLName: wordoftheday
             CFBundleURLSchemes:
               - wordoftheday
-    entitlements:
-      path: WordOfTheDayApp/WordOfTheDayApp.entitlements
-      properties:
-        com.apple.security.application-groups:
-          - group.com.miqdam.wordoftheday
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday
-        GEMINI_API_KEY: ""
-        CODE_SIGN_STYLE: Automatic
-        IPHONEOS_DEPLOYMENT_TARGET: 17.0
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
-        TARGETED_DEVICE_FAMILY: "1,2"
-        DEVELOPMENT_TEAM: ""
+        TARGETED_DEVICE_FAMILY: "1"
     dependencies:
       - target: WordOfTheDayWidgetExtension
 
@@ -58,17 +47,10 @@ targets:
     info:
       path: WordOfTheDayWidget/Info.plist
       properties:
+        CFBundleDisplayName: Kelime
         NSExtension:
           NSExtensionPointIdentifier: com.apple.widgetkit-extension
-    entitlements:
-      path: WordOfTheDayWidget/WordOfTheDayWidget.entitlements
-      properties:
-        com.apple.security.application-groups:
-          - group.com.miqdam.wordoftheday
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday.widget
-        CODE_SIGN_STYLE: Automatic
-        IPHONEOS_DEPLOYMENT_TARGET: 17.0
+        PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday.widgetv2
         APPLICATION_EXTENSION_API_ONLY: YES
-        DEVELOPMENT_TEAM: ""

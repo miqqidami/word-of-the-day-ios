@@ -1,0 +1,565 @@
+# Core everyday verbs
+
+gitmek | to go | verb | A1 | Takes the dative (-e/-a): eve gitmek, okula gitmek. The t becomes d before a vowel: gidiyorum.
+  Yarın İstanbul'a gidiyorum. = I'm going to Istanbul tomorrow.
+  Her sabah işe otobüsle gidiyorum. = I go to work by bus every morning.
+  Hafta sonu sinemaya gidelim mi? = Shall we go to the cinema at the weekend?
+  Çok geç oldu, artık gitmem lazım. = It's got very late, I need to go now.
+
+gelmek | to come | verb | A1 | Takes the dative for the destination: "bize gel", "eve geldim".
+  Akşam bize gelir misin? = Will you come over to ours tonight?
+  Otobüs geldi, hadi binelim. = The bus has come, let's get on.
+  Tatilden dün geldim. = I came back from holiday yesterday.
+  Aklıma güzel bir fikir geldi. = A good idea came to my mind.
+
+yapmak | to do, to make | verb | A1 | One of the most used verbs. Many phrases: kahvaltı yapmak, spor yapmak, alışveriş yapmak.
+  Bu akşam ne yapıyorsun? = What are you doing tonight?
+  Annem harika bir kek yaptı. = My mom made a great cake.
+  Sabahları spor yapmayı seviyorum. = I like doing sport in the mornings.
+  Merak etme, ben hallederim, sen bir şey yapma. = Don't worry, I'll handle it, you don't do anything.
+
+olmak | to be, to become, to happen | verb | A2 | Used for becoming and happening: "Ne oldu?" (What happened?), "doktor olmak" (to become a doctor).
+  Ne oldu? Neden üzgünsün? = What happened? Why are you sad?
+  Büyüyünce doktor olmak istiyorum. = When I grow up I want to become a doctor.
+  Yarın evde olacağım. = I'll be at home tomorrow.
+  Bu iş olmaz, başka bir plan yapalım. = This won't work, let's make another plan.
+
+istemek | to want, to ask for | verb | A1 | With a verb: "gitmek istiyorum" (I want to go). Also used for ordering: "iki çay istiyoruz".
+  Bir bardak su istiyorum. = I want a glass of water.
+  Seninle konuşmak istiyorum. = I want to talk to you.
+  Garsondan hesabı istedik. = We asked the waiter for the bill.
+  Ne istersen onu yiyelim. = Let's eat whatever you want.
+
+bilmek | to know | verb | A1 | For "can do": "yüzmeyi biliyorum" (I know how to swim). "Bilmiyorum" = I don't know.
+  Onun numarasını biliyor musun? = Do you know his number?
+  Türkçe biraz biliyorum. = I know a little Turkish.
+  Araba sürmeyi bilmiyorum. = I don't know how to drive.
+  Bilseydim sana söylerdim. = If I had known, I would have told you.
+
+anlamak | to understand | verb | A1 | Takes the accusative: "seni anlıyorum". "Anlamadım" is extremely useful when learning.
+  Seni çok iyi anlıyorum. = I understand you very well.
+  Anlamadım, tekrar eder misin? = I didn't understand, could you repeat that?
+  Türkçe filmleri artık daha iyi anlıyorum. = I understand Turkish films better now.
+  Ne demek istediğini sonunda anladım. = I finally understood what you meant.
+
+konuşmak | to speak, to talk | verb | A1 | "biriyle konuşmak" = to talk with someone. "Türkçe konuşmak" = to speak Turkish.
+  Türkçe konuşabiliyor musun? = Can you speak Turkish?
+  Bu konuyu yarın konuşalım. = Let's talk about this tomorrow.
+  Telefonda annemle konuşuyordum. = I was talking to my mom on the phone.
+  Lütfen daha yavaş konuşun. = Please speak more slowly.
+
+söylemek | to say, to tell | verb | A1 | The thing said takes the accusative, the listener the dative: "ona gerçeği söyledim".
+  Bana doğruyu söyle. = Tell me the truth.
+  Ne söylediğini duyamadım. = I couldn't hear what you said.
+  Ona yarın geleceğimi söyledim. = I told him I would come tomorrow.
+  Bu şarkıyı hep birlikte söyleyelim. = Let's all sing this song together.
+
+sormak | to ask | verb | A1 | The person asked takes the dative: "öğretmene sordum".
+  Sana bir şey sorabilir miyim? = Can I ask you something?
+  Yolu bir polise sorduk. = We asked a police officer the way.
+  Fiyatı sordum, çok pahalıymış. = I asked the price, it turned out to be very expensive.
+  Bilmiyorsan sormaktan çekinme. = If you don't know, don't hesitate to ask.
+
+beklemek | to wait, to expect | verb | A1 | "seni bekliyorum" = I'm waiting for you. Also "to expect": "Bunu beklemiyordum."
+  Seni kapının önünde bekliyorum. = I'm waiting for you in front of the door.
+  Otobüsü yirmi dakika bekledik. = We waited twenty minutes for the bus.
+  Böyle bir sonuç beklemiyordum. = I wasn't expecting a result like this.
+  Biraz bekler misin, hemen geliyorum. = Could you wait a bit, I'm coming right away.
+
+bulmak | to find | verb | A1 | "Buldum!" = Found it! Also "to think/find something": "Bu filmi sıkıcı buldum."
+  Anahtarlarımı bulamıyorum. = I can't find my keys.
+  Sonunda iyi bir ev bulduk. = We finally found a good house.
+  Bu kitabı çok ilginç buldum. = I found this book very interesting.
+  Bir çözüm bulmamız lazım. = We need to find a solution.
+
+aramak | to look for / to call (phone) | verb | A1 | Two daily meanings: searching and phoning. "Seni ararım" = I'll call you.
+  Akşam seni ararım. = I'll call you in the evening.
+  Gözlüğümü arıyorum, gördün mü? = I'm looking for my glasses, have you seen them?
+  Yeni bir iş arıyorum. = I'm looking for a new job.
+  Annem aradı, beni merak etmiş. = My mom called, she was worried about me.
+
+almak | to take, to get, to buy | verb | A1 | Very flexible: "ekmek aldım" (I bought bread), "mesaj aldım" (I got a message).
+  Marketten ekmek aldım. = I bought bread from the market.
+  Bu ceketi almak istiyorum. = I want to buy this jacket.
+  Senden bir mesaj aldım ama açamadım. = I got a message from you but couldn't open it.
+  Şemsiyeni almayı unutma. = Don't forget to take your umbrella.
+
+vermek | to give | verb | A1 | Receiver takes the dative: "bana ver". Also in many phrases: karar vermek, cevap vermek, ara vermek.
+  Tuzu verir misin? = Could you pass the salt?
+  Kardeşime doğum günü için bir kitap verdim. = I gave my sibling a book for their birthday.
+  Bana biraz zaman ver. = Give me a little time.
+  Beş dakika ara verelim. = Let's take a five-minute break.
+
+sevmek | to love, to like | verb | A1 | Used for both liking and loving. "Seni seviyorum" = I love you.
+  Kahveyi sütlü seviyorum. = I like my coffee with milk.
+  Seni çok seviyorum. = I love you very much.
+  Kış mevsimini hiç sevmem. = I don't like winter at all.
+  Yeni komşularımızı çok sevdik. = We really like our new neighbours.
+
+beğenmek | to like (something you see or try) | verb | A2 | Used for liking a specific thing, like clothes, food or a post. Takes the accusative.
+  Bu elbiseyi çok beğendim. = I really like this dress.
+  Yemeği beğendin mi? = Did you like the food?
+  Fotoğrafını beğendim. = I liked your photo.
+  Film fena değildi ama çok beğenmedim. = The film wasn't bad but I didn't love it.
+
+çalışmak | to work, to study | verb | A1 | Means both working and studying: "sınava çalışmak" = to study for an exam.
+  Bir yazılım şirketinde çalışıyorum. = I work at a software company.
+  Yarınki sınava çalışmam lazım. = I need to study for tomorrow's exam.
+  Bu makine çalışmıyor. = This machine isn't working.
+  Bugün evden çalışıyorum. = I'm working from home today.
+
+dinlemek | to listen | verb | A1 | Takes the accusative: "müzik dinlemek", "beni dinle". Also "dinlenmek" = to rest.
+  Beni dinle, çok önemli. = Listen to me, it's very important.
+  Yolda podcast dinliyorum. = I listen to podcasts on the way.
+  En çok hangi şarkıyı dinliyorsun? = Which song are you listening to the most?
+  Doktorun söylediklerini dikkatle dinledim. = I listened carefully to what the doctor said.
+
+izlemek | to watch, to follow | verb | A1 | "dizi izlemek" = to watch a series. "Seyretmek" is a synonym.
+  Akşam bir film izleyelim mi? = Shall we watch a film tonight?
+  Maçı arkadaşlarla izledik. = We watched the match with friends.
+  Bu diziyi izledin mi? = Have you watched this series?
+  Birisi bizi izliyor gibi. = It feels like someone is watching us.
+
+okumak | to read, to study at school | verb | A1 | Also means studying a subject: "Üniversitede mühendislik okuyorum."
+  Yatmadan önce kitap okurum. = I read a book before going to bed.
+  Mesajını şimdi okudum. = I just read your message.
+  Üniversitede bilgisayar mühendisliği okuyorum. = I'm studying computer engineering at university.
+  Sözleşmeyi dikkatli oku. = Read the contract carefully.
+
+yazmak | to write | verb | A1 | "Bana yaz" = text me / write to me.
+  Adını buraya yaz lütfen. = Please write your name here.
+  Müsait olunca bana yaz. = Text me when you're free.
+  Her gün günlüğüme bir şeyler yazıyorum. = I write something in my diary every day.
+  Raporu yazmayı bitirdim. = I finished writing the report.
+
+yemek | to eat / food, meal | verb | A1 | Both the verb "to eat" and the noun "food". "Yemek yemek" = to eat a meal.
+  Öğlen ne yiyelim? = What shall we eat at lunch?
+  Akşam yemeği hazır. = Dinner is ready.
+  Bugün hiçbir şey yemedim. = I haven't eaten anything today.
+  Türk yemeklerini çok seviyorum. = I love Turkish food.
+
+içmek | to drink | verb | A1 | Also used for smoking: "sigara içmek". "Çay içelim" = let's have tea.
+  Bir çay içelim mi? = Shall we have a tea?
+  Günde en az iki litre su içmelisin. = You should drink at least two litres of water a day.
+  Kahve içtikten sonra uyuyamıyorum. = I can't sleep after drinking coffee.
+  İlacı yemekten sonra için. = Take the medicine after meals.
+
+uyumak | to sleep | verb | A1 | "Uyku" is the noun. "İyi uyudun mu?" = Did you sleep well?
+  Dün gece çok iyi uyudum. = I slept very well last night.
+  Bebek uyuyor, sessiz ol. = The baby is sleeping, be quiet.
+  Genelde on bir gibi uyurum. = I usually go to sleep around eleven.
+  Yolculukta biraz uyumaya çalış. = Try to sleep a bit on the journey.
+
+uyanmak | to wake up | verb | A1 | For waking someone else up use "uyandırmak".
+  Bu sabah altıda uyandım. = I woke up at six this morning.
+  Alarm çalmadan uyandım. = I woke up before the alarm went off.
+  Beni yedide uyandırır mısın? = Could you wake me up at seven?
+  Hafta sonu geç uyanmayı seviyorum. = I like waking up late at the weekend.
+
+kalkmak | to get up, to stand up, to depart | verb | A1 | Also for transport leaving: "Tren saat üçte kalkıyor."
+  Her sabah yedide kalkıyorum. = I get up at seven every morning.
+  Tren saat dokuzda kalkıyor. = The train departs at nine.
+  Yaşlı bir teyzeye yer vermek için kalktım. = I stood up to give my seat to an old lady.
+  Kalk, geç kalacağız! = Get up, we're going to be late!
+
+oturmak | to sit / to live (somewhere) | verb | A1 | Also means "to reside": "Kadıköy'de oturuyorum" = I live in Kadıköy.
+  Buyurun, oturun lütfen. = Please, have a seat.
+  Kadıköy'de oturuyorum. = I live in Kadıköy.
+  Bütün gün bilgisayar başında oturdum. = I sat at the computer all day.
+  Biraz oturup dinlenelim. = Let's sit down and rest a bit.
+
+yürümek | to walk | verb | A1 | "yürüyüş yapmak" = to go for a walk.
+  İşe yürüyerek gidiyorum. = I walk to work.
+  Akşam sahilde biraz yürüdük. = In the evening we walked by the seaside a bit.
+  Oraya yürüyerek ne kadar sürer? = How long does it take to walk there?
+  Günde on bin adım yürümeye çalışıyorum. = I try to walk ten thousand steps a day.
+
+koşmak | to run | verb | A1 | "Koşu" = a run.
+  Otobüse yetişmek için koştum. = I ran to catch the bus.
+  Her sabah parkta koşuyor. = She runs in the park every morning.
+  Koşma, yerler ıslak! = Don't run, the floor is wet!
+  Haftada üç gün koşmaya başladım. = I started running three days a week.
+
+başlamak | to start, to begin | verb | A1 | Takes the dative: "işe başlamak", "Türkçe öğrenmeye başladım".
+  Film saat sekizde başlıyor. = The film starts at eight.
+  Yeni işime pazartesi başlıyorum. = I'm starting my new job on Monday.
+  Türkçe öğrenmeye geçen yıl başladım. = I started learning Turkish last year.
+  Hadi, başlayalım! = Come on, let's start!
+
+bitirmek | to finish (something) | verb | A1 | Transitive: you finish something. "Bitmek" is when something itself ends or runs out.
+  Ödevimi bitirdim. = I've finished my homework.
+  Bu işi cumaya kadar bitirmemiz lazım. = We need to finish this job by Friday.
+  Yemeğini bitir, sonra çıkarız. = Finish your food, then we'll go out.
+  Kitabı iki günde bitirdim. = I finished the book in two days.
+
+bitmek | to end, to run out | verb | A2 | Intransitive: "Süt bitti" = We're out of milk. Very common at home and in shops.
+  Süt bitmiş, markete uğrar mısın? = We're out of milk, could you drop by the market?
+  Toplantı ne zaman bitiyor? = When does the meeting end?
+  Telefonumun şarjı bitti. = My phone's battery has died.
+  Tatil çok çabuk bitti. = The holiday ended so quickly.
+
+denemek | to try | verb | A1 | For clothes: "Bunu deneyebilir miyim?" = Can I try this on?
+  Bu gömleği deneyebilir miyim? = Can I try on this shirt?
+  Yeni bir tarif denedim, çok güzel oldu. = I tried a new recipe, it turned out great.
+  Bir kez daha dene, yapabilirsin. = Try once more, you can do it.
+  Hiç Türk kahvesi denedin mi? = Have you ever tried Turkish coffee?
+
+kullanmak | to use, to drive | verb | A2 | Also used for driving and medicine: "araba kullanmak", "ilaç kullanmak".
+  Bu uygulamayı nasıl kullanıyorsun? = How do you use this app?
+  Araba kullanmayı yeni öğrendim. = I've just learned to drive.
+  Günde iki kez bu ilacı kullanın. = Use this medicine twice a day.
+  Plastik poşet kullanmamaya çalışıyorum. = I try not to use plastic bags.
+
+düşünmek | to think | verb | A1 | "... hakkında düşünmek" = to think about. "Ne düşünüyorsun?" = What do you think?
+  Sen ne düşünüyorsun? = What do you think?
+  Bu konuyu biraz düşünmem lazım. = I need to think about this a bit.
+  Seni düşünüyordum, iyi misin? = I was thinking about you, are you okay?
+  Taşınmayı düşünüyoruz. = We're thinking of moving.
+
+hatırlamak | to remember | verb | A2 | Takes the accusative: "Onun adını hatırlamıyorum." "Hatırlatmak" = to remind.
+  Onun adını hatırlamıyorum. = I don't remember his name.
+  Bana yarın hatırlatır mısın? = Could you remind me tomorrow?
+  Çocukluğumu hep güzel hatırlarım. = I always remember my childhood fondly.
+  Beni hatırladın mı? Geçen yıl tanışmıştık. = Do you remember me? We met last year.
+
+unutmak | to forget | verb | A1 | "Unutma!" = Don't forget!
+  Anahtarlarımı evde unuttum. = I forgot my keys at home.
+  Toplantıyı unutma, saat üçte. = Don't forget the meeting, it's at three.
+  Onun doğum gününü unuttum. = I forgot her birthday.
+  Bu günü asla unutmayacağım. = I will never forget this day.
+
+görmek | to see | verb | A1 | "Görüşmek" = to meet up, to see each other.
+  Dün seni metroda gördüm. = I saw you on the metro yesterday.
+  Gözlüğüm olmadan iyi göremiyorum. = I can't see well without my glasses.
+  Bu filmi daha önce gördüm. = I've seen this film before.
+  Görüyorsun, her şey yolunda. = You see, everything's fine.
+
+bakmak | to look (at), to look after | verb | A1 | Takes the dative: "bana bak". Also "to take care of": "çocuğa bakmak".
+  Şuna bak, ne güzel! = Look at that, how lovely!
+  Bir bakar mısınız? = Excuse me, could you help me? (to a waiter or shop assistant)
+  Hafta sonu yeğenime bakıyorum. = I'm looking after my nephew this weekend.
+  Hemen internete bakayım. = Let me check online right away.
+
+açmak | to open, to turn on | verb | A1 | Also for devices and calls: "ışığı aç" (turn on the light), "telefonu aç" (answer the phone).
+  Pencereyi açar mısın? Çok sıcak. = Could you open the window? It's very hot.
+  Işığı açar mısın? = Could you turn on the light?
+  Aradım ama telefonu açmadı. = I called but he didn't answer the phone.
+  Bankada yeni bir hesap açtım. = I opened a new account at the bank.
+
+kapatmak | to close, to turn off, to hang up | verb | A1 | "Telefonu kapatmak" = to hang up or switch off the phone.
+  Çıkarken kapıyı kapat. = Close the door on your way out.
+  Televizyonu kapatır mısın? = Could you turn off the TV?
+  Sonra ararım, şimdi kapatmam lazım. = I'll call you later, I have to hang up now.
+  Dükkân saat dokuzda kapanıyor. = The shop closes at nine.
+
+ödemek | to pay | verb | A1 | "Kartla ödemek" = to pay by card. "Nakit" = cash.
+  Kartla ödeyebilir miyim? = Can I pay by card?
+  Bu sefer hesabı ben ödüyorum. = I'm paying the bill this time.
+  Kirayı her ayın başında ödüyoruz. = We pay the rent at the start of every month.
+  Faturayı internetten ödedim. = I paid the bill online.
+
+buluşmak | to meet up | verb | A1 | For arranged meetings: "Saat beşte kafede buluşalım."
+  Saat altıda kafede buluşalım. = Let's meet at the café at six.
+  Arkadaşlarla hafta sonu buluşuyoruz. = We're meeting up with friends at the weekend.
+  Nerede buluşuyoruz? = Where are we meeting?
+  Uzun zamandır buluşamadık. = We haven't been able to meet up for a long time.
+
+tanışmak | to meet (for the first time) | verb | A1 | "Tanıştığıma memnun oldum" = Nice to meet you.
+  Tanıştığıma memnun oldum. = Nice to meet you.
+  Eşimle üniversitede tanıştık. = I met my spouse at university.
+  Seni arkadaşımla tanıştırayım. = Let me introduce you to my friend.
+  Daha önce tanışmış mıydık? = Have we met before?
+
+tanımak | to know (a person or place), to recognise | verb | A2 | "Bilmek" is for facts, "tanımak" for people and places.
+  Onu yıllardır tanıyorum. = I've known her for years.
+  Saçını kestirmişsin, seni tanıyamadım. = You've had a haircut, I didn't recognise you.
+  Bu şehri iyi tanımıyorum. = I don't know this city well.
+  Beni tanıdın mı? = Do you recognise me?
+
+yardım etmek | to help | verb | A1 | The person helped takes the dative: "sana yardım edeyim".
+  Yardım edebilir misiniz? = Could you help me?
+  Sana yardım edeyim mi? = Shall I help you?
+  Taşınırken arkadaşlarım bana çok yardım etti. = My friends helped me a lot when I moved.
+  Yardım ettiğin için teşekkürler. = Thanks for helping.
+
+öğrenmek | to learn, to find out | verb | A1 | Also "to find out": "Sonucu yarın öğreneceğiz."
+  Türkçe öğreniyorum. = I'm learning Turkish.
+  Yüzmeyi küçükken öğrendim. = I learned to swim when I was little.
+  Sınav sonuçlarını yarın öğreneceğiz. = We'll find out the exam results tomorrow.
+  Her gün yeni bir kelime öğrenmek istiyorum. = I want to learn a new word every day.
+
+anlatmak | to tell, to explain | verb | A2 | For telling stories or explaining: "Bana her şeyi anlat."
+  Tatilini anlat, nasıl geçti? = Tell me about your holiday, how was it?
+  Öğretmen konuyu çok iyi anlattı. = The teacher explained the topic very well.
+  Bana her şeyi baştan anlat. = Tell me everything from the beginning.
+  Ne demek istediğimi anlatamıyorum. = I can't explain what I mean.
+
+getirmek | to bring | verb | A1 | "Götürmek" is the opposite direction: to take something away.
+  Gelirken ekmek getirir misin? = Could you bring bread on your way?
+  Garson menüyü getirdi. = The waiter brought the menu.
+  Partiye ne getireyim? = What shall I bring to the party?
+  Kitabını yarın getiririm. = I'll bring your book tomorrow.
+
+götürmek | to take (someone/something somewhere) | verb | A2 | "Seni eve götüreyim" = Let me take you home.
+  Seni havalimanına ben götürürüm. = I'll take you to the airport.
+  Çocukları okula götürdüm. = I took the kids to school.
+  Bunu kargoya götürmem lazım. = I need to take this to the post office.
+  Yemeği paket yapar mısınız? Götüreceğim. = Can you wrap the food? I'll take it away.
+
+binmek | to get on, to ride | verb | A1 | Takes the dative: "otobüse binmek", "bisiklete binmek".
+  Hangi otobüse binmem lazım? = Which bus do I need to take?
+  Metroya Taksim'den bindim. = I got on the metro at Taksim.
+  Hafta sonları bisiklete biniyoruz. = We ride bikes at the weekends.
+  İlk kez uçağa bindim. = I got on a plane for the first time.
+
+inmek | to get off, to go down | verb | A1 | Takes the ablative: "otobüsten inmek". Also "aşağı inmek" = to go downstairs.
+  Bir sonraki durakta ineceğim. = I'll get off at the next stop.
+  Taksiden inip yürüdüm. = I got out of the taxi and walked.
+  Aşağı iniyorum, bir şey ister misin? = I'm going downstairs, do you want anything?
+  Fiyatlar biraz indi. = Prices have come down a bit.
+
+dönmek | to return, to turn | verb | A1 | Directions: "sağa dön" (turn right), "sola dön" (turn left).
+  İkinci sokaktan sağa dönün. = Turn right at the second street.
+  Eve saat kaçta dönüyorsun? = What time are you coming back home?
+  Tatilden yeni döndüm. = I've just come back from holiday.
+  Bir dakika, telefonumu almak için geri dönüyorum. = One minute, I'm going back to get my phone.
+
+kalmak | to stay, to remain | verb | A1 | Also "to be left": "Ekmek kalmadı" = There's no bread left.
+  Bu akşam evde kalacağım. = I'll stay at home tonight.
+  Otelde üç gece kaldık. = We stayed three nights at the hotel.
+  Süt kaldı mı? = Is there any milk left?
+  Otobüse az kalsın yetişemiyordum. = I almost missed the bus.
+
+yaşamak | to live, to experience | verb | A1 | For living in a city: "İzmir'de yaşıyorum". Also "to go through": "zor bir dönem yaşadım".
+  Beş yıldır Ankara'da yaşıyorum. = I've been living in Ankara for five years.
+  Bu yıl çok güzel şeyler yaşadık. = We experienced lots of beautiful things this year.
+  Ailemle birlikte yaşıyorum. = I live with my family.
+  Anı yaşamaya çalışıyorum. = I'm trying to live in the moment.
+
+çıkmak | to go out, to leave, to exit | verb | A1 | Takes the ablative for leaving: "evden çıkmak". "Dışarı çıkmak" = to go out.
+  Evden sekizde çıktım. = I left home at eight.
+  Bu akşam dışarı çıkalım mı? = Shall we go out tonight?
+  Merdivenlerden yukarı çıktım. = I went up the stairs.
+  Yeni telefon ne zaman çıkıyor? = When is the new phone coming out?
+
+girmek | to enter, to go in | verb | A1 | Takes the dative: "odaya girmek", "sınava girmek" (to take an exam).
+  İçeri girebilir miyim? = May I come in?
+  Yarın önemli bir sınava gireceğim. = I'm taking an important exam tomorrow.
+  Ayakkabılarla içeri girmeyin lütfen. = Please don't come in with your shoes on.
+  Şifreyi yanlış girdim. = I entered the password wrong.
+
+geç kalmak | to be late | verb | A1 | Takes the dative: "işe geç kaldım", "derse geç kalma".
+  Özür dilerim, geç kaldım. = Sorry, I'm late.
+  Trafik yüzünden işe geç kaldım. = I was late for work because of traffic.
+  Acele et, derse geç kalacağız. = Hurry up, we'll be late for class.
+  Geç kalırsan bana haber ver. = Let me know if you're going to be late.
+
+acele etmek | to hurry | verb | A2 | "Acele etme" = take your time. "Acelem var" = I'm in a hurry.
+  Acele et, film başlıyor! = Hurry up, the film is starting!
+  Acele etme, zamanımız var. = Don't rush, we have time.
+  Kusura bakma, biraz acelem var. = Sorry, I'm in a bit of a hurry.
+  Acele işe şeytan karışır. = The devil gets into hasty work. (Haste makes waste.)
+
+hazırlamak | to prepare | verb | A2 | "Hazırlanmak" = to get ready (yourself).
+  Kahvaltıyı ben hazırlıyorum. = I'm making breakfast.
+  Sunumu hazırlamam iki gün sürdü. = It took me two days to prepare the presentation.
+  Hazırlan, yarım saat sonra çıkıyoruz. = Get ready, we're leaving in half an hour.
+  Valizini hazırladın mı? = Have you packed your suitcase?
+
+temizlemek | to clean | verb | A1 | "Temizlik yapmak" = to do the cleaning.
+  Hafta sonu evi temizledim. = I cleaned the house at the weekend.
+  Masayı temizler misin? = Could you wipe the table?
+  Mutfağı temizlemek hep bana kalıyor. = Cleaning the kitchen is always left to me.
+  Odanı temizledin mi? = Have you cleaned your room?
+
+pişirmek | to cook | verb | A2 | "Yemek yapmak" is more common in speech for "to cook a meal".
+  Bu akşam makarna pişiriyorum. = I'm cooking pasta tonight.
+  Pilavı nasıl pişiriyorsun? = How do you cook your rice?
+  Et biraz daha pişsin. = Let the meat cook a bit more.
+  Annem en güzel börek pişirir. = My mom makes the best börek.
+
+yıkamak | to wash | verb | A1 | "Yıkanmak" = to wash oneself or to be washed.
+  Yemekten önce ellerini yıka. = Wash your hands before eating.
+  Bulaşıkları ben yıkarım. = I'll wash the dishes.
+  Arabayı hafta sonu yıkattım. = I had the car washed at the weekend.
+  Bu kazağı soğuk suda yıkamak lazım. = This sweater needs to be washed in cold water.
+
+giymek | to wear, to put on | verb | A1 | For taking clothes off use "çıkarmak".
+  Bugün ne giysem? = What should I wear today?
+  Hava soğuk, mont giy. = It's cold, put on a coat.
+  Toplantı için takım elbise giydim. = I wore a suit for the meeting.
+  Bu ayakkabıları hiç giymedim. = I've never worn these shoes.
+
+değiştirmek | to change | verb | A2 | "Değişmek" = to change by itself. "Para değiştirmek" = to exchange money.
+  Planları değiştirmemiz gerekti. = We had to change our plans.
+  Bu gömleği değiştirebilir miyim? = Can I exchange this shirt?
+  Şifremi değiştirmeyi unuttum. = I forgot to change my password.
+  Bu şehir çok değişmiş. = This city has changed a lot.
+
+karar vermek | to decide | verb | A2 | Takes the dative: "gitmeye karar verdim" = I decided to go.
+  Henüz karar vermedim. = I haven't decided yet.
+  Taşınmaya karar verdik. = We've decided to move.
+  Hangisini alacağıma karar veremiyorum. = I can't decide which one to buy.
+  Karar vermeden önce iyi düşün. = Think carefully before you decide.
+
+katılmak | to join, to attend / to agree | verb | A2 | Takes the dative: "toplantıya katılmak" (attend), "sana katılıyorum" (I agree with you).
+  Sana tamamen katılıyorum. = I completely agree with you.
+  Yarınki toplantıya katılacak mısın? = Will you attend tomorrow's meeting?
+  Bu fikre katılmıyorum. = I don't agree with this idea.
+  Maratona ilk kez katıldım. = I took part in a marathon for the first time.
+
+paylaşmak | to share | verb | A2 | Used both for sharing things and posting online.
+  Pizzayı paylaşalım mı? = Shall we share the pizza?
+  Fotoğrafları gruba paylaştım. = I shared the photos in the group.
+  Odayı kardeşimle paylaşıyorum. = I share a room with my sibling.
+  Fikrini bizimle paylaşır mısın? = Would you share your idea with us?
+
+göndermek | to send | verb | A1 | "Yollamak" is a casual synonym.
+  Adresi bana gönderir misin? = Could you send me the address?
+  Belgeleri e-postayla gönderdim. = I sent the documents by email.
+  Anneme bir paket gönderdim. = I sent my mom a parcel.
+  Mesajı yanlış kişiye gönderdim. = I sent the message to the wrong person.
+
+bırakmak | to leave, to drop off, to quit | verb | A2 | "Sigarayı bırakmak" = to quit smoking. "Beni burada bırak" = drop me here.
+  Beni köşede bırakabilir misin? = Can you drop me at the corner?
+  Anahtarı masanın üstüne bıraktım. = I left the key on the table.
+  Sigarayı geçen yıl bıraktım. = I quit smoking last year.
+  Bırak, ben yaparım. = Leave it, I'll do it.
+
+taşınmak | to move (house) | verb | A2 | "Yeni eve taşınmak" = to move into a new home.
+  Geçen ay yeni bir eve taşındık. = We moved to a new house last month.
+  İzmir'e taşınmayı düşünüyorum. = I'm thinking of moving to Izmir.
+  Taşınmak çok yorucu. = Moving house is very tiring.
+  Ne zaman taşınıyorsunuz? = When are you moving?
+
+özlemek | to miss (someone/something) | verb | A2 | "Seni özledim" = I missed you. Very common and warm.
+  Seni çok özledim. = I missed you so much.
+  Annemin yemeklerini özledim. = I miss my mom's cooking.
+  Denizi özledim, hadi sahile gidelim. = I miss the sea, let's go to the coast.
+  Beni özledin mi? = Did you miss me?
+
+merak etmek | to wonder, to be curious, to worry | verb | A2 | "Merak etme" = don't worry. "Merak ediyorum" = I'm curious / I wonder.
+  Merak etme, her şey yolunda. = Don't worry, everything's fine.
+  Ne olacağını çok merak ediyorum. = I'm really curious what will happen.
+  Annem beni merak etmiş, aradı. = My mom was worried about me and called.
+  Merak ettiğin bir şey var mı? = Is there anything you're curious about?
+
+endişelenmek | to worry | verb | B1 | "Endişe" = worry, anxiety. "Endişelenme" = don't worry.
+  Endişelenme, zamanında yetişeceğiz. = Don't worry, we'll make it on time.
+  Sınav için çok endişeleniyorum. = I'm very worried about the exam.
+  Aramayınca senin için endişelendim. = I got worried about you when you didn't call.
+  Endişelenecek bir şey yok. = There's nothing to worry about.
+
+gülmek | to laugh, to smile | verb | A1 | Takes the dative: "şakaya gülmek". "Gülümsemek" = to smile.
+  Bu şakaya çok güldüm. = I laughed a lot at this joke.
+  Neden gülüyorsun? = Why are you laughing?
+  Film o kadar komikti ki gülmekten ağladık. = The film was so funny we cried laughing.
+  Fotoğrafta herkes gülüyor. = Everyone is smiling in the photo.
+
+yorulmak | to get tired | verb | A1 | "Yoruldum" = I'm tired. "Yorgun" is the adjective.
+  Bugün çok yoruldum. = I'm very tired today.
+  Merdivenleri çıkınca yoruldum. = I got tired climbing the stairs.
+  Yorulduysan biraz dinlen. = If you're tired, rest a bit.
+  Hiç yorulmadan saatlerce çalışıyor. = He works for hours without getting tired.
+
+dinlenmek | to rest | verb | A2 | Don't confuse with "dinlemek" (to listen).
+  Hafta sonu sadece dinlenmek istiyorum. = I just want to rest at the weekend.
+  Biraz dinlenelim, sonra devam ederiz. = Let's rest a little, then continue.
+  Doktor birkaç gün dinlenmemi söyledi. = The doctor told me to rest for a few days.
+  Tatilde iyice dinlendim. = I rested properly on holiday.
+
+kazanmak | to win, to earn | verb | A2 | "Para kazanmak" = to earn money. "Maçı kazanmak" = to win the match.
+  Takımımız maçı kazandı! = Our team won the match!
+  Ayda ne kadar kazanıyorsun? = How much do you earn a month?
+  Yarışmada ödül kazandı. = She won a prize in the competition.
+  Bu işten çok şey kazandım, özellikle deneyim. = I gained a lot from this job, especially experience.
+
+kaybetmek | to lose | verb | A2 | "Kaybolmak" = to get lost.
+  Cüzdanımı kaybettim. = I lost my wallet.
+  Maçı son dakikada kaybettik. = We lost the match in the last minute.
+  Zaman kaybetmeyelim. = Let's not waste time.
+  Şehirde kayboldum, yardım eder misiniz? = I got lost in the city, can you help me?
+
+susamak | to get thirsty | verb | A1 | "Susadım" = I'm thirsty. For hunger: "acıktım".
+  Çok susadım, su var mı? = I'm very thirsty, is there any water?
+  Koştuktan sonra çok susadım. = I got very thirsty after running.
+  Susadıysan buzdolabında meyve suyu var. = If you're thirsty there's juice in the fridge.
+  Sıcakta çabuk susuyorum. = I get thirsty quickly in the heat.
+
+acıkmak | to get hungry | verb | A1 | "Acıktım" = I'm hungry. "Aç" is the adjective.
+  Acıktım, bir şeyler yiyelim. = I'm hungry, let's eat something.
+  Öğlene kadar hiç acıkmadım. = I didn't get hungry at all until noon.
+  Acıktın mı? Yemek hazır. = Are you hungry? The food is ready.
+  Spordan sonra çok acıkıyorum. = I get really hungry after exercise.
+
+inanmak | to believe | verb | A2 | Takes the dative: "sana inanıyorum". "İnanmıyorum!" = I can't believe it!
+  Sana inanıyorum, yapabilirsin. = I believe in you, you can do it.
+  İnanmıyorum, sınavı geçtim! = I can't believe it, I passed the exam!
+  Onun söylediklerine inanma. = Don't believe what he says.
+  Buna inanmak zor. = This is hard to believe.
+
+izin vermek | to allow, to let | verb | A2 | "İzin verir misiniz?" = Would you allow me? / Excuse me, may I pass?
+  İzin verir misiniz, geçebilir miyim? = Excuse me, may I get past?
+  Annem geç saatte dışarı çıkmama izin vermiyor. = My mom doesn't let me go out late.
+  Burada fotoğraf çekmeye izin veriliyor mu? = Is it allowed to take photos here?
+  Müdür bugün erken çıkmama izin verdi. = The manager let me leave early today.
+
+anlaşmak | to agree, to get along | verb | A2 | "Anlaştık!" = Deal! "İyi anlaşmak" = to get along well.
+  Tamam, anlaştık! = Okay, deal!
+  Ev arkadaşımla çok iyi anlaşıyoruz. = My flatmate and I get along very well.
+  Fiyat konusunda anlaşamadık. = We couldn't agree on the price.
+  Saat konusunda anlaşalım, sonra gerisini konuşuruz. = Let's agree on the time, then we'll talk about the rest.
+
+rahatsız etmek | to disturb, to bother | verb | A2 | "Rahatsız etmiyorum ya?" = I'm not disturbing you, am I?
+  Rahatsız ettiğim için özür dilerim. = Sorry to bother you.
+  Gürültü komşuları rahatsız ediyor. = The noise is disturbing the neighbours.
+  Lütfen rahatsız etmeyin. = Please do not disturb.
+  Seni rahatsız etmiyorum, değil mi? = I'm not bothering you, am I?
+
+hissetmek | to feel | verb | A2 | "Kendimi iyi hissediyorum" = I feel good.
+  Bugün kendimi çok iyi hissediyorum. = I feel really good today.
+  Kendimi biraz hasta hissediyorum. = I feel a bit sick.
+  Nasıl hissettiğini anlıyorum. = I understand how you feel.
+  Burada kendimi evimde gibi hissediyorum. = I feel at home here.
+
+kutlamak | to celebrate, to congratulate | verb | A2 | "Doğum gününü kutlarım" = Happy birthday (lit. I celebrate your birthday).
+  Doğum gününü kutlarım! = Happy birthday!
+  Yeni yılı ailemle kutladık. = We celebrated the new year with my family.
+  Başarını kutlamak için yemeğe çıkalım. = Let's go out for dinner to celebrate your success.
+  Yeni işini kutlarım, çok sevindim. = Congratulations on your new job, I'm so happy for you.
+
+sipariş vermek | to order | verb | A2 | For restaurants and online shopping. "Sipariş" = an order.
+  Yemek sipariş verelim mi? = Shall we order food?
+  İnternetten yeni bir ayakkabı sipariş verdim. = I ordered new shoes online.
+  Sipariş vermeye hazır mısınız? = Are you ready to order?
+  Siparişim hâlâ gelmedi. = My order still hasn't arrived.
+
+tavsiye etmek | to recommend | verb | B1 | "Ne tavsiye edersiniz?" = What do you recommend? Great for restaurants.
+  Ne tavsiye edersiniz? = What do you recommend?
+  Bu kitabı sana kesinlikle tavsiye ederim. = I definitely recommend this book to you.
+  Doktor bol su içmemi tavsiye etti. = The doctor recommended that I drink plenty of water.
+  Bana iyi bir restoran tavsiye eder misin? = Can you recommend a good restaurant?
+
+kiralamak | to rent, to hire | verb | A2 | "Kiralık" = for rent. "Kira" = the rent.
+  Tatilde araba kiraladık. = We rented a car on holiday.
+  Merkeze yakın bir daire kiralamak istiyoruz. = We want to rent a flat close to the centre.
+  Bu ev kiralık mı, satılık mı? = Is this house for rent or for sale?
+  Bisiklet kiralamak ne kadar? = How much is it to rent a bike?
+
+ağlamak | to cry | verb | A2 | "Ağlama" = don't cry.
+  Film o kadar duygusaldı ki ağladım. = The film was so emotional that I cried.
+  Bebek bütün gece ağladı. = The baby cried all night.
+  Ağlama, her şey düzelecek. = Don't cry, everything will be alright.
+  Sevinçten ağladı. = She cried with joy.
+
+şaka yapmak | to joke, to kid | verb | A2 | "Şaka mı yapıyorsun?" = Are you kidding? "Şaka şaka" = just kidding.
+  Şaka mı yapıyorsun? = Are you kidding me?
+  Şaka yapıyorum, kızma. = I'm joking, don't get angry.
+  O her zaman şaka yapar. = He always jokes around.
+  Şaka bir yana, bu çok önemli. = Joking aside, this is very important.
+
+sinirlenmek | to get angry | verb | B1 | "Sinirli" = angry, irritable. "Sinirlenme" = don't get angry.
+  Trafikte çok sinirlendim. = I got really angry in traffic.
+  Sinirlenme, yanlışlıkla oldu. = Don't get angry, it was an accident.
+  Geç kalınca patronum sinirlendi. = My boss got angry when I was late.
+  Küçük şeylere sinirlenmemeye çalışıyorum. = I try not to get angry about little things.

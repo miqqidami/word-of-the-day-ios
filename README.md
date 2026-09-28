@@ -1,83 +1,69 @@
-# Word of the Day (iOS + Widget)
+# Kelime: Turkish Word of the Day (iOS app + lock screen widget)
 
-SwiftUI iOS app where the user chooses a language and fetches a daily word.
+A new everyday Turkish word every morning at **7:00**, on your lock screen.
+Tap the widget to open the app with the meaning, a usage tip and example
+sentences (each can be read aloud with the Turkish system voice).
 
-- Primary source: Google Gemini API
-- Fallback source: internet fetch (random Wikipedia word + translation)
-- Widget: shows latest saved word from the app
-- Difficulty levels: Easy / Medium / Hard
-- Theme modes: System / Light / Dark
-- Daily behavior: one automatic word per day (stays fixed that day unless user taps `Get New Word`)
+- **361 hand-picked words**: daily expressions (*kolay gelsin*, *geçmiş olsun*),
+  core verbs, adjectives and adverbs, everyday nouns, and useful B1–B2 words for
+  work and conversation. Each has 4 natural example sentences with translations.
+- **Never repeats**: the word list is stored in a fixed random order and day N
+  shows word N, so every word appears exactly once until the whole list has been
+  shown (about a year). The app's **Past words** screen lists everything shown so far.
+- **Widgets**: lock screen (rectangular + inline) and home screen (small + medium).
+  The timeline schedules the next seven 07:00 changes ahead of time, so the word
+  switches on time even if iOS delays the widget refresh.
+- Works fully offline and needs no App Group, so it builds with a free Apple ID
+  (Personal Team).
 
-## 1) Prerequisites
-
-- Xcode 15+
-- Homebrew
-- XcodeGen
-
-Install XcodeGen:
+## Build and install
 
 ```bash
 brew install xcodegen
-```
-
-## 2) Configure secrets
-
-Create your local secrets file:
-
-```bash
-cp Config/Secrets.xcconfig.template Config/Secrets.xcconfig
-```
-
-Set your Gemini API key in `Config/Secrets.xcconfig`:
-
-```xcconfig
-GEMINI_API_KEY = your_real_key
-```
-
-## 3) Configure identifiers
-
-Update these placeholders before building:
-
-- Bundle IDs in `project.yml`
-- App Group ID in:
-  - `project.yml`
-  - `Shared/AppConfig.swift`
-  - `WordOfTheDayApp/WordOfTheDayApp.entitlements`
-  - `WordOfTheDayWidget/WordOfTheDayWidget.entitlements`
-
-Use one consistent value, for example: `group.com.yourcompany.wordoftheday`.
-
-## 4) Generate and open project
-
-```bash
 xcodegen generate
-open WordOfTheDay.xcodeproj
+open WordOfTheDay.xcodeproj   # choose your iPhone and press Run
 ```
 
-In Xcode:
+Or from the command line (replace the device IDs with yours from
+`xcrun devicectl list devices`):
 
-1. Assign your Apple Team for both targets.
-2. Add `Config/Secrets.xcconfig` as a Base Configuration for Debug/Release on the app target.
-3. Build and run the app on device/simulator.
-4. Add the widget to the home screen.
+```bash
+xcodebuild -project WordOfTheDay.xcodeproj -scheme WordOfTheDayApp -configuration Release \
+  -destination 'id=<hardware UDID>' -derivedDataPath build -allowProvisioningUpdates build
+xcrun devicectl device install app --device <device id> \
+  build/Build/Products/Release-iphoneos/WordOfTheDayApp.app
+```
 
-## 5) How it works
+The first time, trust the developer on the phone: **Settings → General →
+VPN & Device Management → Apple Development: <your Apple ID> → Trust**.
 
-- `WordOfTheDayApp`: language picker + difficulty picker + theme picker + fetch button
-- Word card shows:
-  - meaning
-  - characteristics (part of speech, CEFR, register, usage tip)
-  - one example sentence at a time with English translation
-- `Shared/WordProvider.swift`:
-  - `GeminiWordProvider` calls Gemini with difficulty-aware prompt and asks for strict JSON
-  - Gemini JSON includes translated examples and characteristics
-  - `CommonEverydayWordProvider` provides very easy daily-life fallback words for Easy mode
-  - `WikipediaWordProvider` is a final fallback internet source
-- `Shared/WordStore.swift`: writes selected language and last word to shared `UserDefaults` (App Group)
-- `WordOfTheDayWidget`: reads shared data and renders the widget
+Then long-press the lock screen → **Customize** → **Lock Screen** → tap the
+widget area under the clock → **Kelime**.
 
-## Notes
+> Apps signed with a free Personal Team expire after **7 days**. Re-run the
+> build/install to refresh it. Your place in the word schedule is kept because
+> it is based on the date, not on stored data.
 
-- If Gemini key is missing, fallback internet mode still works.
-- Widget refreshes when the app fetches a new word.
+## Adding words
+
+Words live in `tools/word-source/*.txt`:
+
+```
+word | meaning | noun/verb/adjective/adverb/expression | A1-B2 | usage tip
+  Turkish example sentence = English translation
+```
+
+Run `python3 tools/build_words.py` to regenerate
+`Shared/WordData/turkish_words.json`. The script is append-only: existing words
+keep their place in the schedule and new words are shuffled onto the end, so
+nothing that was already shown comes back. It refuses to remove a word that has
+already been scheduled.
+
+## Code
+
+- `Shared/DailySchedule.swift`: which word belongs to which day (7:00 rollover,
+  no repeats), shared by the app and the widget
+- `Shared/Word.swift`: word model and JSON loading
+- `WordOfTheDayWidget/`: WidgetKit extension
+- `WordOfTheDayApp/`: SwiftUI app (today's word, past words, text-to-speech)
+- `tools/make_icon.py`: regenerates the app icon

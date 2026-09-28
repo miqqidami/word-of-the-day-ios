@@ -41,10 +41,7 @@ private struct WidgetContainer<Content: View>: View {
     @ViewBuilder let content: (Word) -> Content
 
     var body: some View {
-        ZStack {
-            if family == .accessoryRectangular {
-                AccessoryWidgetBackground()
-            }
+        Group {
             if let word {
                 content(word)
                     .widgetURL(AppConfig.url(for: word))

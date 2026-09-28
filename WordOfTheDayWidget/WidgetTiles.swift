@@ -1,15 +1,15 @@
 import SwiftUI
 import WidgetKit
 
-/// Small caption row used at the top of every tile, in the style of the
-/// system widgets (symbol + label, level on the trailing side).
+/// Caption row at the top of every tile, like the system widgets
+/// (symbol + name, extra info on the trailing side).
 struct TileLabel: View {
     let symbol: String
     let title: String
     var trailing: String?
 
     var body: some View {
-        HStack(spacing: 3) {
+        HStack(spacing: 4) {
             Image(systemName: symbol)
             Text(title)
             Spacer(minLength: 4)
@@ -17,33 +17,31 @@ struct TileLabel: View {
                 Text(trailing)
             }
         }
-        .font(.system(size: 11, weight: .semibold, design: .rounded))
-        .textCase(.uppercase)
-        .opacity(0.7)
+        .font(.caption.weight(.semibold))
         .lineLimit(1)
     }
 }
 
-/// Lock screen tile with today's word and its meaning.
+/// Lock screen tile with today's word and its meaning. No background: like the
+/// system widgets, the text sits directly on the wallpaper.
 struct WordTile: View {
     let word: Word
 
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
             TileLabel(symbol: "character.book.closed.fill", title: "Kelime", trailing: word.level)
-            Spacer(minLength: 0)
             Text(word.word)
-                .font(.system(size: 22, weight: .bold, design: .rounded))
+                .font(.title3.weight(.bold))
                 .minimumScaleFactor(0.6)
                 .lineLimit(1)
                 .widgetAccentable()
             Text(word.meaning.withoutParentheticals)
-                .font(.system(size: 13, weight: .medium))
-                .minimumScaleFactor(0.85)
+                .font(.subheadline)
+                .foregroundStyle(.secondary)
+                .minimumScaleFactor(0.8)
                 .lineLimit(1)
-                .opacity(0.8)
         }
-        .tilePadding()
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
     }
 }
 
@@ -60,19 +58,18 @@ struct SentenceTile: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
             TileLabel(symbol: "text.quote", title: "Örnek")
-            Spacer(minLength: 0)
             Text(example?.tr ?? word.word)
-                .font(.system(size: 13, weight: .semibold))
-                .minimumScaleFactor(0.8)
+                .font(.subheadline.weight(.semibold))
+                .minimumScaleFactor(0.75)
                 .lineLimit(2)
                 .widgetAccentable()
             Text((example?.en ?? word.meaning).withoutParentheticals)
-                .font(.system(size: 11))
+                .font(.caption)
+                .foregroundStyle(.secondary)
                 .minimumScaleFactor(0.7)
                 .lineLimit(1)
-                .opacity(0.75)
         }
-        .tilePadding()
+        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
     }
 }
 
@@ -87,7 +84,7 @@ struct HomeWordTile: View {
                 .foregroundStyle(.red)
             Spacer(minLength: 0)
             Text(word.word)
-                .font(.system(size: showsExample ? 28 : 24, weight: .bold, design: .rounded))
+                .font(.system(size: showsExample ? 28 : 24, weight: .bold))
                 .minimumScaleFactor(0.5)
                 .lineLimit(showsExample ? 1 : 2)
             Text(word.meaning.withoutParentheticals)
@@ -114,14 +111,5 @@ extension String {
     var withoutParentheticals: String {
         replacingOccurrences(of: #"\s*\([^)]*\)"#, with: "", options: .regularExpression)
             .trimmingCharacters(in: .whitespaces)
-    }
-}
-
-private extension View {
-    /// Fills the tile and insets the content from the rounded background plate.
-    func tilePadding() -> some View {
-        frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .leading)
-            .padding(.horizontal, 9)
-            .padding(.vertical, 6)
     }
 }

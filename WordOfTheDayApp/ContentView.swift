@@ -45,7 +45,7 @@ struct ContentView: View {
         .onChange(of: scenePhase) { _, phase in
             guard phase == .active else { return }
             now = Date()
-            WidgetCenter.shared.reloadTimelines(ofKind: AppConfig.widgetKind)
+            WidgetCenter.shared.reloadAllTimelines()
         }
         .task(id: now) {
             // Switch to the next word at 07:00 if the app is left open.

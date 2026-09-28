@@ -38,7 +38,10 @@ The first time, trust the developer on the phone: **Settings → General →
 VPN & Device Management → Apple Development: <your Apple ID> → Trust**.
 
 Then long-press the lock screen → **Customize** → **Lock Screen** → tap the
-widget area under the clock → **Kelime**.
+widget area under the clock → **Kelime** and add **Word**, then **Sentence**
+next to it. iOS caps a single lock screen widget at half the row, so the two
+tiles together fill it from edge to edge: the word and meaning on the left,
+an example sentence on the right.
 
 > Apps signed with a free Personal Team expire after **7 days**. Re-run the
 > build/install to refresh it. Your place in the word schedule is kept because

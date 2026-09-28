@@ -34,17 +34,22 @@ struct WordWidgetProvider: TimelineProvider {
     }
 }
 
-struct WordWidgetEntryView: View {
+/// Adds the deep link and the right background for the widget family.
+private struct WidgetContainer<Content: View>: View {
     @Environment(\.widgetFamily) private var family
-    let entry: WordWidgetEntry
+    let word: Word?
+    @ViewBuilder let content: (Word) -> Content
 
     var body: some View {
-        Group {
-            if let word = entry.word {
-                content(for: word)
+        ZStack {
+            if family == .accessoryRectangular {
+                AccessoryWidgetBackground()
+            }
+            if let word {
+                content(word)
                     .widgetURL(AppConfig.url(for: word))
             } else {
-                Text("Open the app")
+                Text("Open Kelime")
             }
         }
         .containerBackground(for: .widget) {
@@ -53,91 +58,66 @@ struct WordWidgetEntryView: View {
             }
         }
     }
+}
 
-    @ViewBuilder
-    private func content(for word: Word) -> some View {
-        switch family {
-        case .accessoryInline:
-            Text("🇹🇷 \(word.word) · \(word.meaning)")
+struct WordWidgetEntryView: View {
+    @Environment(\.widgetFamily) private var family
+    let entry: WordWidgetEntry
 
-        case .accessoryRectangular:
-            VStack(alignment: .leading, spacing: 0) {
-                Text("TÜRKÇE · WORD OF THE DAY")
-                    .font(.system(size: 10, weight: .semibold))
-                    .widgetAccentable()
-                    .opacity(0.8)
-                Text(word.word)
-                    .font(.headline)
-                    .minimumScaleFactor(0.7)
-                    .lineLimit(1)
-                Text(word.meaning)
-                    .font(.caption)
-                    .lineLimit(2)
+    var body: some View {
+        WidgetContainer(word: entry.word) { word in
+            switch family {
+            case .accessoryInline:
+                Label("\(word.word) · \(word.meaning.withoutParentheticals)", systemImage: "character.book.closed.fill")
+            case .accessoryRectangular:
+                WordTile(word: word)
+            default:
+                HomeWordTile(word: word, showsExample: family == .systemMedium)
             }
-            .frame(maxWidth: .infinity, alignment: .leading)
-
-        case .systemMedium:
-            VStack(alignment: .leading, spacing: 6) {
-                header(for: word)
-                Text(word.word)
-                    .font(.system(.title, design: .rounded).weight(.bold))
-                    .minimumScaleFactor(0.6)
-                    .lineLimit(1)
-                Text(word.meaning)
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
-                    .lineLimit(1)
-                if let example = word.examples.first {
-                    Text(example.tr)
-                        .font(.footnote)
-                        .italic()
-                        .lineLimit(2)
-                }
-            }
-            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
-
-        default:
-            VStack(alignment: .leading, spacing: 6) {
-                header(for: word)
-                Spacer(minLength: 0)
-                Text(word.word)
-                    .font(.system(.title2, design: .rounded).weight(.bold))
-                    .minimumScaleFactor(0.5)
-                    .lineLimit(2)
-                Text(word.meaning)
-                    .font(.footnote)
-                    .foregroundStyle(.secondary)
-                    .lineLimit(3)
-            }
-            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
         }
-    }
-
-    private func header(for word: Word) -> some View {
-        HStack {
-            Text("🇹🇷 Word of the Day")
-            Spacer()
-            Text(word.level)
-        }
-        .font(.caption2.weight(.semibold))
-        .foregroundStyle(.red)
     }
 }
 
-@main
 struct WordOfTheDayWidget: Widget {
     var body: some WidgetConfiguration {
         StaticConfiguration(kind: AppConfig.widgetKind, provider: WordWidgetProvider()) { entry in
             WordWidgetEntryView(entry: entry)
         }
-        .configurationDisplayName("Turkish Word of the Day")
-        .description("A new everyday Turkish word at 7 AM. Tap to see its meaning and example sentences.")
+        .configurationDisplayName("Word")
+        .description("Today's Turkish word and its meaning. New word at 7 AM.")
         .supportedFamilies([.accessoryRectangular, .accessoryInline, .systemSmall, .systemMedium])
     }
 }
 
-#Preview(as: .accessoryRectangular) {
+struct SentenceOfTheDayWidget: Widget {
+    var body: some WidgetConfiguration {
+        StaticConfiguration(kind: AppConfig.sentenceWidgetKind, provider: WordWidgetProvider()) { entry in
+            WidgetContainer(word: entry.word) { word in
+                SentenceTile(word: word)
+            }
+        }
+        .configurationDisplayName("Sentence")
+        .description("An example sentence with today's word. Place it next to the Word widget to fill the row.")
+        .supportedFamilies([.accessoryRectangular])
+    }
+}
+
+@main
+struct KelimeWidgets: WidgetBundle {
+    var body: some Widget {
+        WordOfTheDayWidget()
+        SentenceOfTheDayWidget()
+    }
+}
+
+#Preview("Word", as: .accessoryRectangular) {
     WordOfTheDayWidget()
+} timeline: {
+    WordWidgetEntry(date: .now, word: WordLibrary.all.first)
+}
+
+#Preview("Sentence", as: .accessoryRectangular) {
+    SentenceOfTheDayWidget()
 } timeline: {
     WordWidgetEntry(date: .now, word: WordLibrary.all.first)
 }

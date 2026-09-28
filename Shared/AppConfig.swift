@@ -2,6 +2,7 @@ import Foundation
 
 enum AppConfig {
     static let widgetKind = "TurkishWordOfTheDay"
+    static let sentenceWidgetKind = "TurkishSentenceOfTheDay"
     static let urlScheme = "wordoftheday"
 
     /// The word changes every day at this local hour.

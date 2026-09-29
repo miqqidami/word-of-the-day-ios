@@ -4,16 +4,20 @@ A new everyday Turkish word every morning at **7:00**, on your lock screen.
 Tap the widget to open the app with the meaning, a usage tip and example
 sentences (each can be read aloud with the Turkish system voice).
 
-- **361 hand-picked words**: daily expressions (*kolay gelsin*, *geçmiş olsun*),
-  core verbs, adjectives and adverbs, everyday nouns, and useful B1–B2 words for
-  work and conversation. Each has 4 natural example sentences with translations.
-- **Never repeats**: the word list is stored in a fixed random order and day N
-  shows word N, so every word appears exactly once until the whole list has been
-  shown (about a year). The app's **Past words** screen lists everything shown so far.
+- **488 hand-picked words across A1–C2**: daily expressions (*kolay gelsin*,
+  *geçmiş olsun*), core verbs, everyday nouns and adjectives, work and news
+  vocabulary, and at C2 the idioms and proverbs natives use (*pireyi deve yapmak*,
+  *damlaya damlaya göl olur*). Each has 4 natural example sentences.
+- **Choose your levels**: tap the level button (top left) and tick any of
+  A1, A2, B1, B2, C1, C2. Only words from those levels are shown, starting right
+  away on the widget too.
+- **Never repeats**: every shown word is recorded in a log shared by the app and
+  the widget (App Group `group.com.miqdam.wordoftheday`), and the next word is
+  always the next unseen one of your levels. If the selected levels run out,
+  unseen words from the nearest other level are used instead of repeating.
+  **Past words** lists everything shown so far.
 - **Next word**: want more than one a day? Tap **Next word** under today's word
-  to move on right away (the widget follows). It just takes the next word in the
-  list, so nothing repeats, and tomorrow's word still arrives at 7:00. The taps
-  are shared with the widget through the App Group `group.com.miqdam.wordoftheday`.
+  to move on right away (the widget follows). Tomorrow's word still arrives at 7:00.
 - **Widgets**: lock screen (rectangular + inline) and home screen (small + medium).
   The timeline schedules the next seven 07:00 changes ahead of time, so the word
   switches on time even if iOS delays the widget refresh.

@@ -13,6 +13,40 @@ struct Word: Codable, Hashable, Identifiable {
     let level: String
     let tip: String
     let examples: [Example]
+
+    var cefr: CEFRLevel? { CEFRLevel(rawValue: level) }
+}
+
+enum CEFRLevel: String, CaseIterable, Codable, Identifiable, Comparable {
+    case a1 = "A1", a2 = "A2", b1 = "B1", b2 = "B2", c1 = "C1", c2 = "C2"
+
+    var id: String { rawValue }
+
+    var title: String {
+        switch self {
+        case .a1: return "Beginner"
+        case .a2: return "Elementary"
+        case .b1: return "Intermediate"
+        case .b2: return "Upper intermediate"
+        case .c1: return "Advanced"
+        case .c2: return "Proficient"
+        }
+    }
+
+    var rank: Int { Self.allCases.firstIndex(of: self) ?? 0 }
+
+    static func < (lhs: CEFRLevel, rhs: CEFRLevel) -> Bool { lhs.rank < rhs.rank }
+
+    /// "A1–B1", "A2, C1" or "All levels" for a compact label.
+    static func summary(of levels: Set<CEFRLevel>) -> String {
+        let sorted = levels.sorted()
+        guard sorted.count < allCases.count else { return "All levels" }
+        guard let first = sorted.first, let last = sorted.last else { return "No levels" }
+        if sorted.count > 1, last.rank - first.rank == sorted.count - 1 {
+            return "\(first.rawValue)–\(last.rawValue)"
+        }
+        return sorted.map(\.rawValue).joined(separator: ", ")
+    }
 }
 
 enum WordLibrary {

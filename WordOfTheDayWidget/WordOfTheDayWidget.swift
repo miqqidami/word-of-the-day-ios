@@ -10,28 +10,32 @@ struct WordWidgetProvider: TimelineProvider {
     /// How many upcoming 07:00 rollovers to schedule ahead, so the word still
     /// changes on time if WidgetKit delays the next reload.
     private let daysAhead = 7
-    /// Rebuilt on every request so a "Next word" tap in the app is picked up.
-    private var schedule: DailySchedule { DailySchedule() }
-
     func placeholder(in context: Context) -> WordWidgetEntry {
-        WordWidgetEntry(date: Date(), word: schedule.word(for: Date()))
+        WordWidgetEntry(date: Date(), word: WordLibrary.all.first)
     }
 
     func getSnapshot(in context: Context, completion: @escaping (WordWidgetEntry) -> Void) {
-        completion(WordWidgetEntry(date: Date(), word: schedule.word(for: Date())))
+        completion(WordWidgetEntry(date: Date(), word: currentSchedule(at: Date()).currentWord))
     }
 
     func getTimeline(in context: Context, completion: @escaping (Timeline<WordWidgetEntry>) -> Void) {
         let now = Date()
-        var entries = [WordWidgetEntry(date: now, word: schedule.word(for: now))]
+        let schedule = currentSchedule(at: now)
 
-        var rollover = now
-        for _ in 0..<daysAhead {
-            rollover = schedule.nextRollover(after: rollover)
-            entries.append(WordWidgetEntry(date: rollover, word: schedule.word(for: rollover)))
+        var entries = [WordWidgetEntry(date: now, word: schedule.currentWord)]
+        entries += schedule.upcoming(after: now, count: daysAhead).map {
+            WordWidgetEntry(date: $0.date, word: $0.word)
         }
-
         completion(Timeline(entries: entries, policy: .atEnd))
+    }
+
+    /// Loads the shared log and records today's word if a new day has started.
+    private func currentSchedule(at date: Date) -> DailySchedule {
+        var schedule = WordProgress.load(at: date)
+        if schedule.update(for: date) {
+            WordProgress.save(schedule)
+        }
+        return schedule
     }
 }
 

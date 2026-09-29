@@ -22,8 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = ROOT / "tools" / "word-source"
 OUTPUT = ROOT / "Shared" / "WordData" / "turkish_words.json"
 SHUFFLE_SEED = 20260929
-LEVELS = {"A1", "A2", "B1", "B2"}
-PARTS_OF_SPEECH = {"noun", "verb", "adjective", "adverb", "expression"}
+LEVELS = {"A1", "A2", "B1", "B2", "C1", "C2"}
+PARTS_OF_SPEECH = {"noun", "verb", "adjective", "adverb", "expression", "proverb"}
 MIN_EXAMPLES = 3
 
 TURKISH_ASCII = str.maketrans("çğıöşüâîû", "cgiosuaiu")

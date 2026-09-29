@@ -1,45 +1,42 @@
 import Foundation
 
-/// Decides which word belongs to which day.
+/// One entry of the shown-words log.
+struct ShownWord: Codable, Hashable {
+    let id: String
+    /// Schedule day index (see `DailySchedule.dayIndex(for:)`) it was shown on.
+    let day: Int
+}
+
+/// Decides which word is shown, and keeps the log of every word already shown
+/// so none of them comes up again.
 ///
-/// The word list is stored pre-shuffled and words are handed out strictly in
-/// list order: one per day, plus one more each time the user taps "Next word"
-/// (see `WordProgress`). A word can therefore only appear once until the whole
-/// list has been shown.
+/// A new word is picked at each 07:00 rollover and whenever the user taps
+/// "Next word": the first word in the (pre-shuffled) list that has the selected
+/// level and is not in the log. Picking is deterministic, so the app and the
+/// widget agree on the next word even before it is written to the log.
 struct DailySchedule {
     var words: [Word] = WordLibrary.all
     var calendar: Calendar = .current
-    /// Day indices on which the user asked for an extra word.
-    var advances: [Int] = WordProgress.advances()
+    var levels: Set<CEFRLevel> = Set(CEFRLevel.allCases)
+    var log: [ShownWord] = []
 
-    struct ShownWord {
-        let position: Int
-        let date: Date
-        let word: Word
-    }
+    /// Days missed while nothing ran (phone off, app never opened) are filled in
+    /// up to this many days back: the widget may have displayed them already.
+    static let catchUpDays = 7
+
+    // MARK: Dates
 
     /// Index of the "word day" containing `date`. A word day runs from 07:00 to
-    /// 07:00 the next morning.
+    /// 07:00 the next morning; day 0 starts on `AppConfig.scheduleStart`.
     func dayIndex(for date: Date) -> Int {
         guard let start = calendar.date(from: AppConfig.scheduleStart) else { return 0 }
         let days = calendar.dateComponents([.day], from: start, to: wordDay(containing: date)).day ?? 0
         return max(0, days)
     }
 
-    /// Position in the word list shown at `date`: one per day plus every
-    /// "Next word" tap up to and including that day.
-    func position(for date: Date) -> Int {
-        position(onDayIndex: dayIndex(for: date))
-    }
-
-    func word(for date: Date) -> Word? {
-        word(atPosition: position(for: date))
-    }
-
-    /// Wraps around only after every word has been shown once.
-    func word(atPosition position: Int) -> Word? {
-        guard !words.isEmpty else { return nil }
-        return words[position % words.count]
+    func date(forDayIndex day: Int) -> Date {
+        let start = calendar.date(from: AppConfig.scheduleStart) ?? Date()
+        return calendar.date(byAdding: .day, value: day, to: start) ?? start
     }
 
     /// The next 07:00 strictly after `date`.
@@ -49,31 +46,122 @@ struct DailySchedule {
             ?? date.addingTimeInterval(24 * 60 * 60)
     }
 
-    /// Every word shown so far, newest first, including the current one.
-    func history(upTo date: Date) -> [ShownWord] {
-        guard let start = calendar.date(from: AppConfig.scheduleStart) else { return [] }
+    // MARK: Current word
+
+    /// The word currently shown. Call `update(for:)` first.
+    var currentWord: Word? {
+        log.last.flatMap { entry in words.first { $0.id == entry.id } }
+    }
+
+    /// Records the words for any days that started since the last entry.
+    /// Returns whether the log changed.
+    @discardableResult
+    mutating func update(for date: Date) -> Bool {
         let today = dayIndex(for: date)
-        var shown: [ShownWord] = []
-        for day in (0...today).reversed() {
-            guard let dayDate = calendar.date(byAdding: .day, value: day, to: start) else { continue }
-            let first = day + advances.filter { $0 < day }.count
-            let last = position(onDayIndex: day)
-            for index in (first...last).reversed() {
-                if let word = word(atPosition: index) {
-                    shown.append(ShownWord(position: index, date: dayDate, word: word))
-                }
+        guard let lastDay = log.last?.day else {
+            record(onDay: today)
+            return true
+        }
+        guard lastDay < today else { return false }
+        for day in max(lastDay + 1, today - Self.catchUpDays + 1)...today {
+            record(onDay: day)
+        }
+        return true
+    }
+
+    /// "Next word": moves on to the next unseen word right away.
+    mutating func showNext(at date: Date) {
+        update(for: date)
+        record(onDay: dayIndex(for: date))
+    }
+
+    /// Changes the selected levels. If the current word is not one of them any
+    /// more, it is replaced straight away.
+    mutating func setLevels(_ newLevels: Set<CEFRLevel>, at date: Date) {
+        guard !newLevels.isEmpty else { return }
+        levels = newLevels
+        update(for: date)
+        if let current = currentWord, !matches(current) {
+            record(onDay: dayIndex(for: date))
+        }
+    }
+
+    /// The words the next `count` rollovers after `date` will show, without
+    /// recording them.
+    func upcoming(after date: Date, count: Int) -> [(date: Date, word: Word)] {
+        var preview = self
+        var time = date
+        var result: [(date: Date, word: Word)] = []
+        for _ in 0..<count {
+            time = nextRollover(after: time)
+            preview.update(for: time)
+            if let word = preview.currentWord {
+                result.append((time, word))
             }
         }
-        return shown
+        return result
     }
 
-    /// Whether every word has been shown at least once.
-    func hasCompletedCycle(at date: Date) -> Bool {
-        position(for: date) >= words.count
+    // MARK: History and stats
+
+    /// Every word shown so far, newest first.
+    func history() -> [(position: Int, date: Date, word: Word)] {
+        log.enumerated().reversed().compactMap { position, entry in
+            guard let word = words.first(where: { $0.id == entry.id }) else { return nil }
+            return (position, date(forDayIndex: entry.day), word)
+        }
     }
 
-    private func position(onDayIndex day: Int) -> Int {
-        day + advances.filter { $0 <= day }.count
+    func unseenCount(of level: CEFRLevel) -> Int {
+        let seen = Set(log.map(\.id))
+        return words.filter { $0.cefr == level && !seen.contains($0.id) }.count
+    }
+
+    func totalCount(of level: CEFRLevel) -> Int {
+        words.filter { $0.cefr == level }.count
+    }
+
+    /// True once every word of the selected levels has been shown.
+    var selectedLevelsFinished: Bool {
+        levels.allSatisfy { unseenCount(of: $0) == 0 }
+    }
+
+    // MARK: Picking
+
+    private func matches(_ word: Word) -> Bool {
+        word.cefr.map(levels.contains) ?? false
+    }
+
+    private mutating func record(onDay day: Int) {
+        guard let word = nextWord() else { return }
+        log.append(ShownWord(id: word.id, day: day))
+    }
+
+    /// The first unseen word of the selected levels, in list order. When those
+    /// run out, the first unseen word of the nearest other level; when every
+    /// word has been shown, the selected-level word shown longest ago.
+    private func nextWord() -> Word? {
+        let seen = Set(log.map(\.id))
+        if let word = words.first(where: { matches($0) && !seen.contains($0.id) }) {
+            return word
+        }
+
+        let unseen = words.filter { !seen.contains($0.id) }
+        if let nearest = unseen.min(by: { distance($0) < distance($1) }) {
+            return nearest
+        }
+
+        var lastShown: [String: Int] = [:]
+        for (position, entry) in log.enumerated() { lastShown[entry.id] = position }
+        let candidates = words.filter(matches)
+        return (candidates.isEmpty ? words : candidates).min {
+            lastShown[$0.id, default: -1] < lastShown[$1.id, default: -1]
+        }
+    }
+
+    private func distance(_ word: Word) -> Int {
+        guard let level = word.cefr else { return .max }
+        return levels.map { abs($0.rank - level.rank) }.min() ?? .max
     }
 
     private func wordDay(containing date: Date) -> Date {

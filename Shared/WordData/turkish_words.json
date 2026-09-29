@@ -9384,5 +9384,3307 @@
         "en": "My mom says \"take care of yourself\" on every call."
       }
     ]
+  },
+  {
+    "id": "musamaha",
+    "word": "müsamaha",
+    "meaning": "tolerance, leniency",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Formal. \"Müsamahakâr\" = lenient. Everyday synonym: \"hoşgörü\".",
+    "examples": [
+      {
+        "tr": "Kurallara uymayanlara müsamaha gösterilmeyecek.",
+        "en": "No leniency will be shown to those who don't follow the rules."
+      },
+      {
+        "tr": "Farklılıklara karşı hoşgörülü olmalıyız.",
+        "en": "We should be tolerant of differences."
+      },
+      {
+        "tr": "Öğretmen geç kalanlara karşı çok müsamahakâr.",
+        "en": "The teacher is very lenient with latecomers."
+      },
+      {
+        "tr": "Bu konuda sıfır müsamaha politikası uygulanıyor.",
+        "en": "A zero-tolerance policy is applied on this matter."
+      }
+    ]
+  },
+  {
+    "id": "gozden-dusmek",
+    "word": "gözden düşmek",
+    "meaning": "to fall out of favour",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "Literally \"to fall from the eye\".",
+    "examples": [
+      {
+        "tr": "O hatadan sonra patronun gözünden düştü.",
+        "en": "After that mistake he fell out of favour with the boss."
+      },
+      {
+        "tr": "Bu dizi son sezonuyla gözden düştü.",
+        "en": "This series lost its appeal with its last season."
+      },
+      {
+        "tr": "Bir zamanlar çok popülerdi ama artık gözden düştü.",
+        "en": "It was very popular once but has fallen out of favour."
+      },
+      {
+        "tr": "Yalan söyleyince herkesin gözünden düştü.",
+        "en": "When he lied, everyone lost respect for him."
+      }
+    ]
+  },
+  {
+    "id": "tahammul",
+    "word": "tahammül",
+    "meaning": "endurance, tolerance, patience",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Tahammül etmek\" = to bear. \"Tahammülüm kalmadı\" = I can't take it anymore.",
+    "examples": [
+      {
+        "tr": "Bu sıcağa tahammül edemiyorum.",
+        "en": "I can't bear this heat."
+      },
+      {
+        "tr": "Tahammülüm kalmadı, artık konuşmamız lazım.",
+        "en": "I can't take it anymore, we need to talk."
+      },
+      {
+        "tr": "Başkalarının fikirlerine tahammül etmeyi öğrenmeliyiz.",
+        "en": "We should learn to tolerate other people's opinions."
+      },
+      {
+        "tr": "Çocuklar gürültüye bizden daha çok tahammül ediyor.",
+        "en": "Children put up with noise better than we do."
+      }
+    ]
+  },
+  {
+    "id": "yetinmek",
+    "word": "yetinmek",
+    "meaning": "to make do with, to be content with",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the instrumental: \"azla yetinmek\" = to be content with little.",
+    "examples": [
+      {
+        "tr": "Bugünlük bu kadarla yetinelim.",
+        "en": "Let's settle for this much today."
+      },
+      {
+        "tr": "Az ile yetinmeyi bilen mutlu olur.",
+        "en": "Those who can be content with little are happy."
+      },
+      {
+        "tr": "Sadece özür dilemekle yetinmedi, zararı da karşıladı.",
+        "en": "He didn't just apologise, he also covered the damage."
+      },
+      {
+        "tr": "Kahvaltıda bir simitle yetindim.",
+        "en": "I made do with a simit for breakfast."
+      }
+    ]
+  },
+  {
+    "id": "mecbur",
+    "word": "mecbur",
+    "meaning": "obliged, forced",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "tip": "\"Mecburum\" = I have no choice. \"Mecbur kalmak\" = to be forced to.",
+    "examples": [
+      {
+        "tr": "Gitmek istemiyorum ama mecburum.",
+        "en": "I don't want to go but I have to."
+      },
+      {
+        "tr": "Otobüs gelmeyince taksiye binmek zorunda kaldık, mecburduk.",
+        "en": "When the bus didn't come we had to take a taxi, we had no choice."
+      },
+      {
+        "tr": "Kimse sana yardım etmeye mecbur değil.",
+        "en": "Nobody is obliged to help you."
+      },
+      {
+        "tr": "Mecbur kalmadıkça araba kullanmıyorum.",
+        "en": "I don't drive unless I have to."
+      }
+    ]
+  },
+  {
+    "id": "yansitmak",
+    "word": "yansıtmak",
+    "meaning": "to reflect, to show, to pass on",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Also \"to pass costs on\": \"zammı fiyatlara yansıtmak\".",
+    "examples": [
+      {
+        "tr": "Bu fotoğraf o günün havasını çok iyi yansıtıyor.",
+        "en": "This photo reflects the mood of that day very well."
+      },
+      {
+        "tr": "Duygularını yüzüne hiç yansıtmıyor.",
+        "en": "She never lets her feelings show on her face."
+      },
+      {
+        "tr": "Şirket maliyet artışını fiyatlara yansıttı.",
+        "en": "The company passed the cost increase on to prices."
+      },
+      {
+        "tr": "Bu rapor gerçek durumu yansıtmıyor.",
+        "en": "This report doesn't reflect the real situation."
+      }
+    ]
+  },
+  {
+    "id": "irdelemek",
+    "word": "irdelemek",
+    "meaning": "to scrutinise, to examine closely",
+    "partOfSpeech": "verb",
+    "level": "C2",
+    "tip": "Academic and journalistic.",
+    "examples": [
+      {
+        "tr": "Bu konuyu daha ayrıntılı irdelememiz lazım.",
+        "en": "We need to examine this issue in more detail."
+      },
+      {
+        "tr": "Makale, göçün nedenlerini irdeliyor.",
+        "en": "The article scrutinises the causes of migration."
+      },
+      {
+        "tr": "Kararı her yönüyle irdeledik.",
+        "en": "We examined the decision from every angle."
+      },
+      {
+        "tr": "Olayı irdelemeden yorum yapmayalım.",
+        "en": "Let's not comment without looking closely at the incident."
+      }
+    ]
+  },
+  {
+    "id": "velhasil",
+    "word": "velhasıl",
+    "meaning": "in short, all in all",
+    "partOfSpeech": "adverb",
+    "level": "C2",
+    "tip": "Used to sum up a story. Also \"velhasıl kelam\".",
+    "examples": [
+      {
+        "tr": "Velhasıl, tatil harika geçti.",
+        "en": "In short, the holiday was wonderful."
+      },
+      {
+        "tr": "Uçak gecikti, bavul kayboldu, velhasıl berbat bir gündü.",
+        "en": "The plane was late and the bag got lost: all in all, an awful day."
+      },
+      {
+        "tr": "Velhasıl kelam, sonunda anlaştık.",
+        "en": "Long story short, we finally reached an agreement."
+      },
+      {
+        "tr": "Velhasıl, her şey yoluna girdi.",
+        "en": "To sum up, everything worked out."
+      }
+    ]
+  },
+  {
+    "id": "goz-ardi-etmek",
+    "word": "göz ardı etmek",
+    "meaning": "to disregard, to ignore",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "Formal. In speech people also say \"görmezden gelmek\".",
+    "examples": [
+      {
+        "tr": "Bu riski göz ardı edemeyiz.",
+        "en": "We can't disregard this risk."
+      },
+      {
+        "tr": "Uyarı işaretlerini göz ardı etme.",
+        "en": "Don't ignore the warning signs."
+      },
+      {
+        "tr": "Görüşlerimiz tamamen göz ardı edildi.",
+        "en": "Our views were completely ignored."
+      },
+      {
+        "tr": "Beni görmezden geldi, selam bile vermedi.",
+        "en": "She ignored me, didn't even say hello."
+      }
+    ]
+  },
+  {
+    "id": "belirgin",
+    "word": "belirgin",
+    "meaning": "noticeable, distinct",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "\"Belirgin bir şekilde\" = noticeably.",
+    "examples": [
+      {
+        "tr": "İlaçtan sonra belirgin bir iyileşme oldu.",
+        "en": "There was a noticeable improvement after the medicine."
+      },
+      {
+        "tr": "Aksanı çok belirgin.",
+        "en": "His accent is very noticeable."
+      },
+      {
+        "tr": "İki ürün arasında belirgin bir fark yok.",
+        "en": "There's no distinct difference between the two products."
+      },
+      {
+        "tr": "Hava belirgin şekilde ısındı.",
+        "en": "The weather has noticeably warmed up."
+      }
+    ]
+  },
+  {
+    "id": "bagdastirmak",
+    "word": "bağdaştırmak",
+    "meaning": "to reconcile, to square with",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Bunu vicdanıma bağdaştıramam\" = I can't square this with my conscience.",
+    "examples": [
+      {
+        "tr": "Bu davranışı onun karakteriyle bağdaştıramıyorum.",
+        "en": "I can't square this behaviour with his character."
+      },
+      {
+        "tr": "İşi ve aileyi bağdaştırmak kolay değil.",
+        "en": "Reconciling work and family isn't easy."
+      },
+      {
+        "tr": "Söyledikleriyle yaptıkları bağdaşmıyor.",
+        "en": "What he says doesn't match what he does."
+      },
+      {
+        "tr": "İki farklı görüşü bağdaştırmaya çalıştık.",
+        "en": "We tried to reconcile two different views."
+      }
+    ]
+  },
+  {
+    "id": "oldukca",
+    "word": "oldukça",
+    "meaning": "quite, fairly",
+    "partOfSpeech": "adverb",
+    "level": "B2",
+    "tip": "Softer than \"çok\": \"oldukça iyi\" = quite good.",
+    "examples": [
+      {
+        "tr": "Film oldukça ilginçti.",
+        "en": "The film was quite interesting."
+      },
+      {
+        "tr": "Oldukça yorgunum, erken yatacağım.",
+        "en": "I'm fairly tired, I'll go to bed early."
+      },
+      {
+        "tr": "Fiyatlar oldukça makul.",
+        "en": "The prices are quite reasonable."
+      },
+      {
+        "tr": "Oldukça uzun bir yolculuk oldu.",
+        "en": "It was a rather long journey."
+      }
+    ]
+  },
+  {
+    "id": "halbuki",
+    "word": "hâlbuki",
+    "meaning": "whereas, however",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "Used for contrast, often with a hint of complaint: \"Hâlbuki söz vermiştin!\"",
+    "examples": [
+      {
+        "tr": "Gelmedi, hâlbuki söz vermişti.",
+        "en": "He didn't come, even though he had promised."
+      },
+      {
+        "tr": "Hâlbuki ben seni bekliyordum.",
+        "en": "And here I was waiting for you."
+      },
+      {
+        "tr": "Kolay sanıyordum, hâlbuki çok zormuş.",
+        "en": "I thought it would be easy, but it turned out to be very hard."
+      },
+      {
+        "tr": "Hâlbuki dün her şey yolundaydı.",
+        "en": "Yet yesterday everything was fine."
+      }
+    ]
+  },
+  {
+    "id": "etekleri-zil-calmak",
+    "word": "etekleri zil çalmak",
+    "meaning": "to be over the moon",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"one's skirts ring bells\". Extremely happy and excited.",
+    "examples": [
+      {
+        "tr": "Terfi haberini alınca etekleri zil çaldı.",
+        "en": "When she heard about the promotion, she was over the moon."
+      },
+      {
+        "tr": "Tatile çıkacağız diye çocukların etekleri zil çalıyor.",
+        "en": "The kids are over the moon that we're going on holiday."
+      },
+      {
+        "tr": "Maçı kazanınca hepimizin etekleri zil çaldı.",
+        "en": "We were all thrilled when we won the match."
+      },
+      {
+        "tr": "Neden bu kadar mutlusun? Eteklerin zil çalıyor!",
+        "en": "Why are you so happy? You're walking on air!"
+      }
+    ]
+  },
+  {
+    "id": "donem",
+    "word": "dönem",
+    "meaning": "period, term, era",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Bu dönem\" = this term/period. \"Zor bir dönem\" = a hard time.",
+    "examples": [
+      {
+        "tr": "Zor bir dönemden geçiyorum.",
+        "en": "I'm going through a hard time."
+      },
+      {
+        "tr": "Bu dönem beş ders alıyorum.",
+        "en": "I'm taking five courses this term."
+      },
+      {
+        "tr": "Osmanlı dönemi mimarisini çok seviyorum.",
+        "en": "I love Ottoman-era architecture."
+      },
+      {
+        "tr": "Yılın bu döneminde fiyatlar artar.",
+        "en": "Prices go up at this time of year."
+      }
+    ]
+  },
+  {
+    "id": "onyargi",
+    "word": "önyargı",
+    "meaning": "prejudice, bias",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"Önyargılı\" = prejudiced, biased.",
+    "examples": [
+      {
+        "tr": "Önyargılarımızı bir kenara bırakmalıyız.",
+        "en": "We should put our prejudices aside."
+      },
+      {
+        "tr": "İnsanları tanımadan önyargılı olma.",
+        "en": "Don't be biased against people before you know them."
+      },
+      {
+        "tr": "Bu konuda hiçbir önyargım yok.",
+        "en": "I have no prejudice on this issue."
+      },
+      {
+        "tr": "İlk izlenim bazen önyargıya dönüşüyor.",
+        "en": "A first impression sometimes turns into prejudice."
+      }
+    ]
+  },
+  {
+    "id": "kayitsiz",
+    "word": "kayıtsız",
+    "meaning": "indifferent, unconcerned",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "\"Kayıtsız kalmak\" = to remain indifferent.",
+    "examples": [
+      {
+        "tr": "Bu adaletsizliğe kayıtsız kalamam.",
+        "en": "I can't remain indifferent to this injustice."
+      },
+      {
+        "tr": "Olanlara karşı tamamen kayıtsız görünüyordu.",
+        "en": "He seemed completely indifferent to what happened."
+      },
+      {
+        "tr": "Kayıtsız şartsız destek verdi.",
+        "en": "She gave her unconditional support."
+      },
+      {
+        "tr": "Çevre sorunlarına kayıtsız kalmak artık mümkün değil.",
+        "en": "It's no longer possible to be indifferent to environmental problems."
+      }
+    ]
+  },
+  {
+    "id": "itiraf-etmek",
+    "word": "itiraf etmek",
+    "meaning": "to confess, to admit",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"İtiraf etmeliyim ki...\" = I must admit that...",
+    "examples": [
+      {
+        "tr": "İtiraf etmeliyim ki başta çok korktum.",
+        "en": "I must admit I was very scared at first."
+      },
+      {
+        "tr": "Hatasını sonunda itiraf etti.",
+        "en": "He finally admitted his mistake."
+      },
+      {
+        "tr": "Ona duygularımı itiraf ettim.",
+        "en": "I confessed my feelings to her."
+      },
+      {
+        "tr": "Kurabiyeleri yiyenin kendisi olduğunu itiraf etti.",
+        "en": "She admitted she was the one who ate the cookies."
+      }
+    ]
+  },
+  {
+    "id": "munasip",
+    "word": "münasip",
+    "meaning": "suitable, appropriate",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "Old-fashioned but still heard: \"Münasip bir zamanda uğrarım.\"",
+    "examples": [
+      {
+        "tr": "Münasip bir zamanda size uğrarım.",
+        "en": "I'll drop by at a convenient time."
+      },
+      {
+        "tr": "Bu kıyafet düğün için münasip değil.",
+        "en": "This outfit isn't appropriate for a wedding."
+      },
+      {
+        "tr": "Münasip görürseniz toplantıyı erteleyelim.",
+        "en": "If you see fit, let's postpone the meeting."
+      },
+      {
+        "tr": "Ona münasip bir dille durumu anlattım.",
+        "en": "I explained the situation to him in suitable language."
+      }
+    ]
+  },
+  {
+    "id": "yuzlesmek",
+    "word": "yüzleşmek",
+    "meaning": "to face, to confront",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "Takes the instrumental: \"gerçekle yüzleşmek\" = to face the truth.",
+    "examples": [
+      {
+        "tr": "Korkularınla yüzleşmen gerek.",
+        "en": "You need to face your fears."
+      },
+      {
+        "tr": "Sonunda gerçekle yüzleşmek zorunda kaldı.",
+        "en": "In the end he had to face the truth."
+      },
+      {
+        "tr": "Onunla yüzleşip her şeyi konuştum.",
+        "en": "I confronted her and we talked everything through."
+      },
+      {
+        "tr": "Geçmişle yüzleşmek kolay değil.",
+        "en": "Coming to terms with the past isn't easy."
+      }
+    ]
+  },
+  {
+    "id": "isin-asli",
+    "word": "işin aslı",
+    "meaning": "the truth of the matter",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "Used to reveal what's really going on: \"İşin aslı şu ki...\"",
+    "examples": [
+      {
+        "tr": "İşin aslı, ben de pek emin değilim.",
+        "en": "The truth is, I'm not really sure either."
+      },
+      {
+        "tr": "İşin aslını öğrenince çok şaşırdım.",
+        "en": "When I learned what had really happened, I was very surprised."
+      },
+      {
+        "tr": "İşin aslı şu: bütçemiz yetmiyor.",
+        "en": "The fact of the matter is this: our budget isn't enough."
+      },
+      {
+        "tr": "Söylentilere değil, işin aslına bakalım.",
+        "en": "Let's look at the facts, not the rumours."
+      }
+    ]
+  },
+  {
+    "id": "gozden-kacirmak",
+    "word": "gözden kaçırmak",
+    "meaning": "to overlook, to miss",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Literally \"to let escape from the eye\". Perfect for small mistakes at work.",
+    "examples": [
+      {
+        "tr": "Bu hatayı nasıl gözden kaçırdım?",
+        "en": "How did I overlook this mistake?"
+      },
+      {
+        "tr": "Önemli bir detayı gözden kaçırmışız.",
+        "en": "It seems we missed an important detail."
+      },
+      {
+        "tr": "Hiçbir şeyi gözden kaçırmamak için listeyi iki kez kontrol ettim.",
+        "en": "I checked the list twice so as not to miss anything."
+      },
+      {
+        "tr": "Bu fırsatı gözden kaçırma.",
+        "en": "Don't let this opportunity slip by."
+      }
+    ]
+  },
+  {
+    "id": "tahmin-etmek",
+    "word": "tahmin etmek",
+    "meaning": "to guess, to estimate, to predict",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"Tahminimce\" = by my estimate. \"Tahmin et!\" = Guess!",
+    "examples": [
+      {
+        "tr": "Tahmin et, bugün kimi gördüm!",
+        "en": "Guess who I saw today!"
+      },
+      {
+        "tr": "Yolculuğun üç saat süreceğini tahmin ediyorum.",
+        "en": "I estimate the journey will take three hours."
+      },
+      {
+        "tr": "Sonucu kimse tahmin edemezdi.",
+        "en": "Nobody could have predicted the result."
+      },
+      {
+        "tr": "Tahminimce yarın yağmur yağacak.",
+        "en": "My guess is it will rain tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "tevekkul",
+    "word": "tevekkül",
+    "meaning": "resignation, trusting to fate",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Accepting what happens after doing your part.",
+    "examples": [
+      {
+        "tr": "Elimizden geleni yaptık, gerisi tevekkül.",
+        "en": "We've done what we could, the rest is up to fate."
+      },
+      {
+        "tr": "Hastalığını büyük bir tevekkülle karşıladı.",
+        "en": "She faced her illness with great acceptance."
+      },
+      {
+        "tr": "Tevekkül tembellik değildir, önce çalışmak gerekir.",
+        "en": "Trusting fate isn't laziness, you have to work first."
+      },
+      {
+        "tr": "Dedemin tevekkülüne hep hayran kalmışımdır.",
+        "en": "I've always admired my grandfather's serenity."
+      }
+    ]
+  },
+  {
+    "id": "ayrinti",
+    "word": "ayrıntı",
+    "meaning": "detail",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Ayrıntılı\" = detailed. \"Detay\" is a common synonym.",
+    "examples": [
+      {
+        "tr": "Ayrıntıları yarın konuşuruz.",
+        "en": "We'll talk about the details tomorrow."
+      },
+      {
+        "tr": "Bana her şeyi en ince ayrıntısına kadar anlattı.",
+        "en": "He told me everything down to the smallest detail."
+      },
+      {
+        "tr": "Ayrıntılı bir rapor hazırladım.",
+        "en": "I prepared a detailed report."
+      },
+      {
+        "tr": "Küçük ayrıntılar büyük fark yaratır.",
+        "en": "Small details make a big difference."
+      }
+    ]
+  },
+  {
+    "id": "nezaket",
+    "word": "nezaket",
+    "meaning": "courtesy, politeness",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Nazik\" = polite. \"Nezaketen\" = out of courtesy.",
+    "examples": [
+      {
+        "tr": "Nezaketi için teşekkür ettim.",
+        "en": "I thanked him for his courtesy."
+      },
+      {
+        "tr": "Sadece nezaketen davet ettiler.",
+        "en": "They only invited us out of politeness."
+      },
+      {
+        "tr": "Nezaket, insanın en güzel süsüdür.",
+        "en": "Courtesy is a person's finest ornament."
+      },
+      {
+        "tr": "Bu kadar nezaketsiz davranmana gerek yoktu.",
+        "en": "There was no need for you to be so rude."
+      }
+    ]
+  },
+  {
+    "id": "ici-rahat-etmek",
+    "word": "içi rahat etmek",
+    "meaning": "to feel reassured, to be at ease",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "\"İçim rahat\" = I feel at peace about it.",
+    "examples": [
+      {
+        "tr": "Doktor her şeyin yolunda olduğunu söyleyince içim rahat etti.",
+        "en": "I felt reassured when the doctor said everything was fine."
+      },
+      {
+        "tr": "Kapıyı kilitledim, için rahat olsun.",
+        "en": "I locked the door, so don't worry."
+      },
+      {
+        "tr": "Varınca mesaj at ki içim rahat etsin.",
+        "en": "Text me when you arrive so I can relax."
+      },
+      {
+        "tr": "Elimden geleni yaptım, içim rahat.",
+        "en": "I did my best, I'm at peace with it."
+      }
+    ]
+  },
+  {
+    "id": "feragat-etmek",
+    "word": "feragat etmek",
+    "meaning": "to renounce, to waive",
+    "partOfSpeech": "verb",
+    "level": "C2",
+    "tip": "Legal and formal. Takes the ablative: \"haktan feragat etmek\".",
+    "examples": [
+      {
+        "tr": "Mirastan feragat etti.",
+        "en": "He renounced his inheritance."
+      },
+      {
+        "tr": "Bu haklarınızdan feragat etmek zorunda değilsiniz.",
+        "en": "You don't have to waive these rights."
+      },
+      {
+        "tr": "Ailesi için kariyerinden feragat etti.",
+        "en": "She gave up her career for her family."
+      },
+      {
+        "tr": "Tazminattan feragat ettiğine dair bir belge imzaladı.",
+        "en": "He signed a document stating that he waived compensation."
+      }
+    ]
+  },
+  {
+    "id": "kiyaslamak",
+    "word": "kıyaslamak",
+    "meaning": "to compare",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Karşılaştırmak\" is a synonym. \"Kıyasla\" = in comparison.",
+    "examples": [
+      {
+        "tr": "Kendini başkalarıyla kıyaslama.",
+        "en": "Don't compare yourself to others."
+      },
+      {
+        "tr": "Geçen yılla kıyaslarsak fiyatlar iki katına çıktı.",
+        "en": "Compared to last year, prices have doubled."
+      },
+      {
+        "tr": "İki teklifi dikkatlice kıyasladık.",
+        "en": "We carefully compared the two offers."
+      },
+      {
+        "tr": "Bu şehir İstanbul'la kıyaslanamaz bile.",
+        "en": "This city can't even be compared to Istanbul."
+      }
+    ]
+  },
+  {
+    "id": "kavramak",
+    "word": "kavramak",
+    "meaning": "to grasp, to comprehend",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Kavram\" = concept.",
+    "examples": [
+      {
+        "tr": "Konuyu sonunda tam olarak kavradım.",
+        "en": "I finally fully grasped the topic."
+      },
+      {
+        "tr": "Durumun ciddiyetini henüz kavrayamadı.",
+        "en": "He hasn't yet grasped how serious the situation is."
+      },
+      {
+        "tr": "Bu kavramı örnekle açıklar mısınız?",
+        "en": "Could you explain this concept with an example?"
+      },
+      {
+        "tr": "Çocuklar yeni bilgileri çok çabuk kavrıyor.",
+        "en": "Children grasp new information very quickly."
+      }
+    ]
+  },
+  {
+    "id": "efkar",
+    "word": "efkâr",
+    "meaning": "melancholy, wistful sadness",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "A very Turkish mood: \"Efkârlanmak\" = to feel wistful, often with music at night.",
+    "examples": [
+      {
+        "tr": "Bu şarkı beni hep efkârlandırır.",
+        "en": "This song always makes me wistful."
+      },
+      {
+        "tr": "Akşam deniz kenarında biraz efkârlandık.",
+        "en": "We got a bit melancholy by the sea in the evening."
+      },
+      {
+        "tr": "Efkârını dağıtmak için yürüyüşe çıktı.",
+        "en": "He went for a walk to shake off his melancholy."
+      },
+      {
+        "tr": "Yağmurlu havalar insanı efkârlandırıyor.",
+        "en": "Rainy weather makes you feel wistful."
+      }
+    ]
+  },
+  {
+    "id": "ozen",
+    "word": "özen",
+    "meaning": "care, attention to detail",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"Özenli\" = careful, meticulous. \"Özen göstermek\" = to take care.",
+    "examples": [
+      {
+        "tr": "Her detaya özen gösterdik.",
+        "en": "We paid attention to every detail."
+      },
+      {
+        "tr": "Çok özenli bir çalışan.",
+        "en": "She is a very meticulous worker."
+      },
+      {
+        "tr": "Yemeği özenle hazırlamışsın.",
+        "en": "You've prepared the food with such care."
+      },
+      {
+        "tr": "Kitaplarına büyük özen gösteriyor.",
+        "en": "He takes great care of his books."
+      }
+    ]
+  },
+  {
+    "id": "tutum",
+    "word": "tutum",
+    "meaning": "attitude, stance",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"Tutumlu\" means thrifty, a nice extra meaning.",
+    "examples": [
+      {
+        "tr": "Olumlu tutumu herkesi motive etti.",
+        "en": "His positive attitude motivated everyone."
+      },
+      {
+        "tr": "Hükümetin bu konudaki tutumu net değil.",
+        "en": "The government's stance on this issue isn't clear."
+      },
+      {
+        "tr": "Annem çok tutumlu bir kadındır.",
+        "en": "My mother is a very thrifty woman."
+      },
+      {
+        "tr": "Tutumunu değiştirmezsen işler düzelmez.",
+        "en": "If you don't change your attitude, things won't get better."
+      }
+    ]
+  },
+  {
+    "id": "vazgecmek",
+    "word": "vazgeçmek",
+    "meaning": "to give up (on), to change one's mind",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the ablative: \"plandan vazgeçmek\". \"Vazgeçme!\" = Don't give up!",
+    "examples": [
+      {
+        "tr": "Hayallerinden vazgeçme.",
+        "en": "Don't give up on your dreams."
+      },
+      {
+        "tr": "Son anda tatile gitmekten vazgeçtik.",
+        "en": "At the last minute we decided not to go on holiday."
+      },
+      {
+        "tr": "Şekerden vazgeçmek çok zor oldu.",
+        "en": "Giving up sugar was very hard."
+      },
+      {
+        "tr": "Vazgeçtim, o ceketi almayacağım.",
+        "en": "I've changed my mind, I won't buy that jacket."
+      }
+    ]
+  },
+  {
+    "id": "mutevazi",
+    "word": "mütevazı",
+    "meaning": "modest, humble",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "\"Tevazu\" = modesty. Often said as a compliment: \"Çok mütevazı bir insan.\"",
+    "examples": [
+      {
+        "tr": "Bu kadar başarılı olmasına rağmen çok mütevazı.",
+        "en": "Despite being so successful, she's very modest."
+      },
+      {
+        "tr": "Mütevazı bir evde yaşıyorlar.",
+        "en": "They live in a modest house."
+      },
+      {
+        "tr": "Tevazu gösterme, gerçekten harika iş çıkardın.",
+        "en": "Don't be modest, you really did a great job."
+      },
+      {
+        "tr": "Mütevazı bir bütçeyle güzel bir düğün yaptılar.",
+        "en": "They had a lovely wedding on a modest budget."
+      }
+    ]
+  },
+  {
+    "id": "yogun",
+    "word": "yoğun",
+    "meaning": "intense, busy, dense",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "tip": "\"Yoğunum\" = I'm busy. \"Yoğun bakım\" = intensive care.",
+    "examples": [
+      {
+        "tr": "Bu hafta çok yoğunum.",
+        "en": "I'm very busy this week."
+      },
+      {
+        "tr": "Sabahları trafik çok yoğun.",
+        "en": "Traffic is very heavy in the mornings."
+      },
+      {
+        "tr": "Yoğun bir çalışmanın ardından tatile çıktık.",
+        "en": "After a period of intense work we went on holiday."
+      },
+      {
+        "tr": "Yoğun sis yüzünden uçuşlar gecikti.",
+        "en": "Flights were delayed because of thick fog."
+      }
+    ]
+  },
+  {
+    "id": "surdurmek",
+    "word": "sürdürmek",
+    "meaning": "to maintain, to continue",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Sürdürülebilir\" = sustainable.",
+    "examples": [
+      {
+        "tr": "Bu tempoyu uzun süre sürdüremem.",
+        "en": "I can't keep up this pace for long."
+      },
+      {
+        "tr": "İlişkimizi uzaktan sürdürüyoruz.",
+        "en": "We're keeping our relationship going long-distance."
+      },
+      {
+        "tr": "Çalışmalar yarın da sürdürülecek.",
+        "en": "The work will continue tomorrow as well."
+      },
+      {
+        "tr": "Sürdürülebilir bir yaşam için az tüketmek gerekiyor.",
+        "en": "A sustainable life requires consuming less."
+      }
+    ]
+  },
+  {
+    "id": "etkilemek",
+    "word": "etkilemek",
+    "meaning": "to affect, to impress",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"Etkilendim\" = I was impressed / affected. \"Etki\" = effect.",
+    "examples": [
+      {
+        "tr": "Hava durumu ruh halimi çok etkiliyor.",
+        "en": "The weather really affects my mood."
+      },
+      {
+        "tr": "Sunumundan çok etkilendim.",
+        "en": "I was very impressed by your presentation."
+      },
+      {
+        "tr": "Grev bütün uçuşları etkiledi.",
+        "en": "The strike affected all flights."
+      },
+      {
+        "tr": "Bu film beni derinden etkiledi.",
+        "en": "This film moved me deeply."
+      }
+    ]
+  },
+  {
+    "id": "mutemadiyen",
+    "word": "mütemadiyen",
+    "meaning": "continually, incessantly",
+    "partOfSpeech": "adverb",
+    "level": "C2",
+    "tip": "Formal and slightly old-fashioned. Everyday: \"sürekli\".",
+    "examples": [
+      {
+        "tr": "Telefon mütemadiyen çalıyordu.",
+        "en": "The phone was ringing incessantly."
+      },
+      {
+        "tr": "Mütemadiyen aynı şeyi tekrar ediyor.",
+        "en": "He keeps repeating the same thing over and over."
+      },
+      {
+        "tr": "Nüfus mütemadiyen artıyor.",
+        "en": "The population is continually increasing."
+      },
+      {
+        "tr": "Kapıyı mütemadiyen çalan kimdi?",
+        "en": "Who was that knocking on the door non-stop?"
+      }
+    ]
+  },
+  {
+    "id": "beyhude",
+    "word": "beyhude",
+    "meaning": "futile, pointless",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "Literary synonym of \"nafile\".",
+    "examples": [
+      {
+        "tr": "Beyhude bir tartışmaya girmek istemiyorum.",
+        "en": "I don't want to get into a pointless argument."
+      },
+      {
+        "tr": "Beklemek beyhude, otobüs gelmeyecek.",
+        "en": "Waiting is futile, the bus won't come."
+      },
+      {
+        "tr": "Geçmişe takılmak beyhude bir çaba.",
+        "en": "Dwelling on the past is a futile effort."
+      },
+      {
+        "tr": "Beyhude yere endişelenmişim.",
+        "en": "It turns out I worried for nothing."
+      }
+    ]
+  },
+  {
+    "id": "yetkin",
+    "word": "yetkin",
+    "meaning": "competent, qualified",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "\"Yetkinlik\" = competence. Don't confuse with \"yetkili\" (authorised).",
+    "examples": [
+      {
+        "tr": "Bu konuda yetkin birine danışmalıyız.",
+        "en": "We should consult someone competent in this area."
+      },
+      {
+        "tr": "Çok yetkin bir ekiple çalışıyorum.",
+        "en": "I work with a very capable team."
+      },
+      {
+        "tr": "Yetkili biriyle görüşmek istiyorum.",
+        "en": "I'd like to speak to someone in charge."
+      },
+      {
+        "tr": "Dil yetkinliğimi geliştirmek için her gün okuyorum.",
+        "en": "I read every day to improve my language proficiency."
+      }
+    ]
+  },
+  {
+    "id": "muazzam",
+    "word": "muazzam",
+    "meaning": "tremendous, enormous",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "Strong praise: \"Muazzam bir manzara!\"",
+    "examples": [
+      {
+        "tr": "Tepeden muazzam bir manzara vardı.",
+        "en": "There was a tremendous view from the hill."
+      },
+      {
+        "tr": "Bu proje muazzam bir emek gerektirdi.",
+        "en": "This project required enormous effort."
+      },
+      {
+        "tr": "Konser muazzamdı, hâlâ etkisindeyim.",
+        "en": "The concert was amazing, I'm still under its spell."
+      },
+      {
+        "tr": "Teknolojide muazzam bir değişim yaşanıyor.",
+        "en": "Technology is going through a tremendous change."
+      }
+    ]
+  },
+  {
+    "id": "giderek",
+    "word": "giderek",
+    "meaning": "increasingly, gradually",
+    "partOfSpeech": "adverb",
+    "level": "B2",
+    "tip": "\"Giderek artmak\" = to increase steadily.",
+    "examples": [
+      {
+        "tr": "Hava giderek soğuyor.",
+        "en": "The weather is getting colder and colder."
+      },
+      {
+        "tr": "Türkçem giderek gelişiyor.",
+        "en": "My Turkish is gradually improving."
+      },
+      {
+        "tr": "Kiralar giderek artıyor.",
+        "en": "Rents are going up steadily."
+      },
+      {
+        "tr": "Giderek daha çok insan evden çalışıyor.",
+        "en": "More and more people are working from home."
+      }
+    ]
+  },
+  {
+    "id": "nesnel",
+    "word": "nesnel",
+    "meaning": "objective",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "Opposite: \"öznel\" (subjective).",
+    "examples": [
+      {
+        "tr": "Konuya nesnel bakmaya çalışalım.",
+        "en": "Let's try to look at the matter objectively."
+      },
+      {
+        "tr": "Bu tamamen öznel bir yorum.",
+        "en": "This is an entirely subjective opinion."
+      },
+      {
+        "tr": "Hakemin kararı nesnel değildi.",
+        "en": "The referee's decision wasn't objective."
+      },
+      {
+        "tr": "Nesnel ölçütlere göre değerlendirme yapılmalı.",
+        "en": "The evaluation should be based on objective criteria."
+      }
+    ]
+  },
+  {
+    "id": "ister-istemez",
+    "word": "ister istemez",
+    "meaning": "inevitably, willy-nilly",
+    "partOfSpeech": "adverb",
+    "level": "C1",
+    "tip": "Literally \"whether one wants or not\".",
+    "examples": [
+      {
+        "tr": "Bu kadar çalışınca ister istemez yoruluyorsun.",
+        "en": "When you work this much, you inevitably get tired."
+      },
+      {
+        "tr": "Yan masadaki konuşmayı ister istemez duydum.",
+        "en": "I couldn't help overhearing the conversation at the next table."
+      },
+      {
+        "tr": "Taşınınca ister istemez alışkanlıklar değişiyor.",
+        "en": "When you move, your habits inevitably change."
+      },
+      {
+        "tr": "İster istemez ben de gülmeye başladım.",
+        "en": "I couldn't help laughing too."
+      }
+    ]
+  },
+  {
+    "id": "itibar",
+    "word": "itibar",
+    "meaning": "reputation, credibility",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"İtibarlı\" = reputable. \"İtibar kaybetmek\" = to lose face.",
+    "examples": [
+      {
+        "tr": "Şirketin itibarı bu skandalla zedelendi.",
+        "en": "The company's reputation was damaged by this scandal."
+      },
+      {
+        "tr": "Yıllarca itibar kazanmak için çalıştı.",
+        "en": "He worked for years to earn his reputation."
+      },
+      {
+        "tr": "İtibarlı bir avukat tuttuk.",
+        "en": "We hired a reputable lawyer."
+      },
+      {
+        "tr": "Sözünü tutmazsan itibarını kaybedersin.",
+        "en": "If you don't keep your word, you lose credibility."
+      }
+    ]
+  },
+  {
+    "id": "agzi-var-dili-yok",
+    "word": "ağzı var dili yok",
+    "meaning": "very quiet and meek",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"has a mouth but no tongue\". Said of someone who never complains.",
+    "examples": [
+      {
+        "tr": "Ağzı var dili yok bir çocuk, hiç sesi çıkmaz.",
+        "en": "He's such a meek child, you never hear a peep from him."
+      },
+      {
+        "tr": "Ağzı var dili yok diye ona haksızlık yapmayın.",
+        "en": "Don't be unfair to her just because she never speaks up."
+      },
+      {
+        "tr": "Yeni stajyer ağzı var dili yok ama çok çalışkan.",
+        "en": "The new intern is very quiet but very hardworking."
+      },
+      {
+        "tr": "Ağzı var dili yok görünür ama yeri gelince konuşur.",
+        "en": "He looks meek, but he speaks up when it matters."
+      }
+    ]
+  },
+  {
+    "id": "ahenk",
+    "word": "ahenk",
+    "meaning": "harmony",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Ahenkli\" = harmonious. Used for music, colours and relationships.",
+    "examples": [
+      {
+        "tr": "Renkler arasında güzel bir ahenk var.",
+        "en": "There's a beautiful harmony between the colours."
+      },
+      {
+        "tr": "Ekip ahenk içinde çalışıyor.",
+        "en": "The team is working in harmony."
+      },
+      {
+        "tr": "Şiirin ahengi beni çok etkiledi.",
+        "en": "The rhythm of the poem really moved me."
+      },
+      {
+        "tr": "Evliliklerindeki ahenk herkese örnek.",
+        "en": "The harmony in their marriage is an example to everyone."
+      }
+    ]
+  },
+  {
+    "id": "olagan",
+    "word": "olağan",
+    "meaning": "usual, ordinary",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "\"Olağanüstü\" = extraordinary. \"Olağan dışı\" = unusual.",
+    "examples": [
+      {
+        "tr": "Bu yoğunluk yılın bu zamanı için olağan.",
+        "en": "This busyness is normal for this time of year."
+      },
+      {
+        "tr": "Olağanüstü bir performans sergiledi.",
+        "en": "She gave an extraordinary performance."
+      },
+      {
+        "tr": "Olağan dışı bir durum fark ederseniz bize bildirin.",
+        "en": "Let us know if you notice anything unusual."
+      },
+      {
+        "tr": "Her şey olağan seyrinde gidiyor.",
+        "en": "Everything is running its usual course."
+      }
+    ]
+  },
+  {
+    "id": "saglamak",
+    "word": "sağlamak",
+    "meaning": "to provide, to ensure",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Very common in formal and work language: \"destek sağlamak\", \"güvenliği sağlamak\".",
+    "examples": [
+      {
+        "tr": "Otel ücretsiz servis sağlıyor.",
+        "en": "The hotel provides a free shuttle."
+      },
+      {
+        "tr": "Güvenliği sağlamak herkesin görevi.",
+        "en": "Ensuring safety is everyone's duty."
+      },
+      {
+        "tr": "Düzenli uyku, konsantrasyon sağlar.",
+        "en": "Regular sleep provides concentration."
+      },
+      {
+        "tr": "Bu uygulama zamandan tasarruf sağlıyor.",
+        "en": "This app saves time."
+      }
+    ]
+  },
+  {
+    "id": "ongormek",
+    "word": "öngörmek",
+    "meaning": "to foresee, to anticipate",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Öngörülemez\" = unpredictable.",
+    "examples": [
+      {
+        "tr": "Bu sorunu kimse öngöremedi.",
+        "en": "Nobody could foresee this problem."
+      },
+      {
+        "tr": "Yönetmelik ağır cezalar öngörüyor.",
+        "en": "The regulation provides for heavy penalties."
+      },
+      {
+        "tr": "Hava bu mevsimde öngörülemez.",
+        "en": "The weather is unpredictable this season."
+      },
+      {
+        "tr": "Riskleri önceden öngörmek gerekir.",
+        "en": "Risks need to be anticipated in advance."
+      }
+    ]
+  },
+  {
+    "id": "dolayisiyla",
+    "word": "dolayısıyla",
+    "meaning": "therefore, consequently",
+    "partOfSpeech": "adverb",
+    "level": "C1",
+    "tip": "Formal \"so\". \"Bu yüzden\" is the everyday equivalent.",
+    "examples": [
+      {
+        "tr": "Uçuş iptal edildi, dolayısıyla toplantıya katılamadım.",
+        "en": "The flight was cancelled, therefore I couldn't attend the meeting."
+      },
+      {
+        "tr": "Bütçe kısıtlı, dolayısıyla öncelik belirlememiz gerekiyor.",
+        "en": "The budget is limited, so we need to set priorities."
+      },
+      {
+        "tr": "Yağmur yağdı, bu yüzden piknik iptal oldu.",
+        "en": "It rained, so the picnic was cancelled."
+      },
+      {
+        "tr": "Talep arttı, dolayısıyla fiyatlar da yükseldi.",
+        "en": "Demand rose, and consequently prices went up."
+      }
+    ]
+  },
+  {
+    "id": "bertaraf-etmek",
+    "word": "bertaraf etmek",
+    "meaning": "to eliminate, to remove",
+    "partOfSpeech": "verb",
+    "level": "C2",
+    "tip": "Formal and common in news: \"riski bertaraf etmek\".",
+    "examples": [
+      {
+        "tr": "Bu önlemle riski bertaraf ettik.",
+        "en": "We eliminated the risk with this measure."
+      },
+      {
+        "tr": "Tehlike bertaraf edildi.",
+        "en": "The danger has been removed."
+      },
+      {
+        "tr": "Atıklar güvenli şekilde bertaraf edilmeli.",
+        "en": "Waste must be disposed of safely."
+      },
+      {
+        "tr": "Sorunu kökten bertaraf etmek istiyoruz.",
+        "en": "We want to eliminate the problem at its root."
+      }
+    ]
+  },
+  {
+    "id": "gundem",
+    "word": "gündem",
+    "meaning": "agenda, current affairs",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Gündemde olmak\" = to be in the news, to be the talk of the town.",
+    "examples": [
+      {
+        "tr": "Toplantının gündeminde üç konu var.",
+        "en": "There are three items on the meeting agenda."
+      },
+      {
+        "tr": "Bu haber günlerdir gündemde.",
+        "en": "This story has been in the news for days."
+      },
+      {
+        "tr": "Gündemi takip etmeye vaktim olmuyor.",
+        "en": "I don't have time to keep up with current affairs."
+      },
+      {
+        "tr": "Bu konuyu gündeme getirmek istiyorum.",
+        "en": "I want to bring this issue up."
+      }
+    ]
+  },
+  {
+    "id": "gitgide",
+    "word": "gitgide",
+    "meaning": "more and more, gradually",
+    "partOfSpeech": "adverb",
+    "level": "C1",
+    "tip": "A more expressive version of \"giderek\".",
+    "examples": [
+      {
+        "tr": "Gitgide daha iyi anlıyorum.",
+        "en": "I'm understanding more and more."
+      },
+      {
+        "tr": "Hava gitgide karardı.",
+        "en": "It got darker and darker."
+      },
+      {
+        "tr": "Şehir gitgide kalabalıklaşıyor.",
+        "en": "The city is getting more and more crowded."
+      },
+      {
+        "tr": "Aramızdaki mesafe gitgide açıldı.",
+        "en": "The distance between us gradually grew."
+      }
+    ]
+  },
+  {
+    "id": "gozden-irak-olan-gonulden-de-irak-olur",
+    "word": "gözden ırak olan gönülden de ırak olur",
+    "meaning": "out of sight, out of mind",
+    "partOfSpeech": "proverb",
+    "level": "C2",
+    "tip": "Literally \"whoever is far from the eye is also far from the heart\".",
+    "examples": [
+      {
+        "tr": "Taşındıktan sonra arkadaşlarla görüşmeyi bıraktık; gözden ırak olan gönülden de ırak olur.",
+        "en": "After moving we stopped seeing our friends; out of sight, out of mind."
+      },
+      {
+        "tr": "Sık sık ara, gözden ırak olan gönülden de ırak olur derler.",
+        "en": "Call often; they say out of sight, out of mind."
+      },
+      {
+        "tr": "Gözden ırak olan gönülden de ırak olur ama gerçek dostluk öyle değil.",
+        "en": "Out of sight, out of mind, they say, but true friendship isn't like that."
+      },
+      {
+        "tr": "Tatile gidince işi tamamen unuttum; gözden ırak, gönülden ırak.",
+        "en": "When I went on holiday I forgot about work completely: out of sight, out of mind."
+      }
+    ]
+  },
+  {
+    "id": "gurbet",
+    "word": "gurbet",
+    "meaning": "being away from home, living abroad",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "A key cultural concept. \"Gurbetçi\" = someone living abroad (often Turks in Europe).",
+    "examples": [
+      {
+        "tr": "Gurbette yaşamak kolay değil.",
+        "en": "Living far from home isn't easy."
+      },
+      {
+        "tr": "Yıllarını gurbette geçirdi.",
+        "en": "He spent years away from home."
+      },
+      {
+        "tr": "Gurbetçiler yazın memlekete dönüyor.",
+        "en": "Turks living abroad return home in the summer."
+      },
+      {
+        "tr": "Gurbette insan dostlarının değerini daha iyi anlıyor.",
+        "en": "Away from home you appreciate your friends more."
+      }
+    ]
+  },
+  {
+    "id": "gozlemlemek",
+    "word": "gözlemlemek",
+    "meaning": "to observe",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Gözlem\" = observation.",
+    "examples": [
+      {
+        "tr": "Kuşları gözlemlemek için sabah erkenden çıktık.",
+        "en": "We went out early in the morning to watch birds."
+      },
+      {
+        "tr": "İnsanların davranışlarını gözlemlemeyi seviyorum.",
+        "en": "I like observing people's behaviour."
+      },
+      {
+        "tr": "Deneyin sonuçlarını dikkatle gözlemledik.",
+        "en": "We carefully observed the results of the experiment."
+      },
+      {
+        "tr": "Benim gözlemime göre ekip çok yorgun.",
+        "en": "In my observation the team is very tired."
+      }
+    ]
+  },
+  {
+    "id": "gelenek",
+    "word": "gelenek",
+    "meaning": "tradition",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Geleneksel\" = traditional. \"Gelenek görenek\" = customs and traditions.",
+    "examples": [
+      {
+        "tr": "Bayramda büyüklerin elini öpmek bir gelenek.",
+        "en": "Kissing elders' hands at bayram is a tradition."
+      },
+      {
+        "tr": "Her yılbaşı ailece toplanmak bizim geleneğimiz.",
+        "en": "Getting together as a family every New Year is our tradition."
+      },
+      {
+        "tr": "Geleneksel Türk kahvaltısını denemelisin.",
+        "en": "You should try a traditional Turkish breakfast."
+      },
+      {
+        "tr": "Bazı gelenekler zamanla değişiyor.",
+        "en": "Some traditions change over time."
+      }
+    ]
+  },
+  {
+    "id": "dirayet",
+    "word": "dirayet",
+    "meaning": "competence, sound judgement",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Praise for leaders: \"dirayetli bir yönetici\".",
+    "examples": [
+      {
+        "tr": "Zor durumu büyük bir dirayetle yönetti.",
+        "en": "She managed the difficult situation with great competence."
+      },
+      {
+        "tr": "Dirayetli bir lidere ihtiyacımız var.",
+        "en": "We need a capable leader."
+      },
+      {
+        "tr": "Kriz, yönetimin dirayetini sınadı.",
+        "en": "The crisis tested the management's judgement."
+      },
+      {
+        "tr": "Babası vefat edince aileyi dirayetle ayakta tuttu.",
+        "en": "When his father passed away, he kept the family going with great strength."
+      }
+    ]
+  },
+  {
+    "id": "olumlu",
+    "word": "olumlu",
+    "meaning": "positive",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "tip": "Opposite: \"olumsuz\" (negative). \"Olumlu düşünmek\" = to think positively.",
+    "examples": [
+      {
+        "tr": "Mülakattan olumlu bir cevap aldım.",
+        "en": "I got a positive answer from the interview."
+      },
+      {
+        "tr": "Her şeye olumlu bakmaya çalışıyorum.",
+        "en": "I try to look at everything positively."
+      },
+      {
+        "tr": "Hava olumsuz olursa piknik iptal.",
+        "en": "If the weather is bad the picnic is cancelled."
+      },
+      {
+        "tr": "Doktorun olumlu haberleri hepimizi rahatlattı.",
+        "en": "The doctor's positive news relieved us all."
+      }
+    ]
+  },
+  {
+    "id": "olcu",
+    "word": "ölçü",
+    "meaning": "measure, measurement, moderation",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Ölçülü\" = moderate, measured. \"Ölçü almak\" = to take measurements.",
+    "examples": [
+      {
+        "tr": "Terzi ceket için ölçümü aldı.",
+        "en": "The tailor took my measurements for the jacket."
+      },
+      {
+        "tr": "Her şeyin ölçüsü önemli.",
+        "en": "Moderation matters in everything."
+      },
+      {
+        "tr": "Ölçülü konuşmak her zaman işe yarar.",
+        "en": "Speaking with restraint always helps."
+      },
+      {
+        "tr": "Tarifteki ölçüleri tam uyguladım.",
+        "en": "I followed the measurements in the recipe exactly."
+      }
+    ]
+  },
+  {
+    "id": "zarafet",
+    "word": "zarafet",
+    "meaning": "elegance, grace",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Zarif\" = elegant, graceful.",
+    "examples": [
+      {
+        "tr": "Dansındaki zarafet herkesi büyüledi.",
+        "en": "The grace of her dance captivated everyone."
+      },
+      {
+        "tr": "Çok zarif bir evleri var.",
+        "en": "They have a very elegant home."
+      },
+      {
+        "tr": "Eleştiriyi bile zarafetle yapıyor.",
+        "en": "He even criticises with grace."
+      },
+      {
+        "tr": "Zarafet sadelikte gizlidir.",
+        "en": "Elegance lies in simplicity."
+      }
+    ]
+  },
+  {
+    "id": "bilincli",
+    "word": "bilinçli",
+    "meaning": "conscious, deliberate, informed",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "\"Bilinçli tüketici\" = informed consumer. \"Bilinçsiz\" = careless, unconscious.",
+    "examples": [
+      {
+        "tr": "Bilinçli bir tüketici olmaya çalışıyorum.",
+        "en": "I try to be an informed consumer."
+      },
+      {
+        "tr": "Bunu bilinçli olarak mı yaptın?",
+        "en": "Did you do this on purpose?"
+      },
+      {
+        "tr": "Antibiyotiklerin bilinçsiz kullanımı tehlikeli.",
+        "en": "Careless use of antibiotics is dangerous."
+      },
+      {
+        "tr": "Çocukları bilinçli yetiştirmek önemli.",
+        "en": "It's important to raise children thoughtfully."
+      }
+    ]
+  },
+  {
+    "id": "ustlenmek",
+    "word": "üstlenmek",
+    "meaning": "to take on, to undertake",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Sorumluluğu üstlenmek\" = to take on the responsibility.",
+    "examples": [
+      {
+        "tr": "Projenin liderliğini ben üstlendim.",
+        "en": "I took on leading the project."
+      },
+      {
+        "tr": "Kimse hatanın sorumluluğunu üstlenmek istemedi.",
+        "en": "Nobody wanted to take responsibility for the mistake."
+      },
+      {
+        "tr": "Bu kadar işi tek başına üstlenme.",
+        "en": "Don't take on this much work by yourself."
+      },
+      {
+        "tr": "Masrafları şirket üstlenecek.",
+        "en": "The company will cover the costs."
+      }
+    ]
+  },
+  {
+    "id": "suphelenmek",
+    "word": "şüphelenmek",
+    "meaning": "to suspect, to be suspicious",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the ablative: \"ondan şüpheleniyorum\". \"Şüphe\" = doubt.",
+    "examples": [
+      {
+        "tr": "Bir şeylerin ters gittiğinden şüphelendim.",
+        "en": "I suspected something was going wrong."
+      },
+      {
+        "tr": "Polis komşudan şüphelendi.",
+        "en": "The police suspected the neighbour."
+      },
+      {
+        "tr": "Bu kadar ucuz olması beni şüphelendirdi.",
+        "en": "It being so cheap made me suspicious."
+      },
+      {
+        "tr": "Hiç şüphe yok, doğru karar verdin.",
+        "en": "There's no doubt, you made the right decision."
+      }
+    ]
+  },
+  {
+    "id": "abartmak",
+    "word": "abartmak",
+    "meaning": "to exaggerate, to overdo",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"Abartma!\" = Don't exaggerate! / Don't overdo it!",
+    "examples": [
+      {
+        "tr": "Abartma, o kadar da kötü değildi.",
+        "en": "Don't exaggerate, it wasn't that bad."
+      },
+      {
+        "tr": "Tuzu biraz abartmışım.",
+        "en": "I seem to have overdone the salt."
+      },
+      {
+        "tr": "Her şeyi abartarak anlatıyor.",
+        "en": "He tells everything with exaggeration."
+      },
+      {
+        "tr": "Sporu ilk gün abartınca her yerim ağrıdı.",
+        "en": "I overdid the exercise on the first day and ached everywhere."
+      }
+    ]
+  },
+  {
+    "id": "ne-var-ki",
+    "word": "ne var ki",
+    "meaning": "however, the thing is",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "A written or formal \"but\". Great for essays and emails.",
+    "examples": [
+      {
+        "tr": "Plan güzeldi, ne var ki bütçe yetmedi.",
+        "en": "The plan was good, however the budget wasn't enough."
+      },
+      {
+        "tr": "Çok çalıştı, ne var ki şansı yaver gitmedi.",
+        "en": "He worked hard, but luck wasn't on his side."
+      },
+      {
+        "tr": "Teklif cazip, ne var ki zamanım yok.",
+        "en": "The offer is tempting, the thing is I don't have time."
+      },
+      {
+        "tr": "Herkes hazırdı, ne var ki hava bozdu.",
+        "en": "Everyone was ready, however the weather turned bad."
+      }
+    ]
+  },
+  {
+    "id": "kili-kirk-yarmak",
+    "word": "kılı kırk yarmak",
+    "meaning": "to split hairs, to be meticulous",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"to split a hair forty times\". Can be praise or complaint.",
+    "examples": [
+      {
+        "tr": "Raporu hazırlarken kılı kırk yardı.",
+        "en": "He was meticulous when preparing the report."
+      },
+      {
+        "tr": "Bu kadar kılı kırk yarmaya gerek yok.",
+        "en": "There's no need to split hairs this much."
+      },
+      {
+        "tr": "Muhasebecimiz kılı kırk yaran biri, hiç hata yapmaz.",
+        "en": "Our accountant is extremely meticulous and never makes mistakes."
+      },
+      {
+        "tr": "Sözleşmeyi kılı kırk yararak okuduk.",
+        "en": "We read the contract with a fine-tooth comb."
+      }
+    ]
+  },
+  {
+    "id": "husran",
+    "word": "hüsran",
+    "meaning": "disappointment, frustration",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Stronger and more literary than \"hayal kırıklığı\".",
+    "examples": [
+      {
+        "tr": "Tatil tam bir hüsranla sonuçlandı.",
+        "en": "The holiday ended in complete disappointment."
+      },
+      {
+        "tr": "Aylarca bekledik ama sonuç hüsran oldu.",
+        "en": "We waited for months, but the outcome was a letdown."
+      },
+      {
+        "tr": "Büyük umutlarla başladı, hüsranla bitti.",
+        "en": "It started with great hopes and ended in frustration."
+      },
+      {
+        "tr": "Hayal kırıklığına uğramamak için beklentimi düşük tuttum.",
+        "en": "I kept my expectations low so as not to be disappointed."
+      }
+    ]
+  },
+  {
+    "id": "sakla-samani-gelir-zamani",
+    "word": "sakla samanı gelir zamanı",
+    "meaning": "save it, its time will come",
+    "partOfSpeech": "proverb",
+    "level": "C2",
+    "tip": "Literally \"keep the straw, its time will come\". Don't throw things away too soon.",
+    "examples": [
+      {
+        "tr": "Eski kabloları atma, sakla samanı gelir zamanı.",
+        "en": "Don't throw away the old cables, you'll need them someday."
+      },
+      {
+        "tr": "Annem her poşeti saklar, \"sakla samanı gelir zamanı\" der.",
+        "en": "My mother keeps every bag and says \"you never know when you'll need it\"."
+      },
+      {
+        "tr": "Sakla samanı gelir zamanı, o kutu şimdi işimize yaradı.",
+        "en": "Waste not, want not: that box has come in handy now."
+      },
+      {
+        "tr": "Bu notları sakla, samanı gelir zamanı.",
+        "en": "Keep these notes; they'll be useful one day."
+      }
+    ]
+  },
+  {
+    "id": "el-birligiyle",
+    "word": "el birliğiyle",
+    "meaning": "jointly, with everyone's help",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "Literally \"with unity of hands\".",
+    "examples": [
+      {
+        "tr": "Evi el birliğiyle bir günde boyadık.",
+        "en": "We painted the house together in one day."
+      },
+      {
+        "tr": "Bu projeyi el birliğiyle bitirdik.",
+        "en": "We finished this project with everyone pitching in."
+      },
+      {
+        "tr": "Mahalleli el birliğiyle parkı temizledi.",
+        "en": "The neighbours cleaned the park together."
+      },
+      {
+        "tr": "El birliğiyle her sorunu çözebiliriz.",
+        "en": "Working together we can solve any problem."
+      }
+    ]
+  },
+  {
+    "id": "izlenim",
+    "word": "izlenim",
+    "meaning": "impression",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"İlk izlenim\" = first impression.",
+    "examples": [
+      {
+        "tr": "İlk izlenim çok önemlidir.",
+        "en": "First impressions are very important."
+      },
+      {
+        "tr": "Bende çok iyi bir izlenim bıraktı.",
+        "en": "She left a very good impression on me."
+      },
+      {
+        "tr": "Şehir hakkındaki izlenimlerin neler?",
+        "en": "What are your impressions of the city?"
+      },
+      {
+        "tr": "Hiç ilgilenmiyormuş gibi bir izlenim verdi.",
+        "en": "He gave the impression that he wasn't interested at all."
+      }
+    ]
+  },
+  {
+    "id": "olcut",
+    "word": "ölçüt",
+    "meaning": "criterion, standard",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "Native synonym of \"kriter\".",
+    "examples": [
+      {
+        "tr": "Başarının tek ölçütü para değildir.",
+        "en": "Money isn't the only measure of success."
+      },
+      {
+        "tr": "Hangi ölçütlere göre seçim yapılıyor?",
+        "en": "By which criteria is the selection made?"
+      },
+      {
+        "tr": "Bu ürün kalite ölçütlerini karşılamıyor.",
+        "en": "This product doesn't meet the quality standards."
+      },
+      {
+        "tr": "Kendi ölçütlerimi başkalarına dayatmam.",
+        "en": "I don't impose my own standards on others."
+      }
+    ]
+  },
+  {
+    "id": "ihmal-etmek",
+    "word": "ihmal etmek",
+    "meaning": "to neglect",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"İhmal\" = negligence. \"Sağlığını ihmal etme\" = don't neglect your health.",
+    "examples": [
+      {
+        "tr": "İş yüzünden ailemi ihmal etmek istemiyorum.",
+        "en": "I don't want to neglect my family because of work."
+      },
+      {
+        "tr": "Sağlığını ihmal etme.",
+        "en": "Don't neglect your health."
+      },
+      {
+        "tr": "Bahçeyi biraz ihmal ettik, her yer ot oldu.",
+        "en": "We neglected the garden a bit and it's overgrown."
+      },
+      {
+        "tr": "Kaza bir ihmal sonucu oldu.",
+        "en": "The accident happened due to negligence."
+      }
+    ]
+  },
+  {
+    "id": "vefa",
+    "word": "vefa",
+    "meaning": "loyalty, faithfulness (to people and the past)",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Vefalı\" = loyal. \"Vefasız\" = someone who forgets old friends.",
+    "examples": [
+      {
+        "tr": "Vefalı bir dost bulmak zor.",
+        "en": "It's hard to find a loyal friend."
+      },
+      {
+        "tr": "Yıllar sonra bile bizi aradı, ne kadar vefalı.",
+        "en": "He called us even after years, how loyal of him."
+      },
+      {
+        "tr": "Vefasızlık yapma, arada bir ara.",
+        "en": "Don't be a stranger, call once in a while."
+      },
+      {
+        "tr": "Öğretmenine olan vefası herkesi duygulandırdı.",
+        "en": "His loyalty to his teacher moved everyone."
+      }
+    ]
+  },
+  {
+    "id": "dereyi-gormeden-pacalari-sivamak",
+    "word": "dereyi görmeden paçaları sıvamak",
+    "meaning": "to count your chickens before they hatch",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"to roll up your trousers before seeing the stream\".",
+    "examples": [
+      {
+        "tr": "Daha iş teklifi gelmeden araba bakmaya başladı, dereyi görmeden paçaları sıvıyor.",
+        "en": "He started looking at cars before getting the job offer; he's counting his chickens."
+      },
+      {
+        "tr": "Dereyi görmeden paçaları sıvama, önce sonucu bekle.",
+        "en": "Don't count your chickens, wait for the result first."
+      },
+      {
+        "tr": "Kazanmadan kutlama yapmak dereyi görmeden paçaları sıvamak olur.",
+        "en": "Celebrating before winning is counting your chickens before they hatch."
+      },
+      {
+        "tr": "Kredi onaylanmadan ev eşyası aldık, dereyi görmeden paçaları sıvamışız.",
+        "en": "We bought furniture before the loan was approved; we jumped the gun."
+      }
+    ]
+  },
+  {
+    "id": "tepki",
+    "word": "tepki",
+    "meaning": "reaction, response",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Tepki vermek\" = to react. \"Tepki göstermek\" = to protest, to react strongly.",
+    "examples": [
+      {
+        "tr": "Haberi duyunca tepkisi ne oldu?",
+        "en": "What was his reaction when he heard the news?"
+      },
+      {
+        "tr": "Bu karara halk büyük tepki gösterdi.",
+        "en": "The public reacted strongly to this decision."
+      },
+      {
+        "tr": "Çok sakin bir tepki verdi.",
+        "en": "She reacted very calmly."
+      },
+      {
+        "tr": "Bazı ilaçlara vücudum tepki veriyor.",
+        "en": "My body reacts to some medicines."
+      }
+    ]
+  },
+  {
+    "id": "hafife-almak",
+    "word": "hafife almak",
+    "meaning": "to underestimate, to take lightly",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "Literally \"to take as light\". Opposite: \"ciddiye almak\" (to take seriously).",
+    "examples": [
+      {
+        "tr": "Bu hastalığı hafife alma.",
+        "en": "Don't take this illness lightly."
+      },
+      {
+        "tr": "Rakibi hafife aldık ve kaybettik.",
+        "en": "We underestimated the opponent and lost."
+      },
+      {
+        "tr": "Onun uyarılarını ciddiye almalıydık.",
+        "en": "We should have taken his warnings seriously."
+      },
+      {
+        "tr": "Kimse bu işi hafife almasın.",
+        "en": "Let nobody take this job lightly."
+      }
+    ]
+  },
+  {
+    "id": "goz-gore-gore",
+    "word": "göz göre göre",
+    "meaning": "in plain sight, knowingly",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "For something done or allowed to happen despite being obvious.",
+    "examples": [
+      {
+        "tr": "Göz göre göre yalan söyledi.",
+        "en": "He lied right to our faces."
+      },
+      {
+        "tr": "Fırsatı göz göre göre kaçırdık.",
+        "en": "We let the opportunity slip right before our eyes."
+      },
+      {
+        "tr": "Göz göre göre hata yapmak istemiyorum.",
+        "en": "I don't want to make a mistake knowingly."
+      },
+      {
+        "tr": "Paramızı göz göre göre çaldılar.",
+        "en": "They stole our money in broad daylight."
+      }
+    ]
+  },
+  {
+    "id": "gerceklestirmek",
+    "word": "gerçekleştirmek",
+    "meaning": "to carry out, to realise, to make happen",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Formal, common in news: \"toplantı gerçekleştirildi\" = the meeting took place.",
+    "examples": [
+      {
+        "tr": "Sonunda hayalimi gerçekleştirdim.",
+        "en": "I finally made my dream come true."
+      },
+      {
+        "tr": "Proje planlandığı gibi gerçekleştirildi.",
+        "en": "The project was carried out as planned."
+      },
+      {
+        "tr": "Ameliyat başarıyla gerçekleştirildi.",
+        "en": "The operation was performed successfully."
+      },
+      {
+        "tr": "Bu fikri gerçekleştirmek için ekibe ihtiyacımız var.",
+        "en": "We need a team to make this idea happen."
+      }
+    ]
+  },
+  {
+    "id": "kosul",
+    "word": "koşul",
+    "meaning": "condition, term",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Şartıyla\" / \"koşuluyla\" = on condition that.",
+    "examples": [
+      {
+        "tr": "Bu koşullarda çalışmak çok zor.",
+        "en": "It's very hard to work in these conditions."
+      },
+      {
+        "tr": "Sözleşmenin koşullarını dikkatle okudum.",
+        "en": "I read the terms of the contract carefully."
+      },
+      {
+        "tr": "Erken döneceğin koşuluyla gidebilirsin.",
+        "en": "You can go on condition that you come back early."
+      },
+      {
+        "tr": "Hava koşulları uçuşları etkiledi.",
+        "en": "The weather conditions affected the flights."
+      }
+    ]
+  },
+  {
+    "id": "tutarli",
+    "word": "tutarlı",
+    "meaning": "consistent, coherent",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "Opposite: \"tutarsız\" (inconsistent).",
+    "examples": [
+      {
+        "tr": "Söyledikleri hiç tutarlı değil.",
+        "en": "What he says isn't consistent at all."
+      },
+      {
+        "tr": "Tutarlı çalışmak yetenekten daha önemli.",
+        "en": "Working consistently is more important than talent."
+      },
+      {
+        "tr": "Verilerde bazı tutarsızlıklar var.",
+        "en": "There are some inconsistencies in the data."
+      },
+      {
+        "tr": "Çocuklara karşı tutarlı olmak gerekir.",
+        "en": "You need to be consistent with children."
+      }
+    ]
+  },
+  {
+    "id": "nuans",
+    "word": "nüans",
+    "meaning": "nuance",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "Borrowed from French. \"İnce bir fark\" is the native way to say it.",
+    "examples": [
+      {
+        "tr": "Bu iki kelime arasında küçük bir nüans var.",
+        "en": "There's a small nuance between these two words."
+      },
+      {
+        "tr": "Çeviride bazı nüanslar kayboluyor.",
+        "en": "Some nuances get lost in translation."
+      },
+      {
+        "tr": "Aralarındaki ince farkı anlamak zaman aldı.",
+        "en": "It took time to understand the subtle difference between them."
+      },
+      {
+        "tr": "Nüansları yakalamak için dizileri Türkçe izliyorum.",
+        "en": "I watch series in Turkish to catch the nuances."
+      }
+    ]
+  },
+  {
+    "id": "bin-dereden-su-getirmek",
+    "word": "bin dereden su getirmek",
+    "meaning": "to make endless excuses",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"to bring water from a thousand streams\".",
+    "examples": [
+      {
+        "tr": "Ödevini yapmamak için bin dereden su getirdi.",
+        "en": "He made up every excuse under the sun not to do his homework."
+      },
+      {
+        "tr": "Bin dereden su getirme, açıkça söyle.",
+        "en": "Stop beating around the bush and say it clearly."
+      },
+      {
+        "tr": "Borcunu ödememek için bin dereden su getiriyor.",
+        "en": "He comes up with endless excuses not to pay his debt."
+      },
+      {
+        "tr": "Geç kalınca bin dereden su getirmeye başladı.",
+        "en": "When he was late he started making all sorts of excuses."
+      }
+    ]
+  },
+  {
+    "id": "ortam",
+    "word": "ortam",
+    "meaning": "environment, atmosphere, setting",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "Used for the atmosphere of a place: \"iş ortamı\", \"samimi bir ortam\".",
+    "examples": [
+      {
+        "tr": "Bu kafenin ortamı çok huzurlu.",
+        "en": "This café has a very peaceful atmosphere."
+      },
+      {
+        "tr": "İyi bir çalışma ortamı verimliliği artırır.",
+        "en": "A good working environment increases productivity."
+      },
+      {
+        "tr": "Kalabalık ortamlarda kendimi rahat hissetmiyorum.",
+        "en": "I don't feel comfortable in crowded settings."
+      },
+      {
+        "tr": "Ortamı biraz yumuşatmak için şaka yaptı.",
+        "en": "He made a joke to lighten the atmosphere."
+      }
+    ]
+  },
+  {
+    "id": "yararlanmak",
+    "word": "yararlanmak",
+    "meaning": "to benefit from, to make use of",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the ablative: \"indirimden yararlanmak\".",
+    "examples": [
+      {
+        "tr": "Öğrenci indiriminden yararlanabilirsiniz.",
+        "en": "You can take advantage of the student discount."
+      },
+      {
+        "tr": "Bu kitaptan çok yararlandım.",
+        "en": "I benefited a lot from this book."
+      },
+      {
+        "tr": "Güzel havadan yararlanıp yürüyüşe çıktık.",
+        "en": "We made the most of the nice weather and went for a walk."
+      },
+      {
+        "tr": "Deneyimli çalışanların bilgisinden yararlanmalıyız.",
+        "en": "We should draw on the knowledge of experienced staff."
+      }
+    ]
+  },
+  {
+    "id": "hosgoru",
+    "word": "hoşgörü",
+    "meaning": "tolerance, open-mindedness",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Hoşgörülü\" = tolerant, understanding.",
+    "examples": [
+      {
+        "tr": "Hoşgörü, birlikte yaşamanın temelidir.",
+        "en": "Tolerance is the basis of living together."
+      },
+      {
+        "tr": "Biraz daha hoşgörülü olabilirsin.",
+        "en": "You could be a bit more understanding."
+      },
+      {
+        "tr": "Farklı kültürlere hoşgörüyle yaklaşıyor.",
+        "en": "She approaches different cultures with open-mindedness."
+      },
+      {
+        "tr": "Hatalara hoşgörüyle bakmak gerekir.",
+        "en": "Mistakes should be viewed with tolerance."
+      }
+    ]
+  },
+  {
+    "id": "elestiri",
+    "word": "eleştiri",
+    "meaning": "criticism, critique",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Eleştirmek\" = to criticise. \"Yapıcı eleştiri\" = constructive criticism.",
+    "examples": [
+      {
+        "tr": "Yapıcı eleştirilere her zaman açığım.",
+        "en": "I'm always open to constructive criticism."
+      },
+      {
+        "tr": "Film olumlu eleştiriler aldı.",
+        "en": "The film received positive reviews."
+      },
+      {
+        "tr": "Başkalarını eleştirmek kolay.",
+        "en": "It's easy to criticise others."
+      },
+      {
+        "tr": "Eleştiriyi kişisel algılama.",
+        "en": "Don't take the criticism personally."
+      }
+    ]
+  },
+  {
+    "id": "binaenaleyh",
+    "word": "binaenaleyh",
+    "meaning": "consequently, therefore",
+    "partOfSpeech": "adverb",
+    "level": "C2",
+    "tip": "Very formal, often used jokingly in everyday speech.",
+    "examples": [
+      {
+        "tr": "Hava soğuk, binaenaleyh kalın giyinmelisin.",
+        "en": "It's cold, therefore you should dress warmly."
+      },
+      {
+        "tr": "Toplantı iptal oldu; binaenaleyh erken çıkabiliriz.",
+        "en": "The meeting was cancelled; consequently, we can leave early."
+      },
+      {
+        "tr": "Dedem her cümlesine \"binaenaleyh\" diye başlardı.",
+        "en": "My grandfather used to start every sentence with \"binaenaleyh\"."
+      },
+      {
+        "tr": "Çay bitti, binaenaleyh kahve içeceğiz.",
+        "en": "The tea's run out; ergo, we'll be drinking coffee."
+      }
+    ]
+  },
+  {
+    "id": "degerlendirmek",
+    "word": "değerlendirmek",
+    "meaning": "to evaluate, to make good use of",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Also \"to make use of\": \"boş zamanı değerlendirmek\", \"fırsatı değerlendirmek\".",
+    "examples": [
+      {
+        "tr": "Başvurunuzu değerlendirip size döneceğiz.",
+        "en": "We'll evaluate your application and get back to you."
+      },
+      {
+        "tr": "Boş zamanımı kitap okuyarak değerlendiriyorum.",
+        "en": "I use my free time reading books."
+      },
+      {
+        "tr": "Bu fırsatı iyi değerlendirmelisin.",
+        "en": "You should make good use of this opportunity."
+      },
+      {
+        "tr": "Artan yemekleri ertesi gün değerlendiriyoruz.",
+        "en": "We use up the leftovers the next day."
+      }
+    ]
+  },
+  {
+    "id": "baslica",
+    "word": "başlıca",
+    "meaning": "main, principal",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "Used before nouns: \"başlıca sebepler\" = the main reasons.",
+    "examples": [
+      {
+        "tr": "Stresin başlıca nedeni yoğun iş temposu.",
+        "en": "The main cause of stress is the intense pace of work."
+      },
+      {
+        "tr": "Şehrin başlıca turistik yerlerini gezdik.",
+        "en": "We visited the city's main tourist spots."
+      },
+      {
+        "tr": "Başlıca sorunlarımızı listeledim.",
+        "en": "I listed our main problems."
+      },
+      {
+        "tr": "Türkiye'nin başlıca ihraç ürünleri nelerdir?",
+        "en": "What are Turkey's main export products?"
+      }
+    ]
+  },
+  {
+    "id": "sorgulamak",
+    "word": "sorgulamak",
+    "meaning": "to question, to interrogate",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Kendini sorgulamak\" = to question oneself, to reflect.",
+    "examples": [
+      {
+        "tr": "Her şeyi sorgulamak iyidir ama abartmamak lazım.",
+        "en": "Questioning everything is good, but you shouldn't overdo it."
+      },
+      {
+        "tr": "Son zamanlarda kariyer seçimimi sorguluyorum.",
+        "en": "Lately I've been questioning my career choice."
+      },
+      {
+        "tr": "Polis şüpheliyi saatlerce sorguladı.",
+        "en": "The police questioned the suspect for hours."
+      },
+      {
+        "tr": "Kararlarını sorgulamaktan korkma.",
+        "en": "Don't be afraid to question your decisions."
+      }
+    ]
+  },
+  {
+    "id": "ertelemek",
+    "word": "ertelemek",
+    "meaning": "to postpone, to put off",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "\"Erteleme\" = procrastination or postponement. Very common for meetings and plans.",
+    "examples": [
+      {
+        "tr": "Toplantıyı gelecek haftaya erteledik.",
+        "en": "We postponed the meeting to next week."
+      },
+      {
+        "tr": "İşleri son dakikaya ertelemeyi bırakmalıyım.",
+        "en": "I need to stop putting things off until the last minute."
+      },
+      {
+        "tr": "Yağmur yüzünden maç ertelendi.",
+        "en": "The match was postponed because of rain."
+      },
+      {
+        "tr": "Alarmı üç kez erteledim, yine geç kaldım.",
+        "en": "I snoozed the alarm three times and was late again."
+      }
+    ]
+  },
+  {
+    "id": "vurgulamak",
+    "word": "vurgulamak",
+    "meaning": "to emphasise, to stress",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "\"Vurgu\" = emphasis, stress (also word stress).",
+    "examples": [
+      {
+        "tr": "Öğretmen bu konunun önemini özellikle vurguladı.",
+        "en": "The teacher particularly stressed the importance of this topic."
+      },
+      {
+        "tr": "Bir kez daha vurgulamak istiyorum: güvenlik önce gelir.",
+        "en": "I want to emphasise it once more: safety comes first."
+      },
+      {
+        "tr": "Türkçede vurgu genellikle son hecededir.",
+        "en": "In Turkish the stress is usually on the last syllable."
+      },
+      {
+        "tr": "Raporda olumlu gelişmeleri vurguladık.",
+        "en": "We highlighted the positive developments in the report."
+      }
+    ]
+  },
+  {
+    "id": "damlaya-damlaya-gol-olur",
+    "word": "damlaya damlaya göl olur",
+    "meaning": "many drops make a lake",
+    "partOfSpeech": "proverb",
+    "level": "C2",
+    "tip": "Small savings or efforts add up. A favourite for motivation.",
+    "examples": [
+      {
+        "tr": "Her gün beş kelime öğren, damlaya damlaya göl olur.",
+        "en": "Learn five words a day; little by little it adds up."
+      },
+      {
+        "tr": "Az da olsa biriktir, damlaya damlaya göl olur.",
+        "en": "Save even a little; it all adds up."
+      },
+      {
+        "tr": "Damlaya damlaya göl oldu, şimdi araba alabiliyoruz.",
+        "en": "Bit by bit it added up, and now we can buy a car."
+      },
+      {
+        "tr": "Küçük adımları küçümseme, damlaya damlaya göl olur.",
+        "en": "Don't underestimate small steps; they add up."
+      }
+    ]
+  },
+  {
+    "id": "uzum-uzume-baka-baka-kararir",
+    "word": "üzüm üzüme baka baka kararır",
+    "meaning": "people pick up the habits of those around them",
+    "partOfSpeech": "proverb",
+    "level": "C2",
+    "tip": "Literally \"grapes darken by looking at each other\". About influence, good or bad.",
+    "examples": [
+      {
+        "tr": "Yeni arkadaşlarıyla o da geç yatmaya başladı; üzüm üzüme baka baka kararır.",
+        "en": "With his new friends he started going to bed late too; people pick up each other's habits."
+      },
+      {
+        "tr": "Çalışkan insanlarla takıl, üzüm üzüme baka baka kararır.",
+        "en": "Hang out with hardworking people; you become like the company you keep."
+      },
+      {
+        "tr": "Kardeşler birbirinden etkileniyor, üzüm üzüme baka baka kararır.",
+        "en": "Siblings influence each other; they pick up each other's ways."
+      },
+      {
+        "tr": "Üzüm üzüme baka baka kararır, ekipteki herkes artık erken geliyor.",
+        "en": "Good habits spread: everyone in the team comes in early now."
+      }
+    ]
+  },
+  {
+    "id": "imkan",
+    "word": "imkân",
+    "meaning": "possibility, means, opportunity",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"İmkânsız\" = impossible. \"İmkânım yok\" = I don't have the means.",
+    "examples": [
+      {
+        "tr": "Yurt dışında okuma imkânım olmadı.",
+        "en": "I didn't have the opportunity to study abroad."
+      },
+      {
+        "tr": "Bu şehirde spor imkânları çok fazla.",
+        "en": "There are lots of sports facilities in this city."
+      },
+      {
+        "tr": "Bunu bir günde bitirmek imkânsız.",
+        "en": "It's impossible to finish this in one day."
+      },
+      {
+        "tr": "İmkânın varsa bize yardım et.",
+        "en": "If you're able to, help us."
+      }
+    ]
+  },
+  {
+    "id": "vicdan",
+    "word": "vicdan",
+    "meaning": "conscience",
+    "partOfSpeech": "noun",
+    "level": "C1",
+    "tip": "\"Vicdanlı\" = conscientious, humane. \"Vicdan azabı\" = guilty conscience.",
+    "examples": [
+      {
+        "tr": "Vicdanım rahat, elimden geleni yaptım.",
+        "en": "My conscience is clear, I did my best."
+      },
+      {
+        "tr": "Yalan söyledikten sonra vicdan azabı çektim.",
+        "en": "I felt guilty after lying."
+      },
+      {
+        "tr": "Biraz vicdanlı ol, adam saatlerdir bekliyor.",
+        "en": "Have a heart, the man has been waiting for hours."
+      },
+      {
+        "tr": "Bu karar vicdanıma sığmıyor.",
+        "en": "I can't reconcile this decision with my conscience."
+      }
+    ]
+  },
+  {
+    "id": "kacinilmaz",
+    "word": "kaçınılmaz",
+    "meaning": "inevitable, unavoidable",
+    "partOfSpeech": "adjective",
+    "level": "B2",
+    "tip": "From \"kaçınmak\" (to avoid).",
+    "examples": [
+      {
+        "tr": "Bu kadar yağmurdan sonra sel kaçınılmazdı.",
+        "en": "After this much rain, flooding was inevitable."
+      },
+      {
+        "tr": "Değişim kaçınılmaz, ona uyum sağlamalıyız.",
+        "en": "Change is inevitable, we must adapt to it."
+      },
+      {
+        "tr": "Yorgunluk yüzünden hata yapmak kaçınılmaz oluyor.",
+        "en": "Making mistakes becomes unavoidable when you're tired."
+      },
+      {
+        "tr": "Tartışmadan kaçınmaya çalıştım.",
+        "en": "I tried to avoid an argument."
+      }
+    ]
+  },
+  {
+    "id": "nitekim",
+    "word": "nitekim",
+    "meaning": "indeed, as a matter of fact",
+    "partOfSpeech": "adverb",
+    "level": "B2",
+    "tip": "Used to show that something confirmed what was said before.",
+    "examples": [
+      {
+        "tr": "Yağmur yağacak demiştim, nitekim yağdı.",
+        "en": "I said it would rain, and indeed it did."
+      },
+      {
+        "tr": "İyi hazırlanmıştı, nitekim sınavı kolayca geçti.",
+        "en": "He had prepared well, and sure enough he passed the exam easily."
+      },
+      {
+        "tr": "Fiyatların artacağı belliydi, nitekim arttı.",
+        "en": "It was clear prices would rise, and indeed they did."
+      },
+      {
+        "tr": "Onun haklı olduğunu biliyordum, nitekim öyle çıktı.",
+        "en": "I knew he was right, and as it turned out, he was."
+      }
+    ]
+  },
+  {
+    "id": "surekli",
+    "word": "sürekli",
+    "meaning": "constantly, continuous",
+    "partOfSpeech": "adverb",
+    "level": "B2",
+    "tip": "Also an adjective: \"sürekli iş\" = permanent job.",
+    "examples": [
+      {
+        "tr": "Telefonum sürekli çalıyor.",
+        "en": "My phone keeps ringing."
+      },
+      {
+        "tr": "Sürekli aynı hatayı yapıyorum.",
+        "en": "I keep making the same mistake."
+      },
+      {
+        "tr": "Sürekli bir işe ihtiyacım var.",
+        "en": "I need a permanent job."
+      },
+      {
+        "tr": "Sürekli şikayet etmek kimseye yaramaz.",
+        "en": "Constantly complaining doesn't help anyone."
+      }
+    ]
+  },
+  {
+    "id": "sukunet",
+    "word": "sükûnet",
+    "meaning": "calm, tranquillity",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Literary and formal. \"Sükûnetle\" = calmly.",
+    "examples": [
+      {
+        "tr": "Kriz anında sükûnetini korudu.",
+        "en": "She kept her calm during the crisis."
+      },
+      {
+        "tr": "Köyün sükûneti bana çok iyi geldi.",
+        "en": "The tranquillity of the village did me a lot of good."
+      },
+      {
+        "tr": "Lütfen sükûnetle sıranızı bekleyin.",
+        "en": "Please wait your turn calmly."
+      },
+      {
+        "tr": "Fırtınadan sonra denize sükûnet geldi.",
+        "en": "Calm returned to the sea after the storm."
+      }
+    ]
+  },
+  {
+    "id": "ivedi",
+    "word": "ivedi",
+    "meaning": "urgent, prompt",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "Formal. \"İvedilikle\" = urgently, promptly (common in official emails).",
+    "examples": [
+      {
+        "tr": "Konunun ivedilikle çözülmesini rica ediyoruz.",
+        "en": "We request that the matter be resolved promptly."
+      },
+      {
+        "tr": "İvedi bir karar vermemiz gerekiyor.",
+        "en": "We need to make an urgent decision."
+      },
+      {
+        "tr": "Belgeleri ivedilikle göndermeniz önemlidir.",
+        "en": "It's important that you send the documents promptly."
+      },
+      {
+        "tr": "Durum ivedi müdahale gerektiriyor.",
+        "en": "The situation requires urgent intervention."
+      }
+    ]
+  },
+  {
+    "id": "agirlamak",
+    "word": "ağırlamak",
+    "meaning": "to host, to entertain (guests)",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "Turkish hospitality in one word. \"Ağırlamak\" is warmer than just \"to host\".",
+    "examples": [
+      {
+        "tr": "Bu akşam yurt dışından gelen misafirleri ağırlıyoruz.",
+        "en": "We're hosting guests from abroad this evening."
+      },
+      {
+        "tr": "Bizi çok güzel ağırladınız, teşekkür ederiz.",
+        "en": "You hosted us wonderfully, thank you."
+      },
+      {
+        "tr": "Şehir bu yaz büyük bir festivali ağırlayacak.",
+        "en": "The city will host a big festival this summer."
+      },
+      {
+        "tr": "Annem misafir ağırlamayı çok sever.",
+        "en": "My mother loves having guests over."
+      }
+    ]
+  },
+  {
+    "id": "ayagini-yorganina-gore-uzat",
+    "word": "ayağını yorganına göre uzat",
+    "meaning": "live within your means",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"stretch your legs according to your quilt\". A classic proverb about money.",
+    "examples": [
+      {
+        "tr": "Babam hep \"ayağını yorganına göre uzat\" derdi.",
+        "en": "My father always said \"cut your coat according to your cloth\"."
+      },
+      {
+        "tr": "Kredi kartıyla alışveriş yapmadan önce ayağını yorganına göre uzat.",
+        "en": "Before shopping on credit, live within your means."
+      },
+      {
+        "tr": "Ayağımızı yorganımıza göre uzatıp küçük bir ev tuttuk.",
+        "en": "We lived within our means and rented a small house."
+      },
+      {
+        "tr": "Bu ay ayağımı yorganıma göre uzatmam lazım.",
+        "en": "This month I need to be careful with money."
+      }
+    ]
+  },
+  {
+    "id": "muhakeme",
+    "word": "muhakeme",
+    "meaning": "judgement, reasoning",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Muhakeme yeteneği\" = the ability to reason.",
+    "examples": [
+      {
+        "tr": "Sağlıklı muhakeme için önce sakinleşmelisin.",
+        "en": "You should calm down first to judge soundly."
+      },
+      {
+        "tr": "Muhakeme yeteneği çok güçlü bir avukat.",
+        "en": "She's a lawyer with very strong reasoning skills."
+      },
+      {
+        "tr": "Yorgunken muhakememiz zayıflıyor.",
+        "en": "Our judgement weakens when we're tired."
+      },
+      {
+        "tr": "Durumu iyice muhakeme ettikten sonra karar verdi.",
+        "en": "He decided after weighing up the situation carefully."
+      }
+    ]
+  },
+  {
+    "id": "hasret",
+    "word": "hasret",
+    "meaning": "longing, yearning",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Deeper than \"özlem\". \"Hasret kalmak\" = to long for something missing.",
+    "examples": [
+      {
+        "tr": "Yıllardır memleketine hasret.",
+        "en": "He has longed for his hometown for years."
+      },
+      {
+        "tr": "Anneme hasret kaldım.",
+        "en": "I've been yearning to see my mother."
+      },
+      {
+        "tr": "Gurbette insan en çok ev yemeğine hasret kalıyor.",
+        "en": "Abroad, what you long for most is home cooking."
+      },
+      {
+        "tr": "Hasretle kucaklaştılar.",
+        "en": "They embraced with longing."
+      }
+    ]
+  },
+  {
+    "id": "nafile",
+    "word": "nafile",
+    "meaning": "in vain, useless",
+    "partOfSpeech": "adjective",
+    "level": "C2",
+    "tip": "\"Nafile uğraşmak\" = to try in vain.",
+    "examples": [
+      {
+        "tr": "Onu ikna etmeye çalışmak nafile.",
+        "en": "Trying to convince him is useless."
+      },
+      {
+        "tr": "Bütün çabalarımız nafile oldu.",
+        "en": "All our efforts were in vain."
+      },
+      {
+        "tr": "Nafile, kapı açılmıyor.",
+        "en": "It's no use, the door won't open."
+      },
+      {
+        "tr": "Nafile yere zaman kaybetmeyelim.",
+        "en": "Let's not waste time for nothing."
+      }
+    ]
+  },
+  {
+    "id": "benimsemek",
+    "word": "benimsemek",
+    "meaning": "to adopt, to embrace",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "For ideas, habits and values: \"yeni bir yaklaşım benimsemek\".",
+    "examples": [
+      {
+        "tr": "Daha sade bir yaşam tarzı benimsedim.",
+        "en": "I've adopted a simpler lifestyle."
+      },
+      {
+        "tr": "Ekip yeni sistemi hemen benimsedi.",
+        "en": "The team embraced the new system right away."
+      },
+      {
+        "tr": "Bu fikri benimsemem biraz zaman aldı.",
+        "en": "It took me some time to warm to this idea."
+      },
+      {
+        "tr": "Şirket esnek çalışma modelini benimsedi.",
+        "en": "The company adopted a flexible working model."
+      }
+    ]
+  },
+  {
+    "id": "ihtimal",
+    "word": "ihtimal",
+    "meaning": "probability, likelihood",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Büyük ihtimalle\" = most likely. \"İhtimali var\" = there's a chance.",
+    "examples": [
+      {
+        "tr": "Büyük ihtimalle yarın gelirim.",
+        "en": "Most likely I'll come tomorrow."
+      },
+      {
+        "tr": "Yağmur yağma ihtimali yüksek.",
+        "en": "There's a high chance of rain."
+      },
+      {
+        "tr": "Her ihtimale karşı şemsiye al.",
+        "en": "Take an umbrella just in case."
+      },
+      {
+        "tr": "Bu ihtimali hiç düşünmemiştim.",
+        "en": "I had never considered this possibility."
+      }
+    ]
+  },
+  {
+    "id": "kapsamli",
+    "word": "kapsamlı",
+    "meaning": "comprehensive, extensive",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "\"Kapsam\" = scope.",
+    "examples": [
+      {
+        "tr": "Kapsamlı bir sağlık kontrolünden geçtim.",
+        "en": "I had a comprehensive health check."
+      },
+      {
+        "tr": "Konuyla ilgili kapsamlı bir araştırma yaptık.",
+        "en": "We did extensive research on the subject."
+      },
+      {
+        "tr": "Projenin kapsamını daraltmamız lazım.",
+        "en": "We need to narrow the scope of the project."
+      },
+      {
+        "tr": "Bu kitap konuyu çok kapsamlı ele alıyor.",
+        "en": "This book covers the subject very comprehensively."
+      }
+    ]
+  },
+  {
+    "id": "asiri",
+    "word": "aşırı",
+    "meaning": "excessive, extremely",
+    "partOfSpeech": "adjective",
+    "level": "C1",
+    "tip": "Also an adverb: \"aşırı sıcak\" = extremely hot. Casual speech uses it a lot.",
+    "examples": [
+      {
+        "tr": "Aşırı yorgunluk hastalığa yol açabilir.",
+        "en": "Excessive tiredness can lead to illness."
+      },
+      {
+        "tr": "Bugün hava aşırı sıcak.",
+        "en": "The weather is extremely hot today."
+      },
+      {
+        "tr": "Aşırıya kaçmadan kutlayalım.",
+        "en": "Let's celebrate without going overboard."
+      },
+      {
+        "tr": "Aşırı tüketim çevreye zarar veriyor.",
+        "en": "Excessive consumption harms the environment."
+      }
+    ]
+  },
+  {
+    "id": "ilgilenmek",
+    "word": "ilgilenmek",
+    "meaning": "to be interested in, to take care of",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the instrumental: \"müzikle ilgilenmek\". Also \"to deal with\": \"Bu işle ben ilgilenirim.\"",
+    "examples": [
+      {
+        "tr": "Fotoğrafçılıkla ilgileniyorum.",
+        "en": "I'm interested in photography."
+      },
+      {
+        "tr": "Merak etme, bu işle ben ilgilenirim.",
+        "en": "Don't worry, I'll take care of this."
+      },
+      {
+        "tr": "Hemşire hastalarla çok güzel ilgileniyor.",
+        "en": "The nurse takes great care of the patients."
+      },
+      {
+        "tr": "Kimse benimle ilgilenmedi, yarım saat bekledim.",
+        "en": "Nobody attended to me, I waited half an hour."
+      }
+    ]
+  },
+  {
+    "id": "tereddut",
+    "word": "tereddüt",
+    "meaning": "hesitation",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Tereddüt etmek\" = to hesitate. \"Tereddütsüz\" = without hesitation.",
+    "examples": [
+      {
+        "tr": "Hiç tereddüt etmeden kabul ettim.",
+        "en": "I accepted without any hesitation."
+      },
+      {
+        "tr": "Bir an tereddüt ettim, sonra konuştum.",
+        "en": "I hesitated for a moment, then I spoke."
+      },
+      {
+        "tr": "Sorunuz olursa sormaktan tereddüt etmeyin.",
+        "en": "If you have questions, don't hesitate to ask."
+      },
+      {
+        "tr": "Sesindeki tereddüt dikkatimi çekti.",
+        "en": "The hesitation in his voice caught my attention."
+      }
+    ]
+  },
+  {
+    "id": "savunmak",
+    "word": "savunmak",
+    "meaning": "to defend, to argue for",
+    "partOfSpeech": "verb",
+    "level": "C2",
+    "tip": "\"Savunma\" = defence. \"Tezini savunmak\" = to defend one's thesis.",
+    "examples": [
+      {
+        "tr": "Fikrini sonuna kadar savundu.",
+        "en": "She defended her idea to the end."
+      },
+      {
+        "tr": "Yarın tezimi savunacağım.",
+        "en": "I'm defending my thesis tomorrow."
+      },
+      {
+        "tr": "Herkes bu kararı eleştirirken o savundu.",
+        "en": "While everyone criticised the decision, he defended it."
+      },
+      {
+        "tr": "Kendini savunmak için hiçbir şey söylemedi.",
+        "en": "He said nothing to defend himself."
+      }
+    ]
+  },
+  {
+    "id": "nabzina-gore-serbet-vermek",
+    "word": "nabzına göre şerbet vermek",
+    "meaning": "to tell people what they want to hear",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"to give sherbet according to someone's pulse\".",
+    "examples": [
+      {
+        "tr": "Politikacılar hep nabza göre şerbet veriyor.",
+        "en": "Politicians always tell people what they want to hear."
+      },
+      {
+        "tr": "Patronun nabzına göre şerbet vermeyi iyi biliyor.",
+        "en": "He knows how to humour the boss."
+      },
+      {
+        "tr": "Ben nabza göre şerbet vermem, doğruyu söylerim.",
+        "en": "I don't just tell people what they want to hear, I tell the truth."
+      },
+      {
+        "tr": "Herkese nabzına göre şerbet verince kimse ona güvenmiyor.",
+        "en": "Since he tells everyone what they want to hear, nobody trusts him."
+      }
+    ]
+  },
+  {
+    "id": "kaygi",
+    "word": "kaygı",
+    "meaning": "anxiety, concern",
+    "partOfSpeech": "noun",
+    "level": "B2",
+    "tip": "\"Kaygılı\" = anxious. \"Sınav kaygısı\" = exam anxiety.",
+    "examples": [
+      {
+        "tr": "Sınav kaygısını yenmek için nefes egzersizleri yapıyorum.",
+        "en": "I do breathing exercises to overcome exam anxiety."
+      },
+      {
+        "tr": "Geleceğe dair kaygılarım var.",
+        "en": "I have concerns about the future."
+      },
+      {
+        "tr": "Kaygılanacak bir şey yok.",
+        "en": "There's nothing to be concerned about."
+      },
+      {
+        "tr": "Annemin kaygılı sesi beni de endişelendirdi.",
+        "en": "My mother's anxious voice worried me too."
+      }
+    ]
+  },
+  {
+    "id": "teveccuh",
+    "word": "teveccüh",
+    "meaning": "favour, kind regard",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Polite reply to praise: \"Teveccühünüz\" = You're too kind.",
+    "examples": [
+      {
+        "tr": "\"Harika bir konuşmaydı.\" \"Teveccühünüz.\"",
+        "en": "\"It was a wonderful speech.\" \"You're too kind.\""
+      },
+      {
+        "tr": "Halkın teveccühünü kazandı.",
+        "en": "He won the public's favour."
+      },
+      {
+        "tr": "Gösterdiğiniz teveccüh için teşekkür ederim.",
+        "en": "Thank you for your kind regard."
+      },
+      {
+        "tr": "Sanatçıya olan teveccüh yıllardır azalmadı.",
+        "en": "The public's affection for the artist hasn't faded for years."
+      }
+    ]
+  },
+  {
+    "id": "katlanmak",
+    "word": "katlanmak",
+    "meaning": "to put up with, to endure / to fold",
+    "partOfSpeech": "verb",
+    "level": "B2",
+    "tip": "Takes the dative: \"gürültüye katlanmak\". Also \"to fold\": \"katlanır sandalye\".",
+    "examples": [
+      {
+        "tr": "Bu gürültüye daha fazla katlanamam.",
+        "en": "I can't put up with this noise any longer."
+      },
+      {
+        "tr": "Sevdiğin iş için bazı zorluklara katlanırsın.",
+        "en": "You put up with some difficulties for a job you love."
+      },
+      {
+        "tr": "Masraflara ben katlanacağım.",
+        "en": "I'll bear the costs."
+      },
+      {
+        "tr": "Katlanır bir bisiklet aldım.",
+        "en": "I bought a folding bike."
+      }
+    ]
+  },
+  {
+    "id": "ehemmiyet",
+    "word": "ehemmiyet",
+    "meaning": "importance",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "Formal and old-fashioned synonym of \"önem\". \"Ehemmiyetsiz\" = unimportant.",
+    "examples": [
+      {
+        "tr": "Bu meseleye büyük ehemmiyet veriyoruz.",
+        "en": "We attach great importance to this matter."
+      },
+      {
+        "tr": "Ehemmiyetli bir karar almamız gerekiyor.",
+        "en": "We need to make an important decision."
+      },
+      {
+        "tr": "Dedem her zaman sağlığın ehemmiyetinden bahsederdi.",
+        "en": "My grandfather always spoke of the importance of health."
+      },
+      {
+        "tr": "Ehemmiyeti yok, boş ver.",
+        "en": "It's of no importance, forget it."
+      }
+    ]
+  },
+  {
+    "id": "istisna",
+    "word": "istisna",
+    "meaning": "exception",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"İstisnasız\" = without exception. \"İstisnai\" = exceptional.",
+    "examples": [
+      {
+        "tr": "Kural herkes için geçerli, istisna yok.",
+        "en": "The rule applies to everyone, no exceptions."
+      },
+      {
+        "tr": "İstisnasız herkes toplantıya katıldı.",
+        "en": "Everyone without exception attended the meeting."
+      },
+      {
+        "tr": "Bu seferlik bir istisna yapalım.",
+        "en": "Let's make an exception this time."
+      },
+      {
+        "tr": "İstisnai durumlarda erken çıkabilirsiniz.",
+        "en": "In exceptional circumstances you may leave early."
+      }
+    ]
+  },
+  {
+    "id": "pireyi-deve-yapmak",
+    "word": "pireyi deve yapmak",
+    "meaning": "to make a mountain out of a molehill",
+    "partOfSpeech": "expression",
+    "level": "C2",
+    "tip": "Literally \"to make a flea into a camel\".",
+    "examples": [
+      {
+        "tr": "Pireyi deve yapma, küçük bir çizik sadece.",
+        "en": "Don't make a mountain out of a molehill, it's just a small scratch."
+      },
+      {
+        "tr": "Her şeyi pireyi deve yaparak anlatıyor.",
+        "en": "She blows everything out of proportion."
+      },
+      {
+        "tr": "Küçük bir yanlış anlaşılmayı pireyi deve yapıp kavgaya çevirdiler.",
+        "en": "They blew a small misunderstanding out of proportion and turned it into a fight."
+      },
+      {
+        "tr": "Pireyi deve yapacak bir şey yok, halledilir.",
+        "en": "There's no need to overreact, it can be sorted out."
+      }
+    ]
+  },
+  {
+    "id": "bilakis",
+    "word": "bilakis",
+    "meaning": "on the contrary",
+    "partOfSpeech": "adverb",
+    "level": "C1",
+    "tip": "Formal. The everyday version is \"tam tersine\".",
+    "examples": [
+      {
+        "tr": "Kızgın değilim, bilakis çok memnunum.",
+        "en": "I'm not angry, on the contrary I'm very pleased."
+      },
+      {
+        "tr": "Bu karar işleri kolaylaştırmadı, tam tersine zorlaştırdı.",
+        "en": "This decision didn't make things easier, on the contrary it made them harder."
+      },
+      {
+        "tr": "Yardımın bana yük olmadı, bilakis çok işime yaradı.",
+        "en": "Your help wasn't a burden, on the contrary it was very useful."
+      },
+      {
+        "tr": "Onu suçlamıyorum, bilakis anlıyorum.",
+        "en": "I don't blame him, on the contrary I understand him."
+      }
+    ]
+  },
+  {
+    "id": "ozenmek",
+    "word": "özenmek",
+    "meaning": "to take care over / to aspire to, to envy",
+    "partOfSpeech": "verb",
+    "level": "C1",
+    "tip": "Dative: \"işine özenmek\" (take pains with). Also \"birine özenmek\" (to want to be like someone).",
+    "examples": [
+      {
+        "tr": "Sunuma çok özenmişsin, belli oluyor.",
+        "en": "You clearly took great care over the presentation."
+      },
+      {
+        "tr": "Kardeşim her konuda ağabeyine özeniyor.",
+        "en": "My little brother wants to be like his older brother in everything."
+      },
+      {
+        "tr": "Masayı özenle hazırladı.",
+        "en": "She set the table with great care."
+      },
+      {
+        "tr": "Özensiz yapılan iş iki kez yapılır.",
+        "en": "Careless work gets done twice."
+      }
+    ]
+  },
+  {
+    "id": "kulak-asmamak",
+    "word": "kulak asmamak",
+    "meaning": "to ignore, to not listen",
+    "partOfSpeech": "expression",
+    "level": "C1",
+    "tip": "Literally \"to not hang an ear\". Used for advice or warnings ignored.",
+    "examples": [
+      {
+        "tr": "Uyarılarıma hiç kulak asmadı.",
+        "en": "He paid no attention to my warnings."
+      },
+      {
+        "tr": "Dedikodulara kulak asma.",
+        "en": "Don't listen to gossip."
+      },
+      {
+        "tr": "Doktorun tavsiyelerine kulak asmayınca hastalığı ilerledi.",
+        "en": "When he ignored the doctor's advice, his illness got worse."
+      },
+      {
+        "tr": "Eleştirilere kulak asmadan yoluna devam etti.",
+        "en": "She carried on without heeding the criticism."
+      }
+    ]
+  },
+  {
+    "id": "vesile",
+    "word": "vesile",
+    "meaning": "means, occasion",
+    "partOfSpeech": "noun",
+    "level": "C2",
+    "tip": "\"Vesile olmak\" = to be the means of. \"Bu vesileyle\" = on this occasion (formal speeches).",
+    "examples": [
+      {
+        "tr": "Bu vesileyle hepinize teşekkür ederim.",
+        "en": "I'd like to take this opportunity to thank you all."
+      },
+      {
+        "tr": "Tanışmamıza sen vesile oldun.",
+        "en": "You were the reason we met."
+      },
+      {
+        "tr": "Her şeyi bir tartışmaya vesile yapıyor.",
+        "en": "He turns everything into an occasion for an argument."
+      },
+      {
+        "tr": "Bayramlar aileleri bir araya getirmeye vesile olur.",
+        "en": "Holidays are an occasion to bring families together."
+      }
+    ]
   }
 ]

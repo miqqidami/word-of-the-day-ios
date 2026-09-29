@@ -29,6 +29,11 @@ targets:
             CFBundleURLName: wordoftheday
             CFBundleURLSchemes:
               - wordoftheday
+    entitlements:
+      path: WordOfTheDayApp/WordOfTheDayApp.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.miqdam.wordoftheday
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday
@@ -50,6 +55,11 @@ targets:
         CFBundleDisplayName: Kelime
         NSExtension:
           NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    entitlements:
+      path: WordOfTheDayWidget/WordOfTheDayWidget.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.miqdam.wordoftheday
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.miqdam.wordoftheday.widgetv2

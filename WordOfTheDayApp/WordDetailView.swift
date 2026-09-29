@@ -4,8 +4,11 @@ import SwiftUI
 struct WordDetailView: View {
     let word: Word
     let subtitle: String?
+    /// Shown as a "Next word" button when set (today's word only).
+    var onNext: (() -> Void)?
 
     @StateObject private var speaker = Speaker()
+    @State private var nextTaps = 0
 
     var body: some View {
         ScrollView {
@@ -13,6 +16,9 @@ struct WordDetailView: View {
                 header
                 tipCard
                 examples
+                if let onNext {
+                    nextButton(action: onNext)
+                }
             }
             .padding()
         }
@@ -43,6 +49,29 @@ struct WordDetailView: View {
                 .foregroundStyle(.secondary)
                 .textSelection(.enabled)
         }
+    }
+
+    private func nextButton(action: @escaping () -> Void) -> some View {
+        VStack(spacing: 8) {
+            Button {
+                nextTaps += 1
+                action()
+            } label: {
+                Label("Next word", systemImage: "arrow.forward")
+                    .font(.body.weight(.semibold))
+                    .frame(maxWidth: .infinity)
+            }
+            .buttonStyle(.bordered)
+            .controlSize(.large)
+            .tint(.red)
+            .sensoryFeedback(.impact(weight: .light), trigger: nextTaps)
+
+            Text("Shows a new word now, on the widget too. Tomorrow's word still arrives at 7 AM.")
+                .font(.footnote)
+                .foregroundStyle(.secondary)
+                .multilineTextAlignment(.center)
+        }
+        .padding(.top, 4)
     }
 
     private var tipCard: some View {

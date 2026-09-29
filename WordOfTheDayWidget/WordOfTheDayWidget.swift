@@ -10,7 +10,8 @@ struct WordWidgetProvider: TimelineProvider {
     /// How many upcoming 07:00 rollovers to schedule ahead, so the word still
     /// changes on time if WidgetKit delays the next reload.
     private let daysAhead = 7
-    private let schedule = DailySchedule()
+    /// Rebuilt on every request so a "Next word" tap in the app is picked up.
+    private var schedule: DailySchedule { DailySchedule() }
 
     func placeholder(in context: Context) -> WordWidgetEntry {
         WordWidgetEntry(date: Date(), word: schedule.word(for: Date()))

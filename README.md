@@ -10,11 +10,14 @@ sentences (each can be read aloud with the Turkish system voice).
 - **Never repeats**: the word list is stored in a fixed random order and day N
   shows word N, so every word appears exactly once until the whole list has been
   shown (about a year). The app's **Past words** screen lists everything shown so far.
+- **Next word**: want more than one a day? Tap **Next word** under today's word
+  to move on right away (the widget follows). It just takes the next word in the
+  list, so nothing repeats, and tomorrow's word still arrives at 7:00. The taps
+  are shared with the widget through the App Group `group.com.miqdam.wordoftheday`.
 - **Widgets**: lock screen (rectangular + inline) and home screen (small + medium).
   The timeline schedules the next seven 07:00 changes ahead of time, so the word
   switches on time even if iOS delays the widget refresh.
-- Works fully offline and needs no App Group, so it builds with a free Apple ID
-  (Personal Team).
+- Works fully offline and builds with a free Apple ID (Personal Team).
 
 ## Build and install
 

@@ -4,6 +4,7 @@ enum AppConfig {
     static let widgetKind = "TurkishWordOfTheDay"
     static let sentenceWidgetKind = "TurkishSentenceOfTheDay"
     static let urlScheme = "wordoftheday"
+    static let appGroupID = "group.com.miqdam.wordoftheday"
 
     /// The word changes every day at this local hour.
     static let rolloverHour = 7
